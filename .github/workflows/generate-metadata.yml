@@ -1,0 +1,347 @@
+##############################################################################
+# FILE: .github/workflows/generate-metadata.yml
+# REPO: gajala-sonic-solutions/m4a-db  (place this file in THAT repo)
+#
+# Trigger: Any release published, edited, or unpublished
+#          Also: manual workflow_dispatch
+#
+# What it does:
+#   1. Scans ALL releases in the repo via GitHub API
+#   2. For each release, parses .m4a filenames → structured metadata
+#   3. Generates data/<release-tag>.json  (per-album)
+#   4. Generates data/albums.json         (master index)
+#   5. Commits + pushes to main
+#   6. (Optional) Triggers swara app rebuild via repository_dispatch
+##############################################################################
+
+name: Generate Music Metadata
+
+on:
+  release:
+    types: [published, edited, unpublished, deleted]
+  workflow_dispatch:
+    inputs:
+      force_regenerate:
+        description: 'Force regenerate all metadata from scratch'
+        required: false
+        default: 'false'
+
+concurrency:
+  group: generate-metadata
+  cancel-in-progress: false   # Don't cancel; let each run complete
+
+permissions:
+  contents: write   # needed to push generated JSON
+
+jobs:
+  generate:
+    name: Scan releases & generate metadata
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────
+      - name: Checkout m4a-db
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # Fetch enough history for git operations
+          fetch-depth: 1
+
+      # ── 2. Setup ─────────────────────────────────────────────────────────
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # ── 3. Generate metadata ─────────────────────────────────────────────
+      - name: Generate metadata from releases
+        id: generate
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          FORCE: ${{ github.event.inputs.force_regenerate || 'false' }}
+        run: |
+          node - << 'EOF'
+          ///////////////////////////////////////////////////////////////////
+          // INLINE NODE.JS SCRIPT
+          // Generates albums.json + per-album JSON from GitHub release assets
+          ///////////////////////////////////////////////////////////////////
+          const https = require('https');
+          const fs    = require('fs');
+          const path  = require('path');
+
+          const REPO  = process.env.REPO;
+          const TOKEN = process.env.GITHUB_TOKEN;
+
+          // ─── Helpers ─────────────────────────────────────────────────
+
+          function httpsGet(url, headers = {}) {
+            return new Promise((resolve, reject) => {
+              const opts = {
+                headers: {
+                  'User-Agent': 'swara-metadata-generator/1.0',
+                  'Authorization': `Bearer ${TOKEN}`,
+                  'Accept': 'application/vnd.github+json',
+                  'X-GitHub-Api-Version': '2022-11-28',
+                  ...headers,
+                },
+              };
+              https.get(url, opts, (res) => {
+                if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                  return resolve(httpsGet(res.headers.location, headers));
+                }
+                let data = '';
+                res.on('data', d => data += d);
+                res.on('end', () => {
+                  try { resolve(JSON.parse(data)); }
+                  catch { resolve(data); }
+                });
+              }).on('error', reject);
+            });
+          }
+
+          // Paginate GitHub API
+          async function getAllPages(path) {
+            let page = 1, all = [];
+            while (true) {
+              const url = `https://api.github.com/repos/${REPO}${path}${path.includes('?') ? '&' : '?'}per_page=100&page=${page}`;
+              const data = await httpsGet(url);
+              if (!Array.isArray(data) || data.length === 0) break;
+              all = all.concat(data);
+              if (data.length < 100) break;
+              page++;
+            }
+            return all;
+          }
+
+          // ─── Filename parser ─────────────────────────────────────────
+          // MUST match src/lib/parseFilename.ts exactly
+
+          function decodeSegment(seg) {
+            return seg.replace(/_/g, ' ').trim();
+          }
+
+          function parseArtists(singersSegment) {
+            if (!singersSegment) return ['Unknown Artist'];
+            return singersSegment.split('+').map(a => decodeSegment(a)).filter(Boolean);
+          }
+
+          function formatArtistsDisplay(artists) {
+            if (!artists.length) return 'Unknown Artist';
+            if (artists.length === 1) return artists[0];
+            if (artists.length === 2) return `${artists[0]} & ${artists[1]}`;
+            return artists.slice(0, -1).join(', ') + ' & ' + artists[artists.length - 1];
+          }
+
+          function parseFilename(filename) {
+            const base = filename.replace(/\.m4a$/i, '');
+            const parts = base.split('--');
+
+            if (parts.length < 3) {
+              console.warn(`  [warn] Skipping malformed filename: "${filename}"`);
+              return null;
+            }
+
+            const trackNumber     = parseInt(parts[0], 10) || 0;
+            const artists         = parseArtists(parts[1]);
+            const artistsDisplay  = formatArtistsDisplay(artists);
+            const titleRaw        = parts.slice(2).join('--');
+            const title           = decodeSegment(titleRaw) || 'Unknown Title';
+
+            return { trackNumber, artists, artistsDisplay, title };
+          }
+
+          // ─── Main ────────────────────────────────────────────────────
+
+          async function main() {
+            console.log(`\nScanning releases for ${REPO}...`);
+
+            const releases = await getAllPages('/releases');
+            const published = releases.filter(r => !r.draft);
+
+            console.log(`Found ${published.length} published release(s).`);
+
+            if (published.length === 0) {
+              console.log('No releases to process. Creating empty albums.json.');
+              const empty = { generated: new Date().toISOString(), repo: REPO, albums: [] };
+              fs.mkdirSync('data', { recursive: true });
+              fs.writeFileSync('data/albums.json', JSON.stringify(empty, null, 2));
+              return;
+            }
+
+            fs.mkdirSync('data', { recursive: true });
+
+            const cdnBase        = `https://cdn.jsdelivr.net/gh/${REPO}@main`;
+            const releasesBase   = `https://github.com/${REPO}/releases/download`;
+
+            const albumEntries = [];
+
+            for (const release of published) {
+              const tag   = release.tag_name;
+              const title = release.name || tag.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+              const body  = release.body || '';
+
+              console.log(`\n  Processing: ${tag} — "${title}"`);
+
+              // Get all assets for this release
+              const assets = await getAllPages(`/releases/${release.id}/assets`);
+              const m4aAssets  = assets.filter(a => a.name.toLowerCase().endsWith('.m4a'));
+              const coverAsset = assets.find(a => a.name === 'cover.webp') ||
+                                 assets.find(a => /^cover\.(jpg|jpeg|png|webp)$/i.test(a.name));
+
+              console.log(`    Assets: ${m4aAssets.length} track(s)${coverAsset ? ' + cover' : ''}`);
+
+              if (m4aAssets.length === 0) {
+                console.log(`    Skipping — no .m4a files found.`);
+                continue;
+              }
+
+              // Parse release body for optional metadata
+              // Supports:
+              //   Year: 2024
+              //   Genre: Bollywood
+              //   Artist: Arijit Singh
+              //   Description: Some text
+              function extractMeta(body, key) {
+                const match = body.match(new RegExp(`^${key}:\\s*(.+)$`, 'im'));
+                return match ? match[1].trim() : '';
+              }
+
+              const year        = extractMeta(body, 'Year')  || new Date(release.published_at).getFullYear().toString();
+              const genre       = extractMeta(body, 'Genre') || '';
+              const description = extractMeta(body, 'Description') || '';
+              const coverUrl    = coverAsset
+                ? `${releasesBase}/${tag}/${coverAsset.name}`
+                : '';
+
+              // Parse and sort tracks
+              const tracks = m4aAssets
+                .map(asset => {
+                  const parsed = parseFilename(asset.name);
+                  if (!parsed) return null;
+                  return {
+                    trackNumber:    parsed.trackNumber,
+                    filename:       asset.name.replace(/\.m4a$/i, ''),
+                    title:          parsed.title,
+                    artists:        parsed.artists,
+                    artistsDisplay: parsed.artistsDisplay,
+                    streamUrl:      `${releasesBase}/${tag}/${asset.name}`,
+                  };
+                })
+                .filter(Boolean)
+                .sort((a, b) => {
+                  if (a.trackNumber !== b.trackNumber) return a.trackNumber - b.trackNumber;
+                  return a.filename.localeCompare(b.filename);
+                });
+
+              console.log(`    Parsed ${tracks.length} track(s):`);
+              tracks.forEach(t => {
+                console.log(`      [${String(t.trackNumber).padStart(2, '0')}] ${t.title} — ${t.artistsDisplay}`);
+              });
+
+              // Derive primary artist (most frequent first artist, then first track's)
+              const artistCount = {};
+              tracks.forEach(t => {
+                const a = t.artists[0];
+                artistCount[a] = (artistCount[a] || 0) + 1;
+              });
+              const primaryArtist = Object.entries(artistCount)
+                .sort((a, b) => b[1] - a[1])[0]?.[0] || '';
+
+              // ── Write per-album JSON ───────────────────────────────────
+              const albumMeta = {
+                id:          tag,
+                title,
+                coverUrl,
+                year,
+                primaryArtist,
+                genre,
+                description,
+                tracks,
+              };
+
+              const metaPath = `data/${tag}.json`;
+              fs.writeFileSync(metaPath, JSON.stringify(albumMeta, null, 2));
+              console.log(`    ✓ Written: ${metaPath}`);
+
+              // ── Accumulate album index entry ───────────────────────────
+              albumEntries.push({
+                id:          tag,
+                title,
+                coverUrl,
+                year,
+                trackCount:  tracks.length,
+                metaUrl:     `${cdnBase}/data/${tag}.json`,
+                primaryArtist,
+                genre,
+              });
+            }
+
+            // Sort albums: newest year first, then alphabetically
+            albumEntries.sort((a, b) => {
+              const yearDiff = (parseInt(b.year, 10) || 0) - (parseInt(a.year, 10) || 0);
+              if (yearDiff !== 0) return yearDiff;
+              return a.title.localeCompare(b.title);
+            });
+
+            // ── Write albums.json ────────────────────────────────────────
+            const albumsJson = {
+              generated: new Date().toISOString(),
+              repo:      REPO,
+              albums:    albumEntries,
+            };
+
+            fs.writeFileSync('data/albums.json', JSON.stringify(albumsJson, null, 2));
+            console.log(`\n✓ Written: data/albums.json (${albumEntries.length} album(s))`);
+            console.log('\nMetadata generation complete.\n');
+          }
+
+          main().catch(err => {
+            console.error('ERROR:', err);
+            process.exit(1);
+          });
+          EOF
+
+      # ── 4. Commit generated JSON ─────────────────────────────────────────
+      - name: Commit metadata
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+
+          # Only commit if there are actual changes
+          if git diff --cached --quiet; then
+            echo "No metadata changes — skipping commit."
+          else
+            CHANGED=$(git diff --cached --stat | tail -1)
+            git commit -m "chore: regenerate metadata [skip ci]
+
+          Triggered by: ${{ github.event_name }}
+          Release: ${{ github.event.release.tag_name || 'manual' }}
+          Changed: ${CHANGED}"
+            git push
+            echo "committed=true" >> $GITHUB_OUTPUT
+          fi
+        id: commit
+
+      # ── 5. Trigger Swara rebuild (optional) ──────────────────────────────
+      # Uncomment and set SWARA_DISPATCH_TOKEN + SWARA_REPO secret to auto-
+      # rebuild the Swara app after metadata is updated.
+      #
+      # - name: Trigger Swara rebuild
+      #   if: steps.commit.outputs.committed == 'true'
+      #   uses: actions/github-script@v7
+      #   with:
+      #     github-token: ${{ secrets.SWARA_DISPATCH_TOKEN }}
+      #     script: |
+      #       await github.rest.repos.createDispatchEvent({
+      #         owner: 'Bharadwaja1557',
+      #         repo:  'swara',
+      #         event_type: 'music-db-updated',
+      #         client_payload: {
+      #           release: '${{ github.event.release.tag_name }}',
+      #           triggered_by: '${{ github.event_name }}',
+      #         },
+      #       });
+      #       console.log('Swara rebuild triggered.');
