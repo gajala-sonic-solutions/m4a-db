@@ -320,7 +320,7 @@ jobs:
           Triggered by: ${{ github.event_name }}
           Release: ${{ github.event.release.tag_name || 'manual' }}
           Changed: ${CHANGED}"
-            git push
+            git push origin HEAD:main
             echo "committed=true" >> $GITHUB_OUTPUT
           fi
         id: commit
