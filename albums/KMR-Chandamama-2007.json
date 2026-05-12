@@ -1,0 +1,61 @@
+{
+  "artist": "K _M _Radhakrishnan",
+  "album": "Chandamama",
+  "year": 2007,
+  "cover": "cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "file": "01--Karthik+Srilekha--Regumullole.m4a",
+      "title": "Regumullole",
+      "singers": [
+        "Karthik",
+        "Srilekha"
+      ]
+    },
+    {
+      "track": 2,
+      "file": "02--Rajesh--Buggey_Bangarama.m4a",
+      "title": "Buggey_Bangarama",
+      "singers": [
+        "Rajesh"
+      ]
+    },
+    {
+      "track": 3,
+      "file": "03--Karunya+Gayatri--Ghallu_Ghallu.m4a",
+      "title": "Ghallu_Ghallu",
+      "singers": [
+        "Karunya",
+        "Gayatri"
+      ]
+    },
+    {
+      "track": 4,
+      "file": "04--Asha_Bhosle+K.M.Radhakrishnan--Naalo_Oohalaku.m4a",
+      "title": "Naalo_Oohalaku",
+      "singers": [
+        "Asha_Bhosle",
+        "K M Radhakrishnan"
+      ]
+    },
+    {
+      "track": 5,
+      "file": "05--Jessi_Gift+Mamatha_Mohandas--Sakkubayiney.m4a",
+      "title": "Sakkubayiney",
+      "singers": [
+        "Jessi_Gift",
+        "Mamatha_Mohandas"
+      ]
+    },
+    {
+      "track": 6,
+      "file": "06--Haricharan+Sujatha--Mukku_Pye_Muddu.m4a",
+      "title": "Mukku_Pye_Muddu",
+      "singers": [
+        "Haricharan",
+        "Sujatha"
+      ]
+    }
+  ]
+}

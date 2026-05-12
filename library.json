@@ -1,0 +1,36 @@
+{
+  "albums": [
+    {
+      "id": "JP-dear-comrade",
+      "artist": "Justin_Prabhakaran",
+      "title": "Dear_Comrade",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/cover.webp",
+      "tracksFile": "albums/JP-dear-comrade.json"
+    },
+    {
+      "id": "ShK-Fidaa-2017",
+      "artist": "Shakthikanth_Karthick",
+      "title": "Fidaa",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/cover.webp",
+      "tracksFile": "albums/ShK-Fidaa-2017.json"
+    },
+    {
+      "id": "SK-supreme-2019",
+      "artist": "Sai_Karthik",
+      "title": "Supreme",
+      "year": 2016,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/cover.webp",
+      "tracksFile": "albums/SK-supreme-2019.json"
+    },
+    {
+      "id": "KMR-Chandamama-2007",
+      "artist": "K _M _Radhakrishnan",
+      "title": "Chandamama",
+      "year": 2007,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/cover.webp",
+      "tracksFile": "albums/KMR-Chandamama-2007.json"
+    }
+  ]
+}

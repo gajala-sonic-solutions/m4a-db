@@ -1,0 +1,77 @@
+{
+  "artist": "Justin_Prabhakaran",
+  "album": "Dear_Comrade",
+  "year": 2019,
+  "cover": "cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "file": "01--Gowtham_Bharadwaj--Nee_Neeli_Kannullona.m4a",
+      "title": "Nee_Neeli_Kannullona",
+      "singers": [
+        "Gowtham_Bharadwaj"
+      ]
+    },
+    {
+      "track": 2,
+      "file": "02--Sid_Sriram+Aishwarya_Ravichandran--Kadalalle.m4a",
+      "title": "Kadalalle",
+      "singers": [
+        "Sid_Sriram",
+        "Aishwarya_Ravichandran"
+      ]
+    },
+    {
+      "track": 3,
+      "file": "03--Gowtham_Bharadwaj+Yamini_Ghantasala--Gira_Gira_Gira.m4a",
+      "title": "Gira_Gira_Gira",
+      "singers": [
+        "Gowtham_Bharadwaj",
+        "Yamini_Ghantasala"
+      ]
+    },
+    {
+      "track": 4,
+      "file": "04--Karthik_Rodriguez--The_Canteen_Song.m4a",
+      "title": "The_Canteen_Song",
+      "singers": [
+        "Karthik_Rodriguez"
+      ]
+    },
+    {
+      "track": 5,
+      "file": "05--Vijay_Deverakonda+Stony_Psyko+MC_Vickey--Comrade_Anthem.m4a",
+      "title": "Comrade_Anthem",
+      "singers": [
+        "Vijay_Deverakonda",
+        "Stony_Psyko",
+        "MC_Vickey"
+      ]
+    },
+    {
+      "track": 6,
+      "file": "06--Naresh_Iyer--Maama_Choodaro.m4a",
+      "title": "Maama_Choodaro",
+      "singers": [
+        "Naresh_Iyer"
+      ]
+    },
+    {
+      "track": 7,
+      "file": "07--Sathya_Prakash+Chinmayi_Sripada--O_Kalala_Kathala.m4a",
+      "title": "O_Kalala_Kathala",
+      "singers": [
+        "Sathya_Prakash",
+        "Chinmayi_Sripada"
+      ]
+    },
+    {
+      "track": 8,
+      "file": "08--Kaala_Bhairava--Yetu_Pone.m4a",
+      "title": "Yetu_Pone",
+      "singers": [
+        "Kaala_Bhairava"
+      ]
+    }
+  ]
+}

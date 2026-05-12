@@ -1,0 +1,52 @@
+{
+  "artist": "Sai_Karthik",
+  "album": "Supreme",
+  "year": 2016,
+  "cover": "cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "file": "01--Jaspreet_Jasz+Divija_Karthik--Taxi_Vaala.m4a",
+      "title": "Taxi_Vaala",
+      "singers": [
+        "Jaspreet_Jasz",
+        "Divija_Karthik"
+      ]
+    },
+    {
+      "track": 2,
+      "file": "02--Karthik+Sooraj_Santhosh+Deepthi_Parthasarathy--Anjaneyudu_Neevadu.m4a",
+      "title": "Anjaneyudu_Neevadu",
+      "singers": [
+        "Karthik",
+        "Sooraj_Santhosh",
+        "Deepthi_Parthasarathy"
+      ]
+    },
+    {
+      "track": 3,
+      "file": "03--Sai_Charan--Bellam_Sridevi.m4a",
+      "title": "Bellam_Sridevi",
+      "singers": [
+        "Sai_Charan"
+      ]
+    },
+    {
+      "track": 4,
+      "file": "04--Krishna_Chaitanya--Chalo_Chalo.m4a",
+      "title": "Chalo_Chalo",
+      "singers": [
+        "Krishna_Chaitanya"
+      ]
+    },
+    {
+      "track": 5,
+      "file": "05--Revanth+K._S._Chithra--Andam_Hindolam_Remix.m4a",
+      "title": "Andam_Hindolam_Remix",
+      "singers": [
+        "Revanth",
+        "K _S _Chithra"
+      ]
+    }
+  ]
+}
