@@ -1,0 +1,88 @@
+{
+  "id": "JP-dear-comrade",
+  "title": "Dear Comrade",
+  "coverUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/cover.webp",
+  "year": "2019",
+  "primaryArtist": "Justin Prabhakaran",
+  "genre": "",
+  "description": "",
+  "tracks": [
+    {
+      "trackNumber": 1,
+      "title": "Nee Neeli Kannullona",
+      "artists": [
+        "Gowtham Bharadwaj"
+      ],
+      "artistsDisplay": "Gowtham Bharadwaj",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/01--Gowtham_Bharadwaj--Nee_Neeli_Kannullona.m4a"
+    },
+    {
+      "trackNumber": 2,
+      "title": "Kadalalle",
+      "artists": [
+        "Sid Sriram",
+        "Aishwarya Ravichandran"
+      ],
+      "artistsDisplay": "Sid Sriram, Aishwarya Ravichandran",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/02--Sid_Sriram%2BAishwarya_Ravichandran--Kadalalle.m4a"
+    },
+    {
+      "trackNumber": 3,
+      "title": "Gira Gira Gira",
+      "artists": [
+        "Gowtham Bharadwaj",
+        "Yamini Ghantasala"
+      ],
+      "artistsDisplay": "Gowtham Bharadwaj, Yamini Ghantasala",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/03--Gowtham_Bharadwaj%2BYamini_Ghantasala--Gira_Gira_Gira.m4a"
+    },
+    {
+      "trackNumber": 4,
+      "title": "The Canteen Song",
+      "artists": [
+        "Karthik Rodriguez"
+      ],
+      "artistsDisplay": "Karthik Rodriguez",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/04--Karthik_Rodriguez--The_Canteen_Song.m4a"
+    },
+    {
+      "trackNumber": 5,
+      "title": "Comrade Anthem",
+      "artists": [
+        "Vijay Deverakonda",
+        "Stony Psyko",
+        "MC Vickey"
+      ],
+      "artistsDisplay": "Vijay Deverakonda, Stony Psyko, MC Vickey",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/05--Vijay_Deverakonda%2BStony_Psyko%2BMC_Vickey--Comrade_Anthem.m4a"
+    },
+    {
+      "trackNumber": 6,
+      "title": "Maama Choodaro",
+      "artists": [
+        "Naresh Iyer"
+      ],
+      "artistsDisplay": "Naresh Iyer",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/06--Naresh_Iyer--Maama_Choodaro.m4a"
+    },
+    {
+      "trackNumber": 7,
+      "title": "O Kalala Kathala",
+      "artists": [
+        "Sathya Prakash",
+        "Chinmayi Sripada"
+      ],
+      "artistsDisplay": "Sathya Prakash, Chinmayi Sripada",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/07--Sathya_Prakash%2BChinmayi_Sripada--O_Kalala_Kathala.m4a"
+    },
+    {
+      "trackNumber": 8,
+      "title": "Yetu Pone",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "artistsDisplay": "Kaala Bhairava",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/08--Kaala_Bhairava--Yetu_Pone.m4a"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "SK-supreme-2019",
+  "title": "Supreme",
+  "coverUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/cover.webp",
+  "year": "2016",
+  "primaryArtist": "Sai Karthik",
+  "genre": "",
+  "description": "",
+  "tracks": [
+    {
+      "trackNumber": 1,
+      "title": "Taxi Vaala",
+      "artists": [
+        "Jaspreet Jasz",
+        "Divija Karthik"
+      ],
+      "artistsDisplay": "Jaspreet Jasz, Divija Karthik",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/01--Jaspreet_Jasz%2BDivija_Karthik--Taxi_Vaala.m4a"
+    },
+    {
+      "trackNumber": 2,
+      "title": "Anjaneyudu Neevadu",
+      "artists": [
+        "Karthik",
+        "Sooraj Santhosh",
+        "Deepthi Parthasarathy"
+      ],
+      "artistsDisplay": "Karthik, Sooraj Santhosh, Deepthi Parthasarathy",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/02--Karthik%2BSooraj_Santhosh%2BDeepthi_Parthasarathy--Anjaneyudu_Neevadu.m4a"
+    },
+    {
+      "trackNumber": 3,
+      "title": "Bellam Sridevi",
+      "artists": [
+        "Sai Charan"
+      ],
+      "artistsDisplay": "Sai Charan",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/03--Sai_Charan--Bellam_Sridevi.m4a"
+    },
+    {
+      "trackNumber": 4,
+      "title": "Chalo Chalo",
+      "artists": [
+        "Krishna Chaitanya"
+      ],
+      "artistsDisplay": "Krishna Chaitanya",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/04--Krishna_Chaitanya--Chalo_Chalo.m4a"
+    },
+    {
+      "trackNumber": 5,
+      "title": "Andam Hindolam Remix",
+      "artists": [
+        "Revanth",
+        "K. S. Chithra"
+      ],
+      "artistsDisplay": "Revanth, K. S. Chithra",
+      "streamUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/05--Revanth%2BK._S._Chithra--Andam_Hindolam_Remix.m4a"
+    }
+  ]
+}

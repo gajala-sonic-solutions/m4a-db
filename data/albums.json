@@ -1,0 +1,26 @@
+{
+  "generated": "2026-05-12T08:01:39.985Z",
+  "repo": "gajala-sonic-solutions/m4a-db",
+  "albums": [
+    {
+      "id": "JP-dear-comrade",
+      "title": "Dear Comrade",
+      "coverUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/cover.webp",
+      "year": "2019",
+      "trackCount": 8,
+      "metaUrl": "https://cdn.jsdelivr.net/gh/gajala-sonic-solutions/m4a-db@main/data/JP-dear-comrade.json",
+      "primaryArtist": "Justin Prabhakaran",
+      "genre": ""
+    },
+    {
+      "id": "SK-supreme-2019",
+      "title": "Supreme",
+      "coverUrl": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/cover.webp",
+      "year": "2016",
+      "trackCount": 5,
+      "metaUrl": "https://cdn.jsdelivr.net/gh/gajala-sonic-solutions/m4a-db@main/data/SK-supreme-2019.json",
+      "primaryArtist": "Sai Karthik",
+      "genre": ""
+    }
+  ]
+}
