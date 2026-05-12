@@ -1,151 +1,151 @@
 {
-  "artist": "Shashwat_Sachdev",
-  "album": "Dhurandhar_The_Revenge",
+  "artist": "Shashwat Sachdev",
+  "album": "Dhurandhar The Revenge",
   "year": 2026,
   "cover": "cover.webp",
   "tracks": [
     {
       "track": 1,
       "file": "01--Shashwat_Sachdev+Bombay_Rockers+Irshad_Kamil+Khan_Saab+Reble+Token+Jasmine_Sandlas+Sudhir_Yaduvanshi--Dhurandhar_The_Revenge_Aari_Aari.m4a",
-      "title": "Dhurandhar_The_Revenge_Aari_Aari",
+      "title": "Dhurandhar The Revenge Aari Aari",
       "singers": [
-        "Shashwat_Sachdev",
-        "Bombay_Rockers",
-        "Irshad_Kamil",
-        "Khan_Saab",
+        "Shashwat Sachdev",
+        "Bombay Rockers",
+        "Irshad Kamil",
+        "Khan Saab",
         "Reble",
         "Token",
-        "Jasmine_Sandlas",
-        "Sudhir_Yaduvanshi"
+        "Jasmine Sandlas",
+        "Sudhir Yaduvanshi"
       ]
     },
     {
       "track": 2,
       "file": "02--Shashwat_Sachdev+Jasmine_Sandlas+Reble--Main_Aur_Tu.m4a",
-      "title": "Main_Aur_Tu",
+      "title": "Main Aur Tu",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jasmine_Sandlas",
+        "Shashwat Sachdev",
+        "Jasmine Sandlas",
         "Reble"
       ]
     },
     {
       "track": 3,
       "file": "03--Shashwat_Sachdev+Khan_Saab+Irshad_Kamil+Nusrat_Fateh_Ali_Khan--Jaan_Se_Guzarte_Hain.m4a",
-      "title": "Jaan_Se_Guzarte_Hain",
+      "title": "Jaan Se Guzarte Hain",
       "singers": [
-        "Shashwat_Sachdev",
-        "Khan_Saab",
-        "Irshad_Kamil",
-        "Nusrat_Fateh_Ali_Khan"
+        "Shashwat Sachdev",
+        "Khan Saab",
+        "Irshad Kamil",
+        "Nusrat Fateh Ali Khan"
       ]
     },
     {
       "track": 4,
       "file": "04--Shashwat_Sachdev+Jubin_Nautiyal+Irshad_Kamil--Aakhri_Ishq.m4a",
-      "title": "Aakhri_Ishq",
+      "title": "Aakhri Ishq",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jubin_Nautiyal",
-        "Irshad_Kamil"
+        "Shashwat Sachdev",
+        "Jubin Nautiyal",
+        "Irshad Kamil"
       ]
     },
     {
       "track": 5,
       "file": "05--Shashwat_Sachdev+Ellisar--Wild_Ride.m4a",
-      "title": "Wild_Ride",
+      "title": "Wild Ride",
       "singers": [
-        "Shashwat_Sachdev",
+        "Shashwat Sachdev",
         "Ellisar"
       ]
     },
     {
       "track": 6,
       "file": "06--Shashwat_Sachdev+Jyoti_Nooran+Jasmine_Sandlas+Reble--Vaari_Jaavan.m4a",
-      "title": "Vaari_Jaavan",
+      "title": "Vaari Jaavan",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jyoti_Nooran",
-        "Jasmine_Sandlas",
+        "Shashwat Sachdev",
+        "Jyoti Nooran",
+        "Jasmine Sandlas",
         "Reble"
       ]
     },
     {
       "track": 7,
       "file": "07--Shashwat_Sachdev+Arijit_Singh+Irshad_Kamil--Phir_Se.m4a",
-      "title": "Phir_Se",
+      "title": "Phir Se",
       "singers": [
-        "Shashwat_Sachdev",
-        "Arijit_Singh",
-        "Irshad_Kamil"
+        "Shashwat Sachdev",
+        "Arijit Singh",
+        "Irshad Kamil"
       ]
     },
     {
       "track": 8,
       "file": "08--Shashwat_Sachdev+Khaled+Sons_of_Yusuf+Nabil_El_Houri--Didi_Sher_E_Baloch.m4a",
-      "title": "Didi_Sher_E_Baloch",
+      "title": "Didi Sher E Baloch",
       "singers": [
-        "Shashwat_Sachdev",
+        "Shashwat Sachdev",
         "Khaled",
-        "Sons_of_Yusuf",
-        "Nabil_El_Houri"
+        "Sons of Yusuf",
+        "Nabil El Houri"
       ]
     },
     {
       "track": 9,
       "file": "09--Shashwat_Sachdev+Token+Vaibhav_Gupta+Shahzad_Ali--Destiny_Mann_Atkeya.m4a",
-      "title": "Destiny_Mann_Atkeya",
+      "title": "Destiny Mann Atkeya",
       "singers": [
-        "Shashwat_Sachdev",
+        "Shashwat Sachdev",
         "Token",
-        "Vaibhav_Gupta",
-        "Shahzad_Ali"
+        "Vaibhav Gupta",
+        "Shahzad Ali"
       ]
     },
     {
       "track": 10,
       "file": "10--Shashwat_Sachdev+Jasmine_Sandlas+Afsana_Khan+Amit_Kumar+Sapna_Mukherjee+Kalyanji_-_Anandji+Anand_Bakshi+Reble--Rang_De_Lal_Oye_Oye.m4a",
-      "title": "Rang_De_Lal_Oye_Oye",
+      "title": "Rang De Lal Oye Oye",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jasmine_Sandlas",
-        "Afsana_Khan",
-        "Amit_Kumar",
-        "Sapna_Mukherjee",
-        "Kalyanji_-_Anandji",
-        "Anand_Bakshi",
+        "Shashwat Sachdev",
+        "Jasmine Sandlas",
+        "Afsana Khan",
+        "Amit Kumar",
+        "Sapna Mukherjee",
+        "Kalyanji - Anandji",
+        "Anand Bakshi",
         "Reble"
       ]
     },
     {
       "track": 11,
       "file": "11--Shashwat_Sachdev+Jasmine_Sandlas+Satinder_Sartaaj--Jaiye_Sajana.m4a",
-      "title": "Jaiye_Sajana",
+      "title": "Jaiye Sajana",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jasmine_Sandlas",
-        "Satinder_Sartaaj"
+        "Shashwat Sachdev",
+        "Jasmine Sandlas",
+        "Satinder Sartaaj"
       ]
     },
     {
       "track": 12,
       "file": "12--Shashwat_Sachdev+Jyoti_Nooran+Kumaar--Tere_Ishq_Ne.m4a",
-      "title": "Tere_Ishq_Ne",
+      "title": "Tere Ishq Ne",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jyoti_Nooran",
+        "Shashwat Sachdev",
+        "Jyoti Nooran",
         "Kumaar"
       ]
     },
     {
       "track": 13,
       "file": "13--Shashwat_Sachdev+Qveen_Herby+Anuradha_Paudwal+Udit_Narayan+Anand-Milind+Sameer--Hum_Pyaar_Karne_Wale.m4a",
-      "title": "Hum_Pyaar_Karne_Wale",
+      "title": "Hum Pyaar Karne Wale",
       "singers": [
-        "Shashwat_Sachdev",
-        "Qveen_Herby",
-        "Anuradha_Paudwal",
-        "Udit_Narayan",
+        "Shashwat Sachdev",
+        "Qveen Herby",
+        "Anuradha Paudwal",
+        "Udit Narayan",
         "Anand-Milind",
         "Sameer"
       ]
@@ -155,9 +155,9 @@
       "file": "14--Shashwat_Sachdev+Jubin_Nautiyal+Nawab_Sadiq_Jung_Bahadur_Hilm--Kanhaiyya.m4a",
       "title": "Kanhaiyya",
       "singers": [
-        "Shashwat_Sachdev",
-        "Jubin_Nautiyal",
-        "Nawab_Sadiq_Jung_Bahadur_Hilm"
+        "Shashwat Sachdev",
+        "Jubin Nautiyal",
+        "Nawab Sadiq Jung Bahadur Hilm"
       ]
     }
   ]

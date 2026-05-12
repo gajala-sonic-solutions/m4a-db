@@ -1,0 +1,57 @@
+{
+  "artist": "Dhibu Ninan Thomas",
+  "album": "Kousalya Krishnamurthy",
+  "year": 2019,
+  "cover": "cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "file": "01--Dhibu_Ninan_Thomas+Yazin_Nizar--Muddabanthi.m4a",
+      "title": "Muddabanthi",
+      "singers": [
+        "Dhibu Ninan Thomas",
+        "Yazin Nizar"
+      ]
+    },
+    {
+      "track": 2,
+      "file": "02--Dhibu_Ninan_Thomas+Ananya_Nair+Rahul_Sipligunj+Roshitha--Raakasi_Gadasu_Pilla.m4a",
+      "title": "Raakasi Gadasu Pilla",
+      "singers": [
+        "Dhibu Ninan Thomas",
+        "Ananya Nair",
+        "Rahul Sipligunj",
+        "Roshitha"
+      ]
+    },
+    {
+      "track": 3,
+      "file": "03--Dhibu_Ninan_Thomas+Swaraag_Keerthan+Manisha_Eerabathini--Repati_Kala.m4a",
+      "title": "Repati Kala",
+      "singers": [
+        "Dhibu Ninan Thomas",
+        "Swaraag Keerthan",
+        "Manisha Eerabathini"
+      ]
+    },
+    {
+      "track": 4,
+      "file": "04--Dhibu_Ninan_Thomas+Revanth+Rabbit_Mac--Savaal_Telugu.m4a",
+      "title": "Savaal Telugu",
+      "singers": [
+        "Dhibu Ninan Thomas",
+        "Revanth",
+        "Rabbit Mac"
+      ]
+    },
+    {
+      "track": 5,
+      "file": "05--Dhibu_Ninan_Thomas+Anurag_Kulkarni--Ooge_Pachani.m4a",
+      "title": "Ooge Pachani",
+      "singers": [
+        "Dhibu Ninan Thomas",
+        "Anurag Kulkarni"
+      ]
+    }
+  ]
+}

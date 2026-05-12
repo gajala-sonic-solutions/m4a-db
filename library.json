@@ -2,31 +2,39 @@
   "albums": [
     {
       "id": "SS-Dhurandhar-The-Revenge-2026",
-      "artist": "Shashwat_Sachdev",
-      "title": "Dhurandhar_The_Revenge",
+      "artist": "Shashwat Sachdev",
+      "title": "Dhurandhar The Revenge",
       "year": 2026,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/cover.webp",
       "tracksFile": "albums/SS-Dhurandhar-The-Revenge-2026.json"
     },
     {
       "id": "SS-Dhurandhar-2025",
-      "artist": "Shashwat_Sachdev",
+      "artist": "Shashwat Sachdev",
       "title": "Dhurandhar",
       "year": 2025,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/cover.webp",
       "tracksFile": "albums/SS-Dhurandhar-2025.json"
     },
     {
+      "id": "DNT-Kousalya-Krishnamurthy-2019",
+      "artist": "Dhibu Ninan Thomas",
+      "title": "Kousalya Krishnamurthy",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Kousalya-Krishnamurthy-2019/cover.webp",
+      "tracksFile": "albums/DNT-Kousalya-Krishnamurthy-2019.json"
+    },
+    {
       "id": "JP-dear-comrade",
-      "artist": "Justin_Prabhakaran",
-      "title": "Dear_Comrade",
+      "artist": "Justin Prabhakaran",
+      "title": "Dear Comrade",
       "year": 2019,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-dear-comrade/cover.webp",
       "tracksFile": "albums/JP-dear-comrade.json"
     },
     {
       "id": "ShK-Fidaa-2017",
-      "artist": "Shakthikanth_Karthick",
+      "artist": "Shakthikanth Karthick",
       "title": "Fidaa",
       "year": 2017,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/cover.webp",
@@ -34,7 +42,7 @@
     },
     {
       "id": "SK-supreme-2019",
-      "artist": "Sai_Karthik",
+      "artist": "Sai Karthik",
       "title": "Supreme",
       "year": 2016,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-supreme-2019/cover.webp",
@@ -42,7 +50,7 @@
     },
     {
       "id": "KMR-Chandamama-2007",
-      "artist": "K _M _Radhakrishnan",
+      "artist": "K M Radhakrishnan",
       "title": "Chandamama",
       "year": 2007,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/cover.webp",

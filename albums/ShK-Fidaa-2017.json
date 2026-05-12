@@ -1,5 +1,5 @@
 {
-  "artist": "Shakthikanth_Karthick",
+  "artist": "Shakthikanth Karthick",
   "album": "Fidaa",
   "year": 2017,
   "cover": "cover.webp",
@@ -9,26 +9,26 @@
       "file": "01--Madhu_Priya+Ramky--Vachinde.m4a",
       "title": "Vachinde",
       "singers": [
-        "Madhu_Priya",
+        "Madhu Priya",
         "Ramky"
       ]
     },
     {
       "track": 2,
       "file": "02--Aravind_Srinivas+Renuka--Edo_Jarugutondi.m4a",
-      "title": "Edo_Jarugutondi",
+      "title": "Edo Jarugutondi",
       "singers": [
-        "Aravind_Srinivas",
+        "Aravind Srinivas",
         "Renuka"
       ]
     },
     {
       "track": 3,
       "file": "03--Sindhuri+Sinov_Raj--Hey_Pillagaada.m4a",
-      "title": "Hey_Pillagaada",
+      "title": "Hey Pillagaada",
       "singers": [
         "Sindhuri",
-        "Sinov_Raj"
+        "Sinov Raj"
       ]
     },
     {
@@ -42,7 +42,7 @@
     {
       "track": 5,
       "file": "05--Deepak--Hey_Mister.m4a",
-      "title": "Hey_Mister",
+      "title": "Hey Mister",
       "singers": [
         "Deepak"
       ]
