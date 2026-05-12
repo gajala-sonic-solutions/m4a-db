@@ -18,11 +18,6 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Attach to main branch
-        run: |
-          git fetch origin main
-          git switch -c main origin/main
-
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -45,4 +40,4 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Update library metadata"
 
-          git push origin main
+          git push origin HEAD:main
