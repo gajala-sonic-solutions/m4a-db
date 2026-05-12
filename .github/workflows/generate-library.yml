@@ -37,4 +37,4 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Update library metadata"
 
-          git push
+          git push origin HEAD:${{ github.ref_name }}
