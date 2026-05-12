@@ -1,6 +1,14 @@
 {
   "albums": [
     {
+      "id": "SS-Dhurandhar-2025",
+      "artist": "Shashwat_Sachdev",
+      "title": "Dhurandhar",
+      "year": 2025,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/cover.webp",
+      "tracksFile": "albums/SS-Dhurandhar-2025.json"
+    },
+    {
       "id": "JP-dear-comrade",
       "artist": "Justin_Prabhakaran",
       "title": "Dear_Comrade",
