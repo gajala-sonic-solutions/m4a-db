@@ -16,8 +16,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 0
+
+      - name: Force main branch
+        run: |
+          git fetch origin main
+          git checkout main
 
       - name: Setup Node
         uses: actions/setup-node@v4
