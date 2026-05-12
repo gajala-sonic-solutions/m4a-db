@@ -1,0 +1,59 @@
+{
+  "artist": "K M Radhakrishnan",
+  "album": "Anand",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Yamunatheeram",
+      "artists": [
+        "Hariharan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/01--Hariharan+K._S._Chithra--Yamunatheeram.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Vachhe Vachhe",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/02--Shreya_Ghoshal--Vachhe_Vachhe.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Nuvvena",
+      "artists": [
+        "Shreya Ghoshal",
+        "K M Radhakrishnan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/03--Shreya_Ghoshal+K.M.Radhakrishnan--Nuvvena.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Charumati",
+      "artists": [
+        "Lucky Ali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/04--Lucky_Ali--Charumati.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Telisi Telisi",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/05--Shreya_Ghoshal--Telisi_Telisi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yedaloganam",
+      "artists": [
+        "Hariharan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/06--Hariharan+K._S._Chithra--Yedaloganam.m4a"
+    }
+  ]
+}

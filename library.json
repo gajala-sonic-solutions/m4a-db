@@ -63,6 +63,14 @@
       "year": 2007,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/cover.webp",
       "tracksFile": "albums/KMR-Chandamama-2007.json"
+    },
+    {
+      "id": "KMR-Anand-2004",
+      "artist": "K M Radhakrishnan",
+      "title": "Anand",
+      "year": 2004,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/cover.webp",
+      "tracksFile": "albums/KMR-Anand-2004.json"
     }
   ]
 }
