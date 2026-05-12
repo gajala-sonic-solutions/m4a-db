@@ -1,6 +1,14 @@
 {
   "albums": [
     {
+      "id": "SS-Dhurandhar-The-Revenge-2026",
+      "artist": "Shashwat_Sachdev",
+      "title": "Dhurandhar_The_Revenge",
+      "year": 2026,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/cover.webp",
+      "tracksFile": "albums/SS-Dhurandhar-The-Revenge-2026.json"
+    },
+    {
       "id": "SS-Dhurandhar-2025",
       "artist": "Shashwat_Sachdev",
       "title": "Dhurandhar",
