@@ -2,13 +2,12 @@
   "artist": "Shashwat Sachdev",
   "album": "Dhurandhar",
   "year": 2025,
-  "cover": "cover.webp",
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/cover.webp",
   "tracks": [
     {
       "track": 1,
-      "file": "01--Shashwat_Sachdev+Hanumankind+Jasmine_Sandlas+Sudhir_Yaduvanshi+Charanjit_Ahuja+Muhammad_Sadiq+Ranjit_Kaur+Babu_Singh_Maan--Dhurandhar_Title_Track.m4a",
       "title": "Dhurandhar Title Track",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Hanumankind",
         "Jasmine Sandlas",
@@ -17,13 +16,13 @@
         "Muhammad Sadiq",
         "Ranjit Kaur",
         "Babu Singh Maan"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/01--Shashwat_Sachdev+Hanumankind+Jasmine_Sandlas+Sudhir_Yaduvanshi+Charanjit_Ahuja+Muhammad_Sadiq+Ranjit_Kaur+Babu_Singh_Maan--Dhurandhar_Title_Track.m4a"
     },
     {
       "track": 2,
-      "file": "02--Shashwat_Sachdev+Shahzad_Ali+Subhadeep_Das_Chowdhury+Armaan_Khan+Irshad_Kamil+Roshan+Sahir_Ludhianvi--Ishq_Jalakar_Karvaan.m4a",
       "title": "Ishq Jalakar Karvaan",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Shahzad Ali",
         "Subhadeep Das Chowdhury",
@@ -31,104 +30,105 @@
         "Irshad Kamil",
         "Roshan",
         "Sahir Ludhianvi"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/02--Shashwat_Sachdev+Shahzad_Ali+Subhadeep_Das_Chowdhury+Armaan_Khan+Irshad_Kamil+Roshan+Sahir_Ludhianvi--Ishq_Jalakar_Karvaan.m4a"
     },
     {
       "track": 3,
-      "file": "03--Shashwat_Sachdev+Arijit_Singh+Irshad_Kamil+Armaan_Khan--Gehra_Hua.m4a",
       "title": "Gehra Hua",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Arijit Singh",
         "Irshad Kamil",
         "Armaan Khan"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/03--Shashwat_Sachdev+Arijit_Singh+Irshad_Kamil+Armaan_Khan--Gehra_Hua.m4a"
     },
     {
       "track": 4,
-      "file": "04--Shashwat_Sachdev+Diljit_Dosanjh+Lal_Chand_Yamla_Jatt--Teri_Ni_Kararan.m4a",
       "title": "Teri Ni Kararan",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Diljit Dosanjh",
         "Lal Chand Yamla Jatt"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/04--Shashwat_Sachdev+Diljit_Dosanjh+Lal_Chand_Yamla_Jatt--Teri_Ni_Kararan.m4a"
     },
     {
       "track": 5,
-      "file": "05--Shashwat_Sachdev+Reble+Asha_Bhosle+R._D._Burman+Majrooh_Sultanpuri--Run_Down_The_City_Monica.m4a",
       "title": "Run Down The City Monica",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Reble",
         "Asha Bhosle",
         "R D Burman",
         "Majrooh Sultanpuri"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/05--Shashwat_Sachdev+Reble+Asha_Bhosle+R._D._Burman+Majrooh_Sultanpuri--Run_Down_The_City_Monica.m4a"
     },
     {
       "track": 6,
-      "file": "06--Shashwat_Sachdev+Madhubanti_Bagchi+Jasmine_Sandlas--Shararat.m4a",
       "title": "Shararat",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Madhubanti Bagchi",
         "Jasmine Sandlas"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/06--Shashwat_Sachdev+Madhubanti_Bagchi+Jasmine_Sandlas--Shararat.m4a"
     },
     {
       "track": 7,
-      "file": "07--Shashwat_Sachdev+Diljit_Dosanjh+Hanumankind+Raj_Ranjodh--Ez_Ez.m4a",
       "title": "Ez Ez",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Diljit Dosanjh",
         "Hanumankind",
         "Raj Ranjodh"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/07--Shashwat_Sachdev+Diljit_Dosanjh+Hanumankind+Raj_Ranjodh--Ez_Ez.m4a"
     },
     {
       "track": 8,
-      "file": "08--Shashwat_Sachdev+Simran_Choudhary--Lutt_Le_Gaya.m4a",
       "title": "Lutt Le Gaya",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Simran Choudhary"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/08--Shashwat_Sachdev+Simran_Choudhary--Lutt_Le_Gaya.m4a"
     },
     {
       "track": 9,
-      "file": "09--Shashwat_Sachdev+Reble+Sonu_Nigam+Roshan+Sahir_Ludhianvi--Move_Yeh_Ishq_Ishq.m4a",
       "title": "Move Yeh Ishq Ishq",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Reble",
         "Sonu Nigam",
         "Roshan",
         "Sahir Ludhianvi"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/09--Shashwat_Sachdev+Reble+Sonu_Nigam+Roshan+Sahir_Ludhianvi--Move_Yeh_Ishq_Ishq.m4a"
     },
     {
       "track": 10,
-      "file": "10--Shashwat_Sachdev+Afsana_Khan+Irshad_Kamil+Reble--Naal_Nachna.m4a",
       "title": "Naal Nachna",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Afsana Khan",
         "Irshad Kamil",
         "Reble"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/10--Shashwat_Sachdev+Afsana_Khan+Irshad_Kamil+Reble--Naal_Nachna.m4a"
     },
     {
       "track": 11,
-      "file": "11--Shashwat_Sachdev+Madhubanti_Bagchi+Bappi_Lahiri+Indiwar--Ramba_Ho.m4a",
       "title": "Ramba Ho",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Madhubanti Bagchi",
         "Bappi Lahiri",
         "Indiwar"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-2025/11--Shashwat_Sachdev+Madhubanti_Bagchi+Bappi_Lahiri+Indiwar--Ramba_Ho.m4a"
     }
   ]
 }

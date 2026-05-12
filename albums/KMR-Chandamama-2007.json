@@ -2,60 +2,60 @@
   "artist": "K M Radhakrishnan",
   "album": "Chandamama",
   "year": 2007,
-  "cover": "cover.webp",
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/cover.webp",
   "tracks": [
     {
       "track": 1,
-      "file": "01--Karthik+Srilekha--Regumullole.m4a",
       "title": "Regumullole",
-      "singers": [
+      "artists": [
         "Karthik",
         "Srilekha"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/01--Karthik+Srilekha--Regumullole.m4a"
     },
     {
       "track": 2,
-      "file": "02--Rajesh--Buggey_Bangarama.m4a",
       "title": "Buggey Bangarama",
-      "singers": [
+      "artists": [
         "Rajesh"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/02--Rajesh--Buggey_Bangarama.m4a"
     },
     {
       "track": 3,
-      "file": "03--Karunya+Gayatri--Ghallu_Ghallu.m4a",
       "title": "Ghallu Ghallu",
-      "singers": [
+      "artists": [
         "Karunya",
         "Gayatri"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/03--Karunya+Gayatri--Ghallu_Ghallu.m4a"
     },
     {
       "track": 4,
-      "file": "04--Asha_Bhosle+K.M.Radhakrishnan--Naalo_Oohalaku.m4a",
       "title": "Naalo Oohalaku",
-      "singers": [
+      "artists": [
         "Asha Bhosle",
         "K M Radhakrishnan"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/04--Asha_Bhosle+K.M.Radhakrishnan--Naalo_Oohalaku.m4a"
     },
     {
       "track": 5,
-      "file": "05--Jessi_Gift+Mamatha_Mohandas--Sakkubayiney.m4a",
       "title": "Sakkubayiney",
-      "singers": [
+      "artists": [
         "Jessi Gift",
         "Mamatha Mohandas"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/05--Jessi_Gift+Mamatha_Mohandas--Sakkubayiney.m4a"
     },
     {
       "track": 6,
-      "file": "06--Haricharan+Sujatha--Mukku_Pye_Muddu.m4a",
       "title": "Mukku Pye Muddu",
-      "singers": [
+      "artists": [
         "Haricharan",
         "Sujatha"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Chandamama-2007/06--Haricharan+Sujatha--Mukku_Pye_Muddu.m4a"
     }
   ]
 }

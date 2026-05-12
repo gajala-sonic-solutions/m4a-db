@@ -2,59 +2,59 @@
   "artist": "Shakthikanth Karthick",
   "album": "Fidaa",
   "year": 2017,
-  "cover": "cover.webp",
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/cover.webp",
   "tracks": [
     {
       "track": 1,
-      "file": "01--Madhu_Priya+Ramky--Vachinde.m4a",
       "title": "Vachinde",
-      "singers": [
+      "artists": [
         "Madhu Priya",
         "Ramky"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/01--Madhu_Priya+Ramky--Vachinde.m4a"
     },
     {
       "track": 2,
-      "file": "02--Aravind_Srinivas+Renuka--Edo_Jarugutondi.m4a",
       "title": "Edo Jarugutondi",
-      "singers": [
+      "artists": [
         "Aravind Srinivas",
         "Renuka"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/02--Aravind_Srinivas+Renuka--Edo_Jarugutondi.m4a"
     },
     {
       "track": 3,
-      "file": "03--Sindhuri+Sinov_Raj--Hey_Pillagaada.m4a",
       "title": "Hey Pillagaada",
-      "singers": [
+      "artists": [
         "Sindhuri",
         "Sinov Raj"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/03--Sindhuri+Sinov_Raj--Hey_Pillagaada.m4a"
     },
     {
       "track": 4,
-      "file": "04--Hemachandra--Oosupodu.m4a",
       "title": "Oosupodu",
-      "singers": [
+      "artists": [
         "Hemachandra"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/04--Hemachandra--Oosupodu.m4a"
     },
     {
       "track": 5,
-      "file": "05--Deepak--Hey_Mister.m4a",
       "title": "Hey Mister",
-      "singers": [
+      "artists": [
         "Deepak"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/05--Deepak--Hey_Mister.m4a"
     },
     {
       "track": 6,
-      "file": "06--Hemachandra+Malavika--Fidaa.m4a",
       "title": "Fidaa",
-      "singers": [
+      "artists": [
         "Hemachandra",
         "Malavika"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/06--Hemachandra+Malavika--Fidaa.m4a"
     }
   ]
 }

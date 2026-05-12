@@ -2,13 +2,12 @@
   "artist": "Shashwat Sachdev",
   "album": "Dhurandhar The Revenge",
   "year": 2026,
-  "cover": "cover.webp",
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/cover.webp",
   "tracks": [
     {
       "track": 1,
-      "file": "01--Shashwat_Sachdev+Bombay_Rockers+Irshad_Kamil+Khan_Saab+Reble+Token+Jasmine_Sandlas+Sudhir_Yaduvanshi--Dhurandhar_The_Revenge_Aari_Aari.m4a",
       "title": "Dhurandhar The Revenge Aari Aari",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Bombay Rockers",
         "Irshad Kamil",
@@ -17,96 +16,96 @@
         "Token",
         "Jasmine Sandlas",
         "Sudhir Yaduvanshi"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/01--Shashwat_Sachdev+Bombay_Rockers+Irshad_Kamil+Khan_Saab+Reble+Token+Jasmine_Sandlas+Sudhir_Yaduvanshi--Dhurandhar_The_Revenge_Aari_Aari.m4a"
     },
     {
       "track": 2,
-      "file": "02--Shashwat_Sachdev+Jasmine_Sandlas+Reble--Main_Aur_Tu.m4a",
       "title": "Main Aur Tu",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jasmine Sandlas",
         "Reble"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/02--Shashwat_Sachdev+Jasmine_Sandlas+Reble--Main_Aur_Tu.m4a"
     },
     {
       "track": 3,
-      "file": "03--Shashwat_Sachdev+Khan_Saab+Irshad_Kamil+Nusrat_Fateh_Ali_Khan--Jaan_Se_Guzarte_Hain.m4a",
       "title": "Jaan Se Guzarte Hain",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Khan Saab",
         "Irshad Kamil",
         "Nusrat Fateh Ali Khan"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/03--Shashwat_Sachdev+Khan_Saab+Irshad_Kamil+Nusrat_Fateh_Ali_Khan--Jaan_Se_Guzarte_Hain.m4a"
     },
     {
       "track": 4,
-      "file": "04--Shashwat_Sachdev+Jubin_Nautiyal+Irshad_Kamil--Aakhri_Ishq.m4a",
       "title": "Aakhri Ishq",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jubin Nautiyal",
         "Irshad Kamil"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/04--Shashwat_Sachdev+Jubin_Nautiyal+Irshad_Kamil--Aakhri_Ishq.m4a"
     },
     {
       "track": 5,
-      "file": "05--Shashwat_Sachdev+Ellisar--Wild_Ride.m4a",
       "title": "Wild Ride",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Ellisar"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/05--Shashwat_Sachdev+Ellisar--Wild_Ride.m4a"
     },
     {
       "track": 6,
-      "file": "06--Shashwat_Sachdev+Jyoti_Nooran+Jasmine_Sandlas+Reble--Vaari_Jaavan.m4a",
       "title": "Vaari Jaavan",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jyoti Nooran",
         "Jasmine Sandlas",
         "Reble"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/06--Shashwat_Sachdev+Jyoti_Nooran+Jasmine_Sandlas+Reble--Vaari_Jaavan.m4a"
     },
     {
       "track": 7,
-      "file": "07--Shashwat_Sachdev+Arijit_Singh+Irshad_Kamil--Phir_Se.m4a",
       "title": "Phir Se",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Arijit Singh",
         "Irshad Kamil"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/07--Shashwat_Sachdev+Arijit_Singh+Irshad_Kamil--Phir_Se.m4a"
     },
     {
       "track": 8,
-      "file": "08--Shashwat_Sachdev+Khaled+Sons_of_Yusuf+Nabil_El_Houri--Didi_Sher_E_Baloch.m4a",
       "title": "Didi Sher E Baloch",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Khaled",
         "Sons of Yusuf",
         "Nabil El Houri"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/08--Shashwat_Sachdev+Khaled+Sons_of_Yusuf+Nabil_El_Houri--Didi_Sher_E_Baloch.m4a"
     },
     {
       "track": 9,
-      "file": "09--Shashwat_Sachdev+Token+Vaibhav_Gupta+Shahzad_Ali--Destiny_Mann_Atkeya.m4a",
       "title": "Destiny Mann Atkeya",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Token",
         "Vaibhav Gupta",
         "Shahzad Ali"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/09--Shashwat_Sachdev+Token+Vaibhav_Gupta+Shahzad_Ali--Destiny_Mann_Atkeya.m4a"
     },
     {
       "track": 10,
-      "file": "10--Shashwat_Sachdev+Jasmine_Sandlas+Afsana_Khan+Amit_Kumar+Sapna_Mukherjee+Kalyanji_-_Anandji+Anand_Bakshi+Reble--Rang_De_Lal_Oye_Oye.m4a",
       "title": "Rang De Lal Oye Oye",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jasmine Sandlas",
         "Afsana Khan",
@@ -115,50 +114,51 @@
         "Kalyanji - Anandji",
         "Anand Bakshi",
         "Reble"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/10--Shashwat_Sachdev+Jasmine_Sandlas+Afsana_Khan+Amit_Kumar+Sapna_Mukherjee+Kalyanji_-_Anandji+Anand_Bakshi+Reble--Rang_De_Lal_Oye_Oye.m4a"
     },
     {
       "track": 11,
-      "file": "11--Shashwat_Sachdev+Jasmine_Sandlas+Satinder_Sartaaj--Jaiye_Sajana.m4a",
       "title": "Jaiye Sajana",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jasmine Sandlas",
         "Satinder Sartaaj"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/11--Shashwat_Sachdev+Jasmine_Sandlas+Satinder_Sartaaj--Jaiye_Sajana.m4a"
     },
     {
       "track": 12,
-      "file": "12--Shashwat_Sachdev+Jyoti_Nooran+Kumaar--Tere_Ishq_Ne.m4a",
       "title": "Tere Ishq Ne",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jyoti Nooran",
         "Kumaar"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/12--Shashwat_Sachdev+Jyoti_Nooran+Kumaar--Tere_Ishq_Ne.m4a"
     },
     {
       "track": 13,
-      "file": "13--Shashwat_Sachdev+Qveen_Herby+Anuradha_Paudwal+Udit_Narayan+Anand-Milind+Sameer--Hum_Pyaar_Karne_Wale.m4a",
       "title": "Hum Pyaar Karne Wale",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Qveen Herby",
         "Anuradha Paudwal",
         "Udit Narayan",
         "Anand-Milind",
         "Sameer"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/13--Shashwat_Sachdev+Qveen_Herby+Anuradha_Paudwal+Udit_Narayan+Anand-Milind+Sameer--Hum_Pyaar_Karne_Wale.m4a"
     },
     {
       "track": 14,
-      "file": "14--Shashwat_Sachdev+Jubin_Nautiyal+Nawab_Sadiq_Jung_Bahadur_Hilm--Kanhaiyya.m4a",
       "title": "Kanhaiyya",
-      "singers": [
+      "artists": [
         "Shashwat Sachdev",
         "Jubin Nautiyal",
         "Nawab Sadiq Jung Bahadur Hilm"
-      ]
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SS-Dhurandhar-The-Revenge-2026/14--Shashwat_Sachdev+Jubin_Nautiyal+Nawab_Sadiq_Jung_Bahadur_Hilm--Kanhaiyya.m4a"
     }
   ]
 }

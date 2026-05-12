@@ -1,0 +1,80 @@
+{
+  "artist": "K M Radhakrishnan",
+  "album": "Godavari",
+  "year": 2013,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Uppongela Godavari",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K M Radha Krishnan",
+        "Bapiraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/01--S._P._Balasubrahmanyam+K_M_Radha_Krishnan+Bapiraju--Uppongela_Godavari.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Manasavacha",
+      "artists": [
+        "P Unnikrishnan",
+        "K S Chithra",
+        "K M Radha Krishnan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/02--P._Unnikrishnan+K._S._Chithra+K_M_Radha_Krishnan--Manasavacha.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Tippulu Tappulu",
+      "artists": [
+        "Shreya Ghoshal",
+        "K M Radha Krishnan",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/03--Shreya_Ghoshal+K_M_Radha_Krishnan+Veturi_Sundararama_Murthy--Tippulu_Tappulu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Manasa Gelupu",
+      "artists": [
+        "Gayathri Raghuram",
+        "K S Chithra",
+        "Shankar Mahadevan",
+        "K M Radha Krishnan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/04--Gayathri_Raghuram+K._S._Chithra+Shankar_Mahadevan+K_M_Radha_Krishnan--Manasa_Gelupu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Andangalena",
+      "artists": [
+        "Suneetha",
+        "K M Radha Krishnan",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/05--Suneetha+K_M_Radha_Krishnan+Veturi_Sundararama_Murthy--Andangalena.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ramachakkani Sitha",
+      "artists": [
+        "Gayathri Raghuram",
+        "K M Radha Krishnan",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/06--Gayathri_Raghuram+K_M_Radha_Krishnan+Veturi_Sundararama_Murthy--Ramachakkani_Sitha.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Uppongela Godavari",
+      "artists": [
+        "Gayathri Raghuram",
+        "K M Radha Krishnan",
+        "Bapiraju",
+        "Shekhar Kammula"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Godavari-2013/07--Gayathri_Raghuram+K_M_Radha_Krishnan+Bapiraju+Shekhar_Kammula--Uppongela_Godavari.m4a"
+    }
+  ]
+}
