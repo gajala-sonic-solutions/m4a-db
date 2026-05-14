@@ -409,6 +409,14 @@
       "tracksFile": "albums/KMR-Godavari-2013.json"
     },
     {
+      "id": "HJ-Snehitudu-2012",
+      "artist": "Harris Jayaraj",
+      "title": "Snehitudu",
+      "year": 2012,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/cover.webp",
+      "tracksFile": "albums/HJ-Snehitudu-2012.json"
+    },
+    {
       "id": "HJ-Brothers-2012",
       "artist": "Harris Jayaraj",
       "title": "Brothers",

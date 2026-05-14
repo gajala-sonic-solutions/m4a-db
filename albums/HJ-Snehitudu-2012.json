@@ -1,0 +1,62 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Snehitudu",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Mana Friendalle",
+      "artists": [
+        "Krish",
+        "Suchith Suresan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/01--Krish+Suchith_Suresan--Mana_Friendalle.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Heartu Lo Battery",
+      "artists": [
+        "Mukesh",
+        "Hemachandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/02--Mukesh+Hemachandra--Heartu_Lo_Battery.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Asku Laska",
+      "artists": [
+        "Vijay Prakash",
+        "Chinmayi Sripada",
+        "Suvi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/03--Vijay_Prakash+Chinmayi_Sripada+Suvi--Asku_Laska.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Toli Adugaina Padalede",
+      "artists": [
+        "Aalap Raju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/04--Aalap_Raju--Toli_Adugaina_Padalede.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ileana Chitti Belliana",
+      "artists": [
+        "Vijay Prakash",
+        "Javed Ali",
+        "Sayanora Philip"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/05--Vijay_Prakash+Javed_Ali+Sayanora_Philip--Ileana_Chitti_Belliana.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ne Vupiri Ne Sonthama",
+      "artists": [
+        "Ramakrishnan Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Snehitudu-2012/06--Ramakrishnan_Murthy--Ne_Vupiri_Ne_Sonthama.m4a"
+    }
+  ]
+}
