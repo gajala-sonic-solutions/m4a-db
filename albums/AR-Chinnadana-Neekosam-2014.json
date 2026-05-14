@@ -1,0 +1,60 @@
+{
+  "artist": "Anup-Rubens",
+  "album": "Chinnadana Neekosam",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Chinnadana Neekosam",
+      "artists": [
+        "Raja Hasan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/01--Raja_Hasan--Chinnadana_Neekosam.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ooh La Laa",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/02--Anup_Rubens--Ooh_La_Laa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Everybody Chalo All I Wanna Say",
+      "artists": [
+        "Jaspreet Jasz",
+        "Dhanunjay",
+        "Anudeep",
+        "Hymath"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/03--Jaspreet_Jasz+Dhanunjay+Anudeep+Hymath--Everybody_Chalo_All_I_Wanna_Say.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Dil Dil Dil",
+      "artists": [
+        "Rahul Sipligunj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/04--Rahul_Sipligunj--Dil_Dil_Dil.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Mundhugane",
+      "artists": [
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/05--Ramya_Behara--Mundhugane.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Albeli",
+      "artists": [
+        "Simha",
+        "Jhanvi Narang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Chinnadana-Neekosam-2014/06--Simha+Jhanvi_Narang--Albeli.m4a"
+    }
+  ]
+}
