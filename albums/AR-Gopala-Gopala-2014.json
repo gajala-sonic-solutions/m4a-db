@@ -1,0 +1,48 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Gopala Gopala",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Gopala-Gopala-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Enduko Enduko",
+      "artists": [
+        "Kailash Kher",
+        "Anup Rubens",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Gopala-Gopala-2014/01--Kailash_Kher+Anup_Rubens+Chandrabose--Enduko_Enduko.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Needhe Needhe",
+      "artists": [
+        "Sonu Nigam",
+        "Anup Rubens",
+        "Sirivennela Seetharama Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Gopala-Gopala-2014/02--Sonu_Nigam+Anup_Rubens+Sirivennela_Seetharama_Sastry--Needhe_Needhe.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Bhaje Bhaaje",
+      "artists": [
+        "Haricharan",
+        "Dhanunjay",
+        "Anup Rubens",
+        "Anantha Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Gopala-Gopala-2014/03--Haricharan+Dhanunjay+Anup_Rubens+Anantha_Sriram--Bhaje_Bhaaje.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Gopala Gopala Theme",
+      "artists": [
+        "Haricharan",
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Gopala-Gopala-2014/04--Haricharan+Anup_Rubens--Gopala_Gopala_Theme.m4a"
+    }
+  ]
+}
