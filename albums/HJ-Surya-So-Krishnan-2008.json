@@ -1,0 +1,87 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Surya S/o Krishnan",
+  "year": 2008,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Yedhane Koiyakae",
+      "artists": [
+        "Veturi Sundararama Murthy",
+        "Benny Dayal",
+        "Bhargavi Pillai",
+        "Krish",
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/01--Veturi_Sundararama_Murthy+Benny_Dayal+Bhargavi_Pillai+Krish+Harris_Jayaraj--Yedhane_Koiyakae.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Naaloney Pongaynu",
+      "artists": [
+        "V V Prassanna",
+        "Devan Ekambaram",
+        "Harish Raghavendra",
+        "Harris Jayaraj",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/02--V.V._Prassanna+Devan_Ekambaram+Harish_Raghavendra+Harris_Jayaraj+Veturi_Sundararama_Murthy--Naaloney_Pongaynu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Yegasi Yegasi",
+      "artists": [
+        "Benny Dayal",
+        "Naresh Iyer",
+        "Chandran",
+        "Harris Jayaraj",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/03--Benny_Dayal+Naresh_Iyer+Chandran+Harris_Jayaraj+Veturi_Sundararama_Murthy--Yegasi_Yegasi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Monna Kanipinchavu",
+      "artists": [
+        "Naresh Iyer",
+        "Prashanthini",
+        "Harris Jayaraj",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/04--Naresh_Iyer+Prashanthini+Harris_Jayaraj+Veturi_Sundararama_Murthy--Monna_Kanipinchavu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Oh Shanthi Shanthi",
+      "artists": [
+        "Veturi Sundararama Murthy",
+        "S P Charan",
+        "Harris Jayaraj",
+        "Krish"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/05--Veturi_Sundararama_Murthy+S.P._Charan+Harris_Jayaraj+Krish--Oh_Shanthi_Shanthi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Athey Nanne",
+      "artists": [
+        "Karthik",
+        "V V Prassanna",
+        "Harris Jayaraj",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/06--Karthik+V._V._Prassanna+Harris_Jayaraj+Veturi_Sundararama_Murthy--Athey_Nanne.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Nidhare Kala",
+      "artists": [
+        "Sudha Raghunathan",
+        "Harris Jayaraj",
+        "Veturi Sundararama Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Surya-So-Krishnan-2008/07--Sudha_Raghunathan+Harris_Jayaraj+Veturi_Sundararama_Murthy--Nidhare_Kala.m4a"
+    }
+  ]
+}
