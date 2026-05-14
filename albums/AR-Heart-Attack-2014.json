@@ -1,0 +1,88 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Heart Attack",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nuvvante Naaku",
+      "artists": [
+        "Jassie Gift",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/01--Jassie_Gift+Nithin+Adah_Sharma+Vikramjeet_Virk--Nuvvante_Naaku.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Thuhi Hai Thuhi",
+      "artists": [
+        "Anup Rubens",
+        "Smitha Bell",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/02--Anup_Rubens+Smitha_Bell+Nithin+Adah_Sharma+Vikramjeet_Virk--Thuhi_Hai_Thuhi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ra Ra Vasthava",
+      "artists": [
+        "Chaitra Ambadipudi",
+        "Santosh",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/03--Chaitra_Ambadipudi+Santosh+Nithin+Adah_Sharma+Vikramjeet_Virk--Ra_Ra_Vasthava.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Selavanuko",
+      "artists": [
+        "Chaitra Ambadipudi",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/04--Chaitra_Ambadipudi+Nithin+Adah_Sharma+Vikramjeet_Virk--Selavanuko.m4a"
+    },
+    {
+      "track": 5,
+      "title": "That s All Right Mam",
+      "artists": [
+        "Anup Rubens",
+        "Tippu",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/05--Anup_Rubens+Tippu+Nithin+Adah_Sharma+Vikramjeet_Virk--That_s_All_Right_Mam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Chupinchandey",
+      "artists": [
+        "Rahul Nambiar",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/06--Rahul_Nambiar+Nithin+Adah_Sharma+Vikramjeet_Virk--Chupinchandey.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Endhukila Nannu Vedhisthunavey",
+      "artists": [
+        "Kunal Ganjawala",
+        "Nithin",
+        "Adah Sharma",
+        "Vikramjeet Virk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Heart-Attack-2014/07--Kunal_Ganjawala+Nithin+Adah_Sharma+Vikramjeet_Virk--Endhukila_Nannu_Vedhisthunavey.m4a"
+    }
+  ]
+}
