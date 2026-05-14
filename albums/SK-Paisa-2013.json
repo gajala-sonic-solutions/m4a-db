@@ -1,0 +1,65 @@
+{
+  "artist": "Sai Karthik",
+  "album": "Paisa",
+  "year": 2013,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Eppudaithe Puttindo",
+      "artists": [
+        "Krishna Vamsi",
+        "Vitthal",
+        "Venu",
+        "Dhanraj",
+        "Tagubothu Ramesh",
+        "Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/01--Krishna_Vamsi+Vitthal+Venu+Dhanraj+Tagubothu_Ramesh+Chandra--Eppudaithe_Puttindo.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Govindaa Govindaa",
+      "artists": [
+        "Tippu",
+        "Baby Thillu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/02--Tippu+Baby_Thillu--Govindaa_Govindaa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Mayya Mayya",
+      "artists": [
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/03--Vijay_Prakash--Mayya_Mayya.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Neetho Edo",
+      "artists": [
+        "Shweta Mohan",
+        "Sai Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/04--Shweta_Mohan+Sai_Karthik--Neetho_Edo.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Paisa Paisa",
+      "artists": [
+        "Ranjith",
+        "Rahul Nambiar",
+        "Karthik Kumar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/05--Ranjith+Rahul_Nambiar+Karthik_Kumar--Paisa_Paisa.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Paisa Theme",
+      "artists": [
+        "Sai Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/06--Sai_Karthik--Paisa_Theme.m4a"
+    }
+  ]
+}

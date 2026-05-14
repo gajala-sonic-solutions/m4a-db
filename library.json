@@ -81,6 +81,14 @@
       "tracksFile": "albums/SK-supreme-2019.json"
     },
     {
+      "id": "SK-Paisa-2013",
+      "artist": "Sai Karthik",
+      "title": "Paisa",
+      "year": 2013,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Paisa-2013/cover.webp",
+      "tracksFile": "albums/SK-Paisa-2013.json"
+    },
+    {
       "id": "KMR-Godavari-2013",
       "artist": "K M Radhakrishnan",
       "title": "Godavari",
