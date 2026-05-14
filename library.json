@@ -441,6 +441,14 @@
       "tracksFile": "albums/SG-Pilla-Zamindar-2011.json"
     },
     {
+      "id": "HJ-Rangam-2011",
+      "artist": "Harris Jayaraj",
+      "title": "Rangam",
+      "year": 2011,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/cover.webp",
+      "tracksFile": "albums/HJ-Rangam-2011.json"
+    },
+    {
       "id": "HJ-7th-Sense-2011",
       "artist": "Harris Jayaraj",
       "title": "7th Sense",

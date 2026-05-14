@@ -1,0 +1,64 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Rangam",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Endhuko Emo",
+      "artists": [
+        "Aalap Raju",
+        "Prasanthini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/01--Aalap_Raju+Prasanthini--Endhuko_Emo.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gala Gala Gangu",
+      "artists": [
+        "Tippu",
+        "Vijay Gopal",
+        "Haricharan",
+        "Sayanora Philip"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/02--Tippu+Vijay_Gopal+Haricharan+Sayanora_Philip--Gala_Gala_Gangu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ee Manchullo",
+      "artists": [
+        "Sri Ram Partha Sarthy",
+        "Bombay Jayashri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/03--Sri_Ram_Partha_Sarthy+Bombay_Jayashri--Ee_Manchullo.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Aga Naga Naga",
+      "artists": [
+        "Vijay Prakash",
+        "Tippu",
+        "Ranina Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/04--Vijay_Prakash+Tippu+Ranina_Reddy--Aga_Naga_Naga.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Masthish",
+      "artists": [
+        "Naresh Iyer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/05--Naresh_Iyer--Masthish.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Nemali Kulukula",
+      "artists": [
+        "P Unnikrishnan",
+        "Shweta Mohan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Rangam-2011/06--P._Unnikrishnan+Shweta_Mohan--Nemali_Kulukula.m4a"
+    }
+  ]
+}
