@@ -1,0 +1,60 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Munna",
+  "year": 2007,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Kadhulu Kadhulu",
+      "artists": [
+        "K K"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/01--K.K--Kadhulu_Kadhulu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Manassa",
+      "artists": [
+        "Haricharan",
+        "Sadhana Sargam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/02--Haricharan+Sadhana_Sargam--Manassa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vasthava",
+      "artists": [
+        "K K",
+        "Shalini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/03--K.K+Shalini--Vasthava.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Baga Baga",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/04--Shankar_Mahadevan--Baga_Baga.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chamakkuro",
+      "artists": [
+        "Karthik",
+        "Anushka"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/05--Karthik+Anushka--Chamakkuro.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Konchem Konchem",
+      "artists": [
+        "Kailash Kher",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/06--Kailash_Kher+Sujatha--Konchem_Konchem.m4a"
+    }
+  ]
+}

@@ -481,6 +481,14 @@
       "tracksFile": "albums/KMR-Bale-Dongalu-2008.json"
     },
     {
+      "id": "HJ-Munna-2007",
+      "artist": "Harris Jayaraj",
+      "title": "Munna",
+      "year": 2007,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Munna-2007/cover.webp",
+      "tracksFile": "albums/HJ-Munna-2007.json"
+    },
+    {
       "id": "KMR-Chandamama-2007",
       "artist": "K M Radhakrishnan",
       "title": "Chandamama",
