@@ -1,0 +1,50 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Soukhyam",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soukhyam-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nakem Tochade",
+      "artists": [
+        "Hariharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soukhyam-2015/01--Hariharan--Nakem_Tochade.m4a"
+    },
+    {
+      "track": 2,
+      "title": "You Are My Honey",
+      "artists": [
+        "Nakash Aziz",
+        "Mohana Bogaraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soukhyam-2015/02--Nakash_Aziz+Mohana_Bogaraju--You_Are_My_Honey.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Alare Aala",
+      "artists": [
+        "Manisha Erabathini",
+        "Rahul Pandey"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soukhyam-2015/03--Manisha_Erabathini+Rahul_Pandey--Alare_Aala.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Jigi Jigi Jindagi",
+      "artists": [
+        "Raman"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soukhyam-2015/04--Raman--Jigi_Jigi_Jindagi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Lollipop",
+      "artists": [
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soukhyam-2015/05--Geetha_Madhuri--Lollipop.m4a"
+    }
+  ]
+}
