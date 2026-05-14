@@ -1,0 +1,54 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Loukyam",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Loukyam-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Soodu Soodu",
+      "artists": [
+        "Dhanunjay",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Loukyam-2014/01--Dhanunjay+Ramya_Behara--Soodu_Soodu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Tere Beautiful Anke",
+      "artists": [
+        "Raja Hasan",
+        "Sweekar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Loukyam-2014/02--Raja_Hasan+Sweekar--Tere_Beautiful_Anke.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ninnu Chudagane",
+      "artists": [
+        "Vijay Prakash",
+        "Mohana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Loukyam-2014/03--Vijay_Prakash+Mohana--Ninnu_Chudagane.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Pink Lips",
+      "artists": [
+        "Jaspreet Jasz",
+        "Sahithi",
+        "Sweekar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Loukyam-2014/04--Jaspreet_Jasz+Sahithi+Sweekar--Pink_Lips.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Sur Super",
+      "artists": [
+        "Ranina Reddy",
+        "Simha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Loukyam-2014/05--Ranina_Reddy+Simha--Sur_Super.m4a"
+    }
+  ]
+}
