@@ -1,0 +1,58 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Soggade Chinni Nayana",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soggade-Chinni-Nayana-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dikka Dikka Dum Dum",
+      "artists": [
+        "Nagarjuna",
+        "Dhanunjay",
+        "Mohana Bhogaraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soggade-Chinni-Nayana-2015/01--Nagarjuna+Dhanunjay+Mohana_Bhogaraju--Dikka_Dikka_Dum_Dum.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nee Navve",
+      "artists": [
+        "Shreya Ghoshal",
+        "Dhanunjay"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soggade-Chinni-Nayana-2015/02--Shreya_Ghoshal+Dhanunjay--Nee_Navve.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vasthane Vasthane",
+      "artists": [
+        "Hariharan",
+        "Kousalya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soggade-Chinni-Nayana-2015/03--Hariharan+Kousalya--Vasthane_Vasthane.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Untale Untale Nee Vente Untale",
+      "artists": [
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soggade-Chinni-Nayana-2015/04--Malavika--Untale_Untale_Nee_Vente_Untale.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Addhira Banna",
+      "artists": [
+        "Anudeep",
+        "Arun",
+        "Dhanunjay",
+        "Raghuram",
+        "Sampath",
+        "Prakash",
+        "Lokesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Soggade-Chinni-Nayana-2015/05--Anudeep+Arun+Dhanunjay+Raghuram+Sampath+Prakash+Lokesh--Addhira_Banna.m4a"
+    }
+  ]
+}
