@@ -1,0 +1,67 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Ishq",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Lachhamma",
+      "artists": [
+        "Anup Rubens",
+        "Nithin",
+        "Thagubothu Ramesh",
+        "Murali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/01--Anup_Rubens+Nithin+Thagubothu_Ramesh+Murali--Lachhamma.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Oh Priya Priya",
+      "artists": [
+        "Adnan Sami",
+        "Nithya Menen"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/02--Adnan_Sami+Nithya_Menen--Oh_Priya_Priya.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Sutiga Choodaku",
+      "artists": [
+        "Hariharan",
+        "Saindhavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/03--Hariharan+Saindhavi--Sutiga_Choodaku.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chinnadhana",
+      "artists": [
+        "Raja Hasan",
+        "Anup Rubens",
+        "Sravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/04--Raja_Hasan+Anup_Rubens+Sravani--Chinnadhana.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Edho Edho",
+      "artists": [
+        "Pradeep Vijay",
+        "Kalyani Nair"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/05--Pradeep_Vijay+Kalyani_Nair--Edho_Edho.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Lachhamma Club Mix",
+      "artists": [
+        "Anup Rubens",
+        "Nithin",
+        "Thagubothu Ramesh",
+        "Murali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Ishq-2012/06--Anup_Rubens+Nithin+Thagubothu_Ramesh+Murali--Lachhamma_Club_Mix.m4a"
+    }
+  ]
+}
