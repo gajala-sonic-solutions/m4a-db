@@ -1,0 +1,59 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Manchi Rojulochaie",
+  "year": 2021,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manchi-Rojulochaie-2021/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "So So Ga",
+      "artists": [
+        "Sid Sriram",
+        "Santosh Sobhan",
+        "Mehreen Pirzada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manchi-Rojulochaie-2021/01--Sid_Sriram+Santosh_Sobhan+Mehreen_Pirzada--So_So_Ga.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ekkesinde",
+      "artists": [
+        "Ram Miriyala",
+        "Santosh Sobhan",
+        "Mehreen Pirzada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manchi-Rojulochaie-2021/02--Ram_Miriyala+Santosh_Sobhan+Mehreen_Pirzada--Ekkesinde.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Manchi Rojulochaie Title Song",
+      "artists": [
+        "Haricharan",
+        "Sravani",
+        "Santosh Sobhan",
+        "Mehreen Pirzada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manchi-Rojulochaie-2021/03--Haricharan+Sravani+Santosh_Sobhan+Mehreen_Pirzada--Manchi_Rojulochaie_Title_Song.m4a"
+    },
+    {
+      "track": 4,
+      "title": "kanapadani Divam Female Version",
+      "artists": [
+        "Sahithi",
+        "Santosh Sobhan",
+        "Mehreen Pirzada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manchi-Rojulochaie-2021/04--Sahithi+Santosh_Sobhan+Mehreen_Pirzada--kanapadani_Divam_Female_Version.m4a"
+    },
+    {
+      "track": 5,
+      "title": "kanapadani Divam Male Version",
+      "artists": [
+        "Dhanunjay",
+        "Santosh Sobhan",
+        "Mehreen Pirzada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manchi-Rojulochaie-2021/05--Dhanunjay+Santosh_Sobhan+Mehreen_Pirzada--kanapadani_Divam_Male_Version.m4a"
+    }
+  ]
+}
