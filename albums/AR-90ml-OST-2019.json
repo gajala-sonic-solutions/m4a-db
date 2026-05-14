@@ -1,0 +1,74 @@
+{
+  "artist": "Anup Rubens",
+  "album": "90ml [OST]",
+  "year": 2019,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "90ML Title Song BGM",
+      "artists": [
+        "Anurag Kulkarni",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/01--Anurag_Kulkarni+Chandrabose--90ML_Title_Song_BGM.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Anukoledhe Anukoledhe BGM",
+      "artists": [
+        "Ramya Behara",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/02--Ramya_Behara+Chandrabose--Anukoledhe_Anukoledhe_BGM.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Naatho Nuvvunte Chaalu Okasaari Chusthey BGM",
+      "artists": [
+        "Adnan Sami",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/03--Adnan_Sami+Chandrabose--Naatho_Nuvvunte_Chaalu_Okasaari_Chusthey_BGM.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Singilu Singilu BGM",
+      "artists": [
+        "Rahul Sipligunj",
+        "MM Manasi",
+        "Roll Rida",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/04--Rahul_Sipligunj+MM_Manasi+Roll_Rida+Chandrabose--Singilu_Singilu_BGM.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Vandella Life Lona BGM",
+      "artists": [
+        "Sahithi",
+        "Saicharan",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/05--Sahithi+Saicharan+Chandrabose--Vandella_Life_Lona_BGM.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Vellipothundhe Vellipothundhe BGM",
+      "artists": [
+        "Anup Rubens",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/06--Anup_Rubens+Chandrabose--Vellipothundhe_Vellipothundhe_BGM.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Yinipinchukoru Yinipinchukoru BGM",
+      "artists": [
+        "Rahul Sipligunj",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-OST-2019/07--Rahul_Sipligunj+Chandrabose--Yinipinchukoru_Yinipinchukoru_BGM.m4a"
+    }
+  ]
+}
