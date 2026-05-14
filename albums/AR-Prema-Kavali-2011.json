@@ -1,0 +1,67 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Prema Kavali",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dum Dum Dolu Baaje",
+      "artists": [
+        "Benny Dayal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/01--Benny_Dayal--Dum_Dum_Dolu_Baaje.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chirunavve Visirave",
+      "artists": [
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/02--Vijay_Prakash--Chirunavve_Visirave.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Tolakari Chinukai",
+      "artists": [
+        "Ranjith",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/03--Ranjith+Shreya_Ghoshal--Tolakari_Chinukai.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Listen To My Heart",
+      "artists": [
+        "Anuj",
+        "Anjana Sowmya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/04--Anuj+Anjana_Sowmya--Listen_To_My_Heart.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Manasanta Mukkalu Chesi",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/05--KK--Manasanta_Mukkalu_Chesi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Nuvve Nuvve Naa",
+      "artists": [
+        "K S Chithra",
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/06--K._S._Chithra+Vijay_Prakash--Nuvve_Nuvve_Naa.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Chirunavve Visirave Remix",
+      "artists": [
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/07--Vijay_Prakash--Chirunavve_Visirave_Remix.m4a"
+    }
+  ]
+}

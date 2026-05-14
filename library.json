@@ -377,6 +377,14 @@
       "tracksFile": "albums/SG-Pilla-Zamindar-2011.json"
     },
     {
+      "id": "AR-Prema-Kavali-2011",
+      "artist": "Anup Rubens",
+      "title": "Prema Kavali",
+      "year": 2011,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Prema-Kavali-2011/cover.webp",
+      "tracksFile": "albums/AR-Prema-Kavali-2011.json"
+    },
+    {
       "id": "SG-Bheemili-Kabaddi-Jattu-2010",
       "artist": "Selva Ganesh",
       "title": "Bheemili Kabaddi Jattu",
