@@ -33,6 +33,14 @@
       "tracksFile": "albums/JP-Radhe-Shyam-2022.json"
     },
     {
+      "id": "AR-30-Rojullo-Preminchadam-Ela-2021",
+      "artist": "Anup Rubens",
+      "title": "30 Rojullo Preminchadam Ela",
+      "year": 2021,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/cover.webp",
+      "tracksFile": "albums/AR-30-Rojullo-Preminchadam-Ela-2021.json"
+    },
+    {
       "id": "JP-Meenakshi-Sundareshwar-2021",
       "artist": "Justin Prabhakaran",
       "title": "Meenakshi Sundareshwar",

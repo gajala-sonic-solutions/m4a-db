@@ -1,0 +1,59 @@
+{
+  "artist": "Anup Rubens",
+  "album": "30 Rojullo Preminchadam Ela",
+  "year": 2021,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Neeli Neeli Aakasam",
+      "artists": [
+        "Sid Sriram",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/01--Sid_Sriram+Sunitha--Neeli_Neeli_Aakasam.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Idera Sneham",
+      "artists": [
+        "Armaan Malik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/02--Armaan_Malik--Idera_Sneham.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Meeko Dhandam",
+      "artists": [
+        "Dhananjaya",
+        "Mohana Bhogaraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/03--Dhananjaya+Mohana_Bhogaraju--Meeko_Dhandam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Amma Nannu Mallee Penchavaa",
+      "artists": [
+        "Rishon Rubens",
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/04--Rishon_Rubens+Anup_Rubens--Amma_Nannu_Mallee_Penchavaa.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Wah Wah Mere Bava",
+      "artists": [
+        "Rahul Sipligunj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/05--Rahul_Sipligunj--Wah_Wah_Mere_Bava.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Cat Body Loki",
+      "artists": [
+        "Madhu Priya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-30-Rojullo-Preminchadam-Ela-2021/06--Madhu_Priya--Cat_Body_Loki.m4a"
+    }
+  ]
+}
