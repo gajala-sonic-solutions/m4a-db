@@ -1,0 +1,64 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Aparichithudu",
+  "year": 2005,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Love Elephantla",
+      "artists": [
+        "Nakul",
+        "G V Prakash Kumar",
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/01--Nakul+G.V.Prakash_Kumar+Tippu--Love_Elephantla.m4a"
+    },
+    {
+      "track": 2,
+      "title": "O Sukumari",
+      "artists": [
+        "Shankar Mahadevan",
+        "Harini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/02--Shankar_Mahadevan+Harini--O_Sukumari.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Naaku Neeku",
+      "artists": [
+        "Kunal Ganjawala",
+        "Vasundhara Das"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/03--Kunal_Ganjawala+Vasundhara_Das--Naaku_Neeku.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Stranger In Black Theme",
+      "artists": [
+        "Sunitha Saradhi",
+        "Chennai Chorel"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/04--Sunitha_Saradhi+Chennai_Chorel--Stranger_In_Black_Theme.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Jiyyangari",
+      "artists": [
+        "K J Yesudas",
+        "Harini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/05--K._J._Yesudas+Harini--Jiyyangari.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Kondakaki",
+      "artists": [
+        "Jessi Gift",
+        "KK",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Aparichithudu-2005/06--Jessi_Gift+KK+Sujatha--Kondakaki.m4a"
+    }
+  ]
+}
