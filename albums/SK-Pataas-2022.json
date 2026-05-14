@@ -1,0 +1,50 @@
+{
+  "artist": "Sai Karthik",
+  "album": "Pataas",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Pataas-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dhamki Maaro",
+      "artists": [
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Pataas-2022/01--Tippu--Dhamki_Maaro.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Osi Chinnadaana",
+      "artists": [
+        "Rahul Nambiar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Pataas-2022/02--Rahul_Nambiar--Osi_Chinnadaana.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Tappa Tapam",
+      "artists": [
+        "MLR Karthikeyan",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Pataas-2022/03--MLR_Karthikeyan+Suchitra--Tappa_Tapam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Arey O Samba",
+      "artists": [
+        "Jaspreet Jasz",
+        "Divija Kartheek"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Pataas-2022/04--Jaspreet_Jasz+Divija_Kartheek--Arey_O_Samba.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Power Unnodu",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Pataas-2022/05--Ranjith--Power_Unnodu.m4a"
+    }
+  ]
+}
