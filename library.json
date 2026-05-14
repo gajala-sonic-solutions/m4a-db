@@ -497,6 +497,14 @@
       "tracksFile": "albums/HJ-Aparichithudu-2005.json"
     },
     {
+      "id": "HJ-Gharshana-2004",
+      "artist": "Harris Jayaraj",
+      "title": "Gharshana",
+      "year": 2004,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Gharshana-2004/cover.webp",
+      "tracksFile": "albums/HJ-Gharshana-2004.json"
+    },
+    {
       "id": "KMR-Anand-2004",
       "artist": "K M Radhakrishnan",
       "title": "Anand",
