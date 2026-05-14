@@ -1,0 +1,70 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Katamarayudu",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Mira Mira Meesam",
+      "artists": [
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/01--Anurag_Kulkarni--Mira_Mira_Meesam.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Laage Laage",
+      "artists": [
+        "Nakash Aziz",
+        "Dhanunjay",
+        "Nuthana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/02--Nakash_Aziz+Dhanunjay+Nuthana--Laage_Laage.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Jivvu Jivvu",
+      "artists": [
+        "Dhanunjay"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/03--Dhanunjay--Jivvu_Jivvu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Emo Emo",
+      "artists": [
+        "Armaan Malik",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/04--Armaan_Malik+Shreya_Ghoshal--Emo_Emo.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Yelo Yedarilo Vaana",
+      "artists": [
+        "Dhanunjay",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/05--Dhanunjay+Malavika--Yelo_Yedarilo_Vaana.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Love Theme",
+      "artists": [
+        "Instrumental"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/06--Instrumental--Love_Theme.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Netha Cheera",
+      "artists": [
+        "Sai Charan",
+        "Sahithi",
+        "Simha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Katamarayudu-2017/07--Sai_Charan+Sahithi+Simha--Netha_Cheera.m4a"
+    }
+  ]
+}
