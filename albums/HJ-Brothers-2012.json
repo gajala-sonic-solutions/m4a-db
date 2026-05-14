@@ -1,0 +1,54 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Brothers",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Brothers-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Rendai Thirigae",
+      "artists": [
+        "M K Balaji"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Brothers-2012/01--M.K.Balaji--Rendai_Thirigae.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Rani Nanni",
+      "artists": [
+        "Vijay Prakash",
+        "Karthik",
+        "Harini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Brothers-2012/02--Vijay_Prakash+Karthik+Harini--Rani_Nanni.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Neeve Neevelae",
+      "artists": [
+        "Franco",
+        "Aalaap Raju",
+        "Charulatha Mani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Brothers-2012/03--Franco+Aalaap_Raju+Charulatha_Mani--Neeve_Neevelae.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Evaro Nenevaro",
+      "artists": [
+        "Karthik",
+        "Priya Hemesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Brothers-2012/04--Karthik+Priya_Hemesh--Evaro_Nenevaro.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Kommalani",
+      "artists": [
+        "Javed Ali",
+        "Mahalakshmi Ayer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Brothers-2012/05--Javed_Ali+Mahalakshmi_Ayer--Kommalani.m4a"
+    }
+  ]
+}
