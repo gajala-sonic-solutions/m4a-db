@@ -1,0 +1,53 @@
+{
+  "artist": "Selva Ganesh",
+  "album": "Pilla Zamindar",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Pilla-Zamindar-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Thalabadi",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Pilla-Zamindar-2011/01--Shankar_Mahadevan--Thalabadi.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chuttu Chuttu",
+      "artists": [
+        "V V Prasanna",
+        "Saindhavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Pilla-Zamindar-2011/02--V.V.Prasanna+Saindhavi--Chuttu_Chuttu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Oopiri",
+      "artists": [
+        "Karthik",
+        "Chinmayee"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Pilla-Zamindar-2011/03--Karthik+Chinmayee--Oopiri.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Rangu Rangu",
+      "artists": [
+        "Mukesh",
+        "Priya Hemesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Pilla-Zamindar-2011/04--Mukesh+Priya_Hemesh--Rangu_Rangu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "PJ Club Mix",
+      "artists": [
+        "Ranjith",
+        "Priya Hemesh",
+        "Rap Big Nikk"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Pilla-Zamindar-2011/05--Ranjith+Priya_Hemesh+Rap_Big_Nikk--PJ_Club_Mix.m4a"
+    }
+  ]
+}
