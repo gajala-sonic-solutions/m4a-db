@@ -1,0 +1,60 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Veedokkade",
+  "year": 2009,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Pela Pela",
+      "artists": [
+        "Hariharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/01--Hariharan--Pela_Pela.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nene Nene Needhanne",
+      "artists": [
+        "Harish Raghavendra",
+        "Mahathi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/02--Harish_Raghavendra+Mahathi--Nene_Nene_Needhanne.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Honey Honey",
+      "artists": [
+        "Sayanora Philip",
+        "Devan Ekambaram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/03--Sayanora_Philip+Devan_Ekambaram--Honey_Honey.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Kallu Moosi Yochisthey",
+      "artists": [
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/04--Karthik--Kallu_Moosi_Yochisthey.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Oyaayiye aayiye",
+      "artists": [
+        "Benny Dayal",
+        "Haricharan",
+        "Chinmayi Sripada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/05--Benny_Dayal+Haricharan+Chinmayi_Sripada--Oyaayiye_aayiye.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Oh Super Nova",
+      "artists": [
+        "Krish"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/06--Krish--Oh_Super_Nova.m4a"
+    }
+  ]
+}

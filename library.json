@@ -513,6 +513,14 @@
       "tracksFile": "albums/HJ-Orange-2010.json"
     },
     {
+      "id": "HJ-Veedokkade-2009",
+      "artist": "Harris Jayaraj",
+      "title": "Veedokkade",
+      "year": 2009,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Veedokkade-2009/cover.webp",
+      "tracksFile": "albums/HJ-Veedokkade-2009.json"
+    },
+    {
       "id": "HJ-Ghatikudu-2009",
       "artist": "Harris Jayaraj",
       "title": "Ghatikudu",
