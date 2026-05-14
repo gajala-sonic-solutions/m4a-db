@@ -1,0 +1,70 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Orange",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ola Olaala Ala",
+      "artists": [
+        "Karunya",
+        "Ranina Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/01--Karunya+Ranina_Reddy--Ola_Olaala_Ala.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chilipiga",
+      "artists": [
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/02--Karthik--Chilipiga.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Nenu Nuvvantu",
+      "artists": [
+        "Naresh Iyer",
+        "Nadeesh",
+        "U V Jackey"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/03--Naresh_Iyer+Nadeesh+U.V.Jackey--Nenu_Nuvvantu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Hello Rammante",
+      "artists": [
+        "Vijay Prakash",
+        "Devan",
+        "D Burn"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/04--Vijay_Prakash+Devan+D.Burn--Hello_Rammante.m4a"
+    },
+    {
+      "track": 5,
+      "title": "O Range",
+      "artists": [
+        "Benny Dayal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/05--Benny_Dayal--O_Range.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Rooba Rooba",
+      "artists": [
+        "Shahil Hada",
+        "Chinmayee"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/06--Shahil_Hada+Chinmayee--Rooba_Rooba.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Ye Vaipuga",
+      "artists": [
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/07--Harris_Jayaraj--Ye_Vaipuga.m4a"
+    }
+  ]
+}

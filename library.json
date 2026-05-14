@@ -465,6 +465,14 @@
       "tracksFile": "albums/SG-Bheemili-Kabaddi-Jattu-2010.json"
     },
     {
+      "id": "HJ-Orange-2010",
+      "artist": "Harris Jayaraj",
+      "title": "Orange",
+      "year": 2010,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Orange-2010/cover.webp",
+      "tracksFile": "albums/HJ-Orange-2010.json"
+    },
+    {
       "id": "HJ-Ghatikudu-2009",
       "artist": "Harris Jayaraj",
       "title": "Ghatikudu",
