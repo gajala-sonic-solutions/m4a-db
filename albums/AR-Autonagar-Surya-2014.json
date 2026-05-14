@@ -1,0 +1,76 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Autonagar Surya",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Time Enta Raa",
+      "artists": [
+        "Vijay Prakash",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/01--Vijay_Prakash+Chorus--Time_Enta_Raa.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Mancheli",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/02--Anup_Rubens--Mancheli.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Autonagar Brahmi",
+      "artists": [
+        "Brahmanandam",
+        "Venu Madhav",
+        "Anup Rubens",
+        "Sai Charan",
+        "Amrutha Varshini",
+        "Pranathi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/03--Brahmanandam+Venu_Madhav+Anup_Rubens+Sai_Charan+Amrutha_Varshini+Pranathi--Autonagar_Brahmi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Sura Sura",
+      "artists": [
+        "Chaitra",
+        "Anup Rubens",
+        "Santhosh",
+        "Ramki"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/04--Chaitra+Anup_Rubens+Santhosh+Ramki--Sura_Sura.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hyderabad Biryani",
+      "artists": [
+        "Rithu Patak",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/05--Rithu_Patak+Chorus--Hyderabad_Biryani.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ayudham",
+      "artists": [
+        "Deva Katta",
+        "Siddarth",
+        "Raghu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/06--Deva_Katta+Siddarth+Raghu--Ayudham.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Autonagar Surya Theme",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Autonagar-Surya-2014/07--Anup_Rubens--Autonagar_Surya_Theme.m4a"
+    }
+  ]
+}
