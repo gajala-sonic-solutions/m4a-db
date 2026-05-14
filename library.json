@@ -185,6 +185,14 @@
       "tracksFile": "albums/SK-supreme-2019.json"
     },
     {
+      "id": "AR-Courier-Boy-Kalyan-2015",
+      "artist": "Anup Rubens",
+      "title": "Courier Boy Kalyan",
+      "year": 2015,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Courier-Boy-Kalyan-2015/cover.webp",
+      "tracksFile": "albums/AR-Courier-Boy-Kalyan-2015.json"
+    },
+    {
       "id": "AR-Akhil-The-Power-Of-Jua-2015",
       "artist": "Anup Rubens",
       "title": "Akhil The Power Of Jua",

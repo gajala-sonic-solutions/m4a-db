@@ -1,0 +1,48 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Courier Boy Kalyan",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Courier-Boy-Kalyan-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Maya O Maya",
+      "artists": [
+        "Karthik",
+        "Shreshta"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Courier-Boy-Kalyan-2015/01--Karthik+Shreshta--Maya_O_Maya.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Bangaramma",
+      "artists": [
+        "Karthik",
+        "Megha",
+        "Sricharan Kasturirangan",
+        "Ananta Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Courier-Boy-Kalyan-2015/02--Karthik+Megha+Sricharan_Kasturirangan+Ananta_Sriram--Bangaramma.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Mandu Mandu",
+      "artists": [
+        "Karthik",
+        "Baba Sehgal",
+        "Sahithi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Courier-Boy-Kalyan-2015/03--Karthik+Baba_Sehgal+Sahithi--Mandu_Mandu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Vaalu Kalla Pilla",
+      "artists": [
+        "Suchitra",
+        "Anup Rubens",
+        "Bhaskara Bhatla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Courier-Boy-Kalyan-2015/04--Suchitra+Anup_Rubens+Bhaskara_Bhatla--Vaalu_Kalla_Pilla.m4a"
+    }
+  ]
+}
