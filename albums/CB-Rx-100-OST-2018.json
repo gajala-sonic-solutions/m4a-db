@@ -1,0 +1,82 @@
+{
+  "artist": "Chaitan Bharadwaj",
+  "album": "Rx 100 [OST]",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Adire Hrudayam Background Score",
+      "artists": [
+        "Karthik",
+        "Chaitan Bharadwaj",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/01--Karthik+Chaitan_Bharadwaj+Chaitanya_Prasad--Adire_Hrudayam_Background_Score.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Manasuni Patti Daaram Katti Yevare Yevare Background Score",
+      "artists": [
+        "Haricharan",
+        "Umaneha",
+        "Chaitan Bharadwaj",
+        "Srimani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/02--Haricharan+Umaneha+Chaitan_Bharadwaj+Srimani--Manasuni_Patti_Daaram_Katti_Yevare_Yevare_Background_Score.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Nippai Ragile Background Score",
+      "artists": [
+        "Rahul Sipligunj",
+        "Chaitan Bharadwaj",
+        "Chaitanya Varma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/03--Rahul_Sipligunj+Chaitan_Bharadwaj+Chaitanya_Varma--Nippai_Ragile_Background_Score.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Pillaa Raa Background Score",
+      "artists": [
+        "Anurag Kulkarni",
+        "Chaitan Bharadwaj",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/04--Anurag_Kulkarni+Chaitan_Bharadwaj+Chaitanya_Prasad--Pillaa_Raa_Background_Score.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Reppalanindaa Background Score",
+      "artists": [
+        "Haricharan",
+        "Chaitan Bharadwaj",
+        "Srimani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/05--Haricharan+Chaitan_Bharadwaj+Srimani--Reppalanindaa_Background_Score.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Rudhiram Marigi Background Score",
+      "artists": [
+        "Deepthi Parthasarathi",
+        "Sai Charan",
+        "Chaitan Bharadwaj",
+        "Sira Sri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/06--Deepthi_Parthasarathi+Sai_Charan+Chaitan_Bharadwaj+Sira_Sri--Rudhiram_Marigi_Background_Score.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Dhinaku Dhina Da Background Score",
+      "artists": [
+        "Varam",
+        "Sreedeep K",
+        "Maruthi Kodimoju",
+        "Chaitan Bharadwaj",
+        "Chaitanya Varma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-OST-2018/07--Varam+Sreedeep.K+Maruthi_Kodimoju+Chaitan_Bharadwaj+Chaitanya_Varma--Dhinaku_Dhina_Da_Background_Score.m4a"
+    }
+  ]
+}
