@@ -169,6 +169,14 @@
       "tracksFile": "albums/DNT-Marakatha-Mani-2017.json"
     },
     {
+      "id": "AR-Paisa-Vasool-2017",
+      "artist": "Anup Rubens",
+      "title": "Paisa Vasool",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/cover.webp",
+      "tracksFile": "albums/AR-Paisa-Vasool-2017.json"
+    },
+    {
       "id": "AR-Nene-Raju-Nene-Mantri-2017",
       "artist": "Anup Rubens",
       "title": "Nene Raju Nene Mantri",

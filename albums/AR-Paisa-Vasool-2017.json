@@ -1,0 +1,54 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Paisa Vasool",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Paisa Vasool",
+      "artists": [
+        "Daler Mehndi",
+        "Uma Neha",
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/01--Daler_Mehndi+Uma_Neha+Anurag_Kulkarni--Paisa_Vasool.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Kannu Kannu Kalisai",
+      "artists": [
+        "Anup Rubens",
+        "Jithin",
+        "Sree Kavya Chandana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/02--Anup_Rubens+Jithin+Sree_Kavya_Chandana--Kannu_Kannu_Kalisai.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Mama Ek Peg La",
+      "artists": [
+        "Balakrishna Nandamuri",
+        "Divya Divakar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/03--Balakrishna_Nandamuri+Divya_Divakar--Mama_Ek_Peg_La.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Padhamari",
+      "artists": [
+        "Mano",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/04--Mano+Geetha_Madhuri--Padhamari.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Theda Singh Theme Song",
+      "artists": [
+        "Instrumental"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Paisa-Vasool-2017/05--Instrumental--Theda_Singh_Theme_Song.m4a"
+    }
+  ]
+}
