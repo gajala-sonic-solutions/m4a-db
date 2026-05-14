@@ -1,0 +1,50 @@
+{
+  "artist": "Mahati Swara Sagar",
+  "album": "Chalo",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Chalo-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Choosi Chudangane",
+      "artists": [
+        "Anurag Kulkarni",
+        "Mahathi Swara Sagar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Chalo-2018/01--Anurag_Kulkarni+Mahathi_Swara_Sagar--Choosi_Chudangane.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Drunk and Drive",
+      "artists": [
+        "Rahul Sipligunj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Chalo-2018/02--Rahul_Sipligunj--Drunk_and_Drive.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chal Godava",
+      "artists": [
+        "Yazin Nizar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Chalo-2018/03--Yazin_Nizar--Chal_Godava.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Cheppave Balamani",
+      "artists": [
+        "Sweekar Agasthi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Chalo-2018/04--Sweekar_Agasthi--Cheppave_Balamani.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ammaye Challo Antu",
+      "artists": [
+        "Yazin Nizar",
+        "Lipisika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Chalo-2018/05--Yazin_Nizar+Lipisika--Ammaye_Challo_Antu.m4a"
+    }
+  ]
+}
