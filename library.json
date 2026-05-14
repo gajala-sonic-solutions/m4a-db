@@ -17,6 +17,14 @@
       "tracksFile": "albums/SS-Dhurandhar-2025.json"
     },
     {
+      "id": "JP-Meenakshi-Sundareshwar-2021",
+      "artist": "Justin Prabhakaran",
+      "title": "Meenakshi Sundareshwar",
+      "year": 2021,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Meenakshi-Sundareshwar-2021/cover.webp",
+      "tracksFile": "albums/JP-Meenakshi-Sundareshwar-2021.json"
+    },
+    {
       "id": "DNT-Kousalya-Krishnamurthy-2019",
       "artist": "Dhibu Ninan Thomas",
       "title": "Kousalya Krishnamurthy",
