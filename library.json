@@ -529,6 +529,14 @@
       "tracksFile": "albums/KMR-Chandamama-2007.json"
     },
     {
+      "id": "HJ-Sainikudu-2006",
+      "artist": "Harris Jayaraj",
+      "title": "Sainikudu",
+      "year": 2006,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/cover.webp",
+      "tracksFile": "albums/HJ-Sainikudu-2006.json"
+    },
+    {
       "id": "HJ-Ghajini-2005",
       "artist": "Harris Jayaraj",
       "title": "Ghajini",

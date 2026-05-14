@@ -1,0 +1,64 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Sainikudu",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Byla Bylamo",
+      "artists": [
+        "Lesly Levis",
+        "Anushka",
+        "Sunitha Sarathy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/01--Lesly_Levis+Anushka+Sunitha_Sarathy--Byla_Bylamo.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Maayera",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "P Unnikrishnan",
+        "Kavita Krishnamurthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/02--S._P._Balasubrahmanyam+P._Unnikrishnan+Kavita_Krishnamurthy--Maayera.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Aadapilla",
+      "artists": [
+        "Hariharan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/03--Hariharan+K._S._Chithra--Aadapilla.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Sogasu Choodatharama",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/04--Shreya_Ghoshal--Sogasu_Choodatharama.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Oorugalle",
+      "artists": [
+        "Karthik",
+        "Karunya",
+        "Harini",
+        "Malathi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/05--Karthik+Karunya+Harini+Malathi--Oorugalle.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Go Go Adhigo",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Sainikudu-2006/06--KK--Go_Go_Adhigo.m4a"
+    }
+  ]
+}
