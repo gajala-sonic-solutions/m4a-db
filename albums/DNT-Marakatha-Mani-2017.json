@@ -1,0 +1,49 @@
+{
+  "artist": "Dhibu Ninan Thomas",
+  "album": "Marakatha Mani",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Marakatha-Mani-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Black Sheepu",
+      "artists": [
+        "Arunraja Kamaraj",
+        "Kapil"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Marakatha-Mani-2017/01--Arunraja_Kamaraj+Kapil--Black_Sheepu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ye Kavithalano",
+      "artists": [
+        "Pradeep Kumar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Marakatha-Mani-2017/02--Pradeep_Kumar--Ye_Kavithalano.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Aasa",
+      "artists": [
+        "Sharanya Gopinath"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Marakatha-Mani-2017/03--Sharanya_Gopinath--Aasa.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Dwantham Kamme",
+      "artists": [
+        "Arunraja Kamaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Marakatha-Mani-2017/04--Arunraja_Kamaraj--Dwantham_Kamme.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Katthi Sarada",
+      "artists": [
+        "Kapil"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/DNT-Marakatha-Mani-2017/05--Kapil--Katthi_Sarada.m4a"
+    }
+  ]
+}
