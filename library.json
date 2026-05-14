@@ -361,6 +361,14 @@
       "tracksFile": "albums/SK-Paisa-2013.json"
     },
     {
+      "id": "AR-Sukumarudu-2013",
+      "artist": "Anup Rubens",
+      "title": "Sukumarudu",
+      "year": 2013,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/cover.webp",
+      "tracksFile": "albums/AR-Sukumarudu-2013.json"
+    },
+    {
       "id": "AR-Bhimavaram-Bullodu-2013",
       "artist": "Anup Rubens",
       "title": "Bhimavaram Bullodu",

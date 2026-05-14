@@ -1,0 +1,71 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Sukumarudu",
+  "year": 2013,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "O Baby Naa Lokam",
+      "artists": [
+        "Anup Rubens",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/01--Anup_Rubens+Chorus--O_Baby_Naa_Lokam.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Neelakashamlo",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/02--Shreya_Ghoshal--Neelakashamlo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Tongi Tongi",
+      "artists": [
+        "Suchitra",
+        "Ramki"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/03--Suchitra+Ramki--Tongi_Tongi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Manasuna Nuvvele",
+      "artists": [
+        "Anjana Sowmya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/04--Anjana_Sowmya--Manasuna_Nuvvele.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Sukumarudu",
+      "artists": [
+        "Raja Hasan",
+        "Rajesh",
+        "Dhanunjay",
+        "Manju",
+        "Ramya",
+        "Pradeepthi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/05--Raja_Hasan+Rajesh+Dhanunjay+Manju+Ramya+Pradeepthi--Sukumarudu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manasuna Veyyi",
+      "artists": [
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/06--Vijay_Prakash--Manasuna_Veyyi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Tongi Tongi Club Mix",
+      "artists": [
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sukumarudu-2013/07--Vijay_Prakash--Tongi_Tongi_Club_Mix.m4a"
+    }
+  ]
+}
