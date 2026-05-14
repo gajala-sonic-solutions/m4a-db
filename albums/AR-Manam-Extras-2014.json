@@ -1,0 +1,22 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Manam [Extras]",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-Extras-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Akhil Introduction Track",
+      "artists": [
+        "Anup Rubens",
+        "Akkineni Nageswara Rao",
+        "Nagarjuna",
+        "Naga Chaitanya",
+        "Akhil",
+        "Samantha",
+        "Shreya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-Extras-2014/01--Anup_Rubens+Akkineni_Nageswara_Rao+Nagarjuna+Naga_Chaitanya+Akhil+Samantha+Shreya--Akhil_Introduction_Track.m4a"
+    }
+  ]
+}
