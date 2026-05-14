@@ -1,0 +1,70 @@
+{
+  "artist": "Mahati Swara Sagar",
+  "album": "Bholaa Shankar",
+  "year": 2023,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bholaa Mania",
+      "artists": [
+        "Mahati Swara Sagar",
+        "L V Revanth",
+        "Chiranjeevi",
+        "Tamannaah Bhatia",
+        "Keerthy Suresh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/01--Mahati_Swara_Sagar+L.V._Revanth+Chiranjeevi+Tamannaah_Bhatia+Keerthy_Suresh--Bholaa_Mania.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Jam Jam Jajjanaka",
+      "artists": [
+        "Mahati Swara Sagar",
+        "Anurag Kulkarni",
+        "Mangli",
+        "Chiranjeevi",
+        "Tamannaah Bhatia",
+        "Keerthy Suresh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/02--Mahati_Swara_Sagar+Anurag_Kulkarni+Mangli+Chiranjeevi+Tamannaah_Bhatia+Keerthy_Suresh--Jam_Jam_Jajjanaka.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Milky Beauty",
+      "artists": [
+        "Mahati Swara Sagar",
+        "Vijay Prakash",
+        "Sanjana Kalmanje",
+        "Chiranjeevi",
+        "Tamannaah Bhatia",
+        "Keerthy Suresh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/03--Mahati_Swara_Sagar+Vijay_Prakash+Sanjana_Kalmanje+Chiranjeevi+Tamannaah_Bhatia+Keerthy_Suresh--Milky_Beauty.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Rage Of Bhola",
+      "artists": [
+        "Asura",
+        "Feroz Israel",
+        "Nawab Gang",
+        "Chiranjeevi",
+        "Tamannaah Bhatia",
+        "Keerthy Suresh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/04--Asura+Feroz_Israel+Nawab_Gang+Chiranjeevi+Tamannaah_Bhatia+Keerthy_Suresh--Rage_Of_Bhola.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Kottara Kottu Teenumaaru",
+      "artists": [
+        "Rahul Sipligunj",
+        "Chiranjeevi",
+        "Tamannaah Bhatia",
+        "Keerthy Suresh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/05--Rahul_Sipligunj+Chiranjeevi+Tamannaah_Bhatia+Keerthy_Suresh--Kottara_Kottu_Teenumaaru.m4a"
+    }
+  ]
+}

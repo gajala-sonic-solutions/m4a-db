@@ -17,6 +17,14 @@
       "tracksFile": "albums/SS-Dhurandhar-2025.json"
     },
     {
+      "id": "MSS-Bholaa-Shankar-2023",
+      "artist": "Mahati Swara Sagar",
+      "title": "Bholaa Shankar",
+      "year": 2023,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bholaa-Shankar-2023/cover.webp",
+      "tracksFile": "albums/MSS-Bholaa-Shankar-2023.json"
+    },
+    {
       "id": "HJ-Unakkul-Naane-2023",
       "artist": "Harris Jayaraj",
       "title": "Unakkul Naane",
