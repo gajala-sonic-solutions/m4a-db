@@ -1,0 +1,42 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Kittu Unnadu Jagratha",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Kittu-Unnadu-Jagratha-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ardhamaindha",
+      "artists": [
+        "Anurag Kulkarni",
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Kittu-Unnadu-Jagratha-2017/01--Anurag_Kulkarni+Anup_Rubens--Ardhamaindha.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Johny Johny Yes Papa",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Kittu-Unnadu-Jagratha-2017/02--Ranjith--Johny_Johny_Yes_Papa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Naa Pere Singapore Sirimalli",
+      "artists": [
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Kittu-Unnadu-Jagratha-2017/03--Geetha_Madhuri--Naa_Pere_Singapore_Sirimalli.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Bow Bow Boys",
+      "artists": [
+        "Sai Charan",
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Kittu-Unnadu-Jagratha-2017/04--Sai_Charan+Anup_Rubens--Bow_Bow_Boys.m4a"
+    }
+  ]
+}

@@ -161,6 +161,14 @@
       "tracksFile": "albums/DNT-Marakatha-Mani-2017.json"
     },
     {
+      "id": "AR-Kittu-Unnadu-Jagratha-2017",
+      "artist": "Anup Rubens",
+      "title": "Kittu Unnadu Jagratha",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Kittu-Unnadu-Jagratha-2017/cover.webp",
+      "tracksFile": "albums/AR-Kittu-Unnadu-Jagratha-2017.json"
+    },
+    {
       "id": "AR-Katamarayudu-2017",
       "artist": "Anup Rubens",
       "title": "Katamarayudu",
