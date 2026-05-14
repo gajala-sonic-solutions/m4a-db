@@ -1,0 +1,59 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Oka Laila Kosam",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Oka-Laila-Kosam-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ee Chinni Life",
+      "artists": [
+        "Anup Rubens",
+        "Alphons Joseph"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Oka-Laila-Kosam-2014/01--Anup_Rubens+Alphons_Joseph--Ee_Chinni_Life.m4a"
+    },
+    {
+      "track": 2,
+      "title": "O Meri Jane Jana",
+      "artists": [
+        "Javed Ali",
+        "Sweekar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Oka-Laila-Kosam-2014/02--Javed_Ali+Sweekar--O_Meri_Jane_Jana.m4a"
+    },
+    {
+      "track": 3,
+      "title": "O Cheli Nuvve Na Cheli",
+      "artists": [
+        "Adnan Sami",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Oka-Laila-Kosam-2014/03--Adnan_Sami+Ramya_Behara--O_Cheli_Nuvve_Na_Cheli.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Teluse Nuvvu Ravani",
+      "artists": [
+        "Ankit Tiwari"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Oka-Laila-Kosam-2014/04--Ankit_Tiwari--Teluse_Nuvvu_Ravani.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Rubens Club Mix Mashup",
+      "artists": [
+        "Anup Rubens",
+        "Alphons Joseph",
+        "S P Charan",
+        "Divya",
+        "Javed Ali",
+        "Sweekar",
+        "Adnan Sami",
+        "Ramya Behara",
+        "Ankit Tiwari"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Oka-Laila-Kosam-2014/05--Anup_Rubens+Alphons_Joseph+S.P.Charan+Divya+Javed_Ali+Sweekar+Adnan_Sami+Ramya_Behara+Ankit_Tiwari--Rubens_Club_Mix_Mashup.m4a"
+    }
+  ]
+}
