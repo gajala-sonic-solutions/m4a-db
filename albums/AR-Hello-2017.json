@@ -1,0 +1,68 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Hello!",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Hello Trailer",
+      "artists": [
+        "Akhil Akkineni",
+        "Kalyani Priyadarshan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/01--Akhil_Akkineni+Kalyani_Priyadarshan--Hello_Trailer.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Merise Merise",
+      "artists": [
+        "Haricharan",
+        "Srinidhi Venkatesh",
+        "Shruthi Ranjani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/02--Haricharan+Srinidhi_Venkatesh+Shruthi_Ranjani--Merise_Merise.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Hello",
+      "artists": [
+        "Armaan Malik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/03--Armaan_Malik--Hello.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Anaganaga Oka Uru",
+      "artists": [
+        "Sri Dhruthi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/04--Sri_Dhruthi--Anaganaga_Oka_Uru.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Thalachi Thalachi",
+      "artists": [
+        "Haricharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/05--Haricharan--Thalachi_Thalachi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yevevo",
+      "artists": [
+        "Akhil Akkineni",
+        "Jonita Gandhi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/06--Akhil_Akkineni+Jonita_Gandhi--Yevevo.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Anaganaga Oka Uru Female",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/07--Shreya_Ghoshal--Anaganaga_Oka_Uru_Female.m4a"
+    }
+  ]
+}

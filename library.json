@@ -217,6 +217,14 @@
       "tracksFile": "albums/AR-Katamarayudu-2017.json"
     },
     {
+      "id": "AR-Hello-2017",
+      "artist": "Anup Rubens",
+      "title": "Hello!",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Hello-2017/cover.webp",
+      "tracksFile": "albums/AR-Hello-2017.json"
+    },
+    {
       "id": "ShK-Fidaa-2017",
       "artist": "Shakthikanth Karthick",
       "title": "Fidaa",
