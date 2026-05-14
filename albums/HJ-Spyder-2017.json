@@ -1,0 +1,62 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Spyder",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Boom Boom",
+      "artists": [
+        "Nikhita Gandhi",
+        "Harris Jayaraj",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/01--Nikhita_Gandhi+Harris_Jayaraj+Ramajogayya_Sastry--Boom_Boom.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Haali Haali",
+      "artists": [
+        "Brijesh Shandilya",
+        "Harini",
+        "Sunitha",
+        "Harris Jayaraj",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/02--Brijesh_Shandilya+Harini+Sunitha+Harris_Jayaraj+Ramajogayya_Sastry--Haali_Haali.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ciciliya Ciciliya",
+      "artists": [
+        "Haricharan",
+        "Shakthisree Gopalan",
+        "Harris Jayaraj",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/03--Haricharan+Shakthisree_Gopalan+Harris_Jayaraj+Ramajogayya_Sastry--Ciciliya_Ciciliya.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Achcham Telugandham",
+      "artists": [
+        "Pravin Saivi",
+        "Christopher Stanley",
+        "Sathyaprakash",
+        "Harris Jayaraj",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/04--Pravin_Saivi+Christopher_Stanley+Sathyaprakash+Harris_Jayaraj+Ramajogayya_Sastry--Achcham_Telugandham.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Spyder On Mission",
+      "artists": [
+        "Instrumental",
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/05--Instrumental+Harris_Jayaraj--Spyder_On_Mission.m4a"
+    }
+  ]
+}

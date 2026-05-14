@@ -177,6 +177,14 @@
       "tracksFile": "albums/SK-Raja-The-Great-2017.json"
     },
     {
+      "id": "HJ-Spyder-2017",
+      "artist": "Harris Jayaraj",
+      "title": "Spyder",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Spyder-2017/cover.webp",
+      "tracksFile": "albums/HJ-Spyder-2017.json"
+    },
+    {
       "id": "DNT-Marakatha-Mani-2017",
       "artist": "Dhibu Ninan Thomas",
       "title": "Marakatha Mani",
