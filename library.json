@@ -289,6 +289,14 @@
       "tracksFile": "albums/KMR-Godavari-2013.json"
     },
     {
+      "id": "AR-Lovely-2012",
+      "artist": "Anup Rubens",
+      "title": "Lovely",
+      "year": 2012,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/cover.webp",
+      "tracksFile": "albums/AR-Lovely-2012.json"
+    },
+    {
       "id": "AR-Ishq-2012",
       "artist": "Anup Rubens",
       "title": "Ishq",

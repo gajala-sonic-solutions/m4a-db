@@ -1,0 +1,67 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Lovely",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dolare Dola",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/01--Anup_Rubens--Dolare_Dola.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chori Choriye",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/02--Anup_Rubens--Chori_Choriye.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ninnu Chusina",
+      "artists": [
+        "Anup Rubens",
+        "Aishwarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/03--Anup_Rubens+Aishwarya--Ninnu_Chusina.m4a"
+    },
+    {
+      "track": 4,
+      "title": "I Dont Know",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/04--Anup_Rubens--I_Dont_Know.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Lovely Lovely",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/05--Anup_Rubens--Lovely_Lovely.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Nenunnadi",
+      "artists": [
+        "Anup Rubens",
+        "Dhanunjay"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/06--Anup_Rubens+Dhanunjay--Nenunnadi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Evo Evevo",
+      "artists": [
+        "Chaitra",
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Lovely-2012/07--Chaitra+Anup_Rubens--Evo_Evevo.m4a"
+    }
+  ]
+}
