@@ -481,6 +481,14 @@
       "tracksFile": "albums/KMR-Chandamama-2007.json"
     },
     {
+      "id": "HJ-Ghajini-2005",
+      "artist": "Harris Jayaraj",
+      "title": "Ghajini",
+      "year": 2005,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/cover.webp",
+      "tracksFile": "albums/HJ-Ghajini-2005.json"
+    },
+    {
       "id": "HJ-Aparichithudu-2005",
       "artist": "Harris Jayaraj",
       "title": "Aparichithudu",

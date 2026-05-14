@@ -1,0 +1,51 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Ghajini",
+  "year": 2005,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Oka Maru",
+      "artists": [
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/01--Karthik--Oka_Maru.m4a"
+    },
+    {
+      "track": 2,
+      "title": "X Pichi Y Pichi",
+      "artists": [
+        "Mathangi",
+        "Nakul"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/02--Mathangi+Nakul--X_Pichi_Y_Pichi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Hrudayam Ekkadunnadi",
+      "artists": [
+        "Harris Raghavendra",
+        "Bombay Jayashri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/03--Harris_Raghavendra+Bombay_Jayashri--Hrudayam_Ekkadunnadi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Rahtulla Rahtulla",
+      "artists": [
+        "Anupama"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/04--Anupama--Rahtulla_Rahtulla.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Rangola Hola Hola",
+      "artists": [
+        "Tippu",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghajini-2005/05--Tippu+Sujatha--Rangola_Hola_Hola.m4a"
+    }
+  ]
+}
