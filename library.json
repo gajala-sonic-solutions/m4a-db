@@ -73,6 +73,14 @@
       "tracksFile": "albums/KMR-Godavari-2013.json"
     },
     {
+      "id": "KMR-Bale-Dongalu-2008",
+      "artist": "K M Radhakrishnan",
+      "title": "Bale Dongalu",
+      "year": 2008,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/cover.webp",
+      "tracksFile": "albums/KMR-Bale-Dongalu-2008.json"
+    },
+    {
       "id": "KMR-Chandamama-2007",
       "artist": "K M Radhakrishnan",
       "title": "Chandamama",

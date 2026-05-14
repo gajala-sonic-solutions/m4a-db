@@ -1,0 +1,59 @@
+{
+  "artist": "K M Radhakrishnan",
+  "album": "Bale Dongalu",
+  "year": 2008,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Romeo Juliet",
+      "artists": [
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/01--Tippu--Romeo_Juliet.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nethone Kalisi",
+      "artists": [
+        "Shaan",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/02--Shaan+Geetha_Madhuri--Nethone_Kalisi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Panchadara Yedarilo",
+      "artists": [
+        "Tippu",
+        "Gayatri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/03--Tippu+Gayatri--Panchadara_Yedarilo.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Manasulo Nuvvena",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/04--Udit_Narayan+K._S._Chithra--Manasulo_Nuvvena.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chota Chota",
+      "artists": [
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/05--Tippu--Chota_Chota.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Pasandhynavela",
+      "artists": [
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Bale-Dongalu-2008/06--K._S._Chithra--Pasandhynavela.m4a"
+    }
+  ]
+}
