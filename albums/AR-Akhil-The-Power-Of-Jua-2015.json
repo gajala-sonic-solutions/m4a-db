@@ -1,0 +1,68 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Akhil The Power Of Jua",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Akhil-The-Power-Of-Jua-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nennekkadunte Energy",
+      "artists": [
+        "Ranjit",
+        "Sharanya",
+        "Bhargavi Pilla",
+        "Rahul Rido",
+        "Anup Rubens",
+        "Krishna Chaitanya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Akhil-The-Power-Of-Jua-2015/01--Ranjit+Sharanya+Bhargavi_Pilla+Rahul_Rido+Anup_Rubens+Krishna_Chaitanya--Nennekkadunte_Energy.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Hey Akhil",
+      "artists": [
+        "Rahul Pandey",
+        "Anup Rubens",
+        "Krishna Chaitanya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Akhil-The-Power-Of-Jua-2015/02--Rahul_Pandey+Anup_Rubens+Krishna_Chaitanya--Hey_Akhil.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Zara Zara Navvaradhe",
+      "artists": [
+        "Mohit Chauhan",
+        "Srikar",
+        "Anup Rubens",
+        "Bhaskarabhatla",
+        "Ravi Kumar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Akhil-The-Power-Of-Jua-2015/03--Mohit_Chauhan+Srikar+Anup_Rubens+Bhaskarabhatla+Ravi_Kumar--Zara_Zara_Navvaradhe.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Akkineni Akkineni",
+      "artists": [
+        "Divya Kumar",
+        "Bhargavi",
+        "Uma Neha",
+        "Mohana",
+        "Anup Rubens",
+        "Krishna Chaitanya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Akhil-The-Power-Of-Jua-2015/04--Divya_Kumar+Bhargavi+Uma_Neha+Mohana+Anup_Rubens+Krishna_Chaitanya--Akkineni_Akkineni.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Padessavae",
+      "artists": [
+        "Karthik",
+        "M M Manasi",
+        "Thaman S",
+        "Bhaskarabhatla",
+        "Ravi Kumar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Akhil-The-Power-Of-Jua-2015/05--Karthik+M.M._Manasi+Thaman_S+Bhaskarabhatla+Ravi_Kumar--Padessavae.m4a"
+    }
+  ]
+}
