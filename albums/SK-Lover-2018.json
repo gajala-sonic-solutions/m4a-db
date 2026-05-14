@@ -1,0 +1,58 @@
+{
+  "artist": "Sai Karthik",
+  "album": "Lover",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Naalo Chilipi Kala Theme Song",
+      "artists": [
+        "Yazin Nizar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/01--Yazin_Nizar--Naalo_Chilipi_Kala_Theme_Song.m4a"
+    },
+    {
+      "track": 2,
+      "title": "What A Ammayi",
+      "artists": [
+        "Sonu Nigam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/02--Sonu_Nigam--What_A_Ammayi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Adbhutam",
+      "artists": [
+        "Jubin Nautiyal",
+        "Ranjini Jose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/03--Jubin_Nautiyal+Ranjini_Jose--Adbhutam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ramuni Banamla",
+      "artists": [
+        "Sai Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/04--Sai_Charan--Ramuni_Banamla.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Anthe Kada Mari",
+      "artists": [
+        "Ankit Tiwari",
+        "Jonita Gandhi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/05--Ankit_Tiwari+Jonita_Gandhi--Anthe_Kada_Mari.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yevaipuga Naa Choopu Saagali Sad Song",
+      "artists": [
+        "Ankit Tiwari"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/06--Ankit_Tiwari--Yevaipuga_Naa_Choopu_Saagali_Sad_Song.m4a"
+    }
+  ]
+}

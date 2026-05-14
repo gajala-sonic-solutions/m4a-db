@@ -49,6 +49,14 @@
       "tracksFile": "albums/JP-dear-comrade.json"
     },
     {
+      "id": "SK-Lover-2018",
+      "artist": "Sai Karthik",
+      "title": "Lover",
+      "year": 2018,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Lover-2018/cover.webp",
+      "tracksFile": "albums/SK-Lover-2018.json"
+    },
+    {
       "id": "ShK-Fidaa-2017",
       "artist": "Shakthikanth Karthick",
       "title": "Fidaa",
