@@ -1,0 +1,59 @@
+{
+  "artist": "Mahati Swara Sagar",
+  "album": "Bheeshma",
+  "year": 2019,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Singles Anthem",
+      "artists": [
+        "Anurag Kulkarni",
+        "Nithiin",
+        "Rashmika Mandanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/01--Anurag_Kulkarni+Nithiin+Rashmika_Mandanna--Singles_Anthem.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Whattey Beauty",
+      "artists": [
+        "Dhanunjay",
+        "Amala Chebolu",
+        "Nithiin",
+        "Rashmika Mandanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/02--Dhanunjay+Amala_Chebolu+Nithiin+Rashmika_Mandanna--Whattey_Beauty.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Sara Sari",
+      "artists": [
+        "Anurag Kulkarni",
+        "Nithiin",
+        "Rashmika Mandanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/03--Anurag_Kulkarni+Nithiin+Rashmika_Mandanna--Sara_Sari.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Super Cute",
+      "artists": [
+        "Nakash Aziz",
+        "Nithiin",
+        "Rashmika Mandanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/04--Nakash_Aziz+Nithiin+Rashmika_Mandanna--Super_Cute.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hey choosa",
+      "artists": [
+        "Sanjana Kalamanje",
+        "Nithiin",
+        "Rashmika Mandanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/05--Sanjana_Kalamanje+Nithiin+Rashmika_Mandanna--Hey_choosa.m4a"
+    }
+  ]
+}

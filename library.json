@@ -81,6 +81,14 @@
       "tracksFile": "albums/JP-Meenakshi-Sundareshwar-2021.json"
     },
     {
+      "id": "MSS-Bheeshma-2019",
+      "artist": "Mahati Swara Sagar",
+      "title": "Bheeshma",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Bheeshma-2019/cover.webp",
+      "tracksFile": "albums/MSS-Bheeshma-2019.json"
+    },
+    {
       "id": "JP-Dear-Comrade-OST-2019",
       "artist": "Justin Prabhakaran",
       "title": "Dear Comrade [OST]",
