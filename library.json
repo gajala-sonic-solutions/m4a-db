@@ -65,6 +65,14 @@
       "tracksFile": "albums/CB-Guna-369-2019.json"
     },
     {
+      "id": "AR-90ml-2019",
+      "artist": "Anup Rubens",
+      "title": "90ml",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-90ml-2019/cover.webp",
+      "tracksFile": "albums/AR-90ml-2019.json"
+    },
+    {
       "id": "DNT-Kousalya-Krishnamurthy-2019",
       "artist": "Dhibu Ninan Thomas",
       "title": "Kousalya Krishnamurthy",
