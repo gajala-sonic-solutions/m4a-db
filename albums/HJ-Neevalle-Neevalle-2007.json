@@ -1,0 +1,63 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Neevalle Neevalle",
+  "year": 2007,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Neevalle Nevalle",
+      "artists": [
+        "Harini",
+        "Krish",
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/01--Harini+Krish+Karthik--Neevalle_Nevalle.m4a"
+    },
+    {
+      "track": 2,
+      "title": "June Pothe",
+      "artists": [
+        "Arun",
+        "Krish"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/02--Arun+Krish--June_Pothe.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vysakha Vennela",
+      "artists": [
+        "Haricharan",
+        "Swarnalatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/03--Haricharan+Swarnalatha--Vysakha_Vennela.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Mudhalenadu",
+      "artists": [
+        "Naresh Iyer",
+        "Shalini Singh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/04--Naresh_Iyer+Shalini_Singh--Mudhalenadu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hello Miss",
+      "artists": [
+        "G V Prakash Kumar",
+        "Chinmayee"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/05--G.V.Prakash_Kumar+Chinmayee--Hello_Miss.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yevvana Ullasam",
+      "artists": [
+        "Shalini Singh",
+        "Krish"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Neevalle-Neevalle-2007/06--Shalini_Singh+Krish--Yevvana_Ullasam.m4a"
+    }
+  ]
+}
