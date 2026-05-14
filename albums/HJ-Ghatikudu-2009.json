@@ -1,0 +1,78 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Ghatikudu",
+  "year": 2009,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Asale Pilla",
+      "artists": [
+        "Benny Dayal",
+        "Karthik",
+        "Harini",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/01--Benny_Dayal+Karthik+Harini+Harris_Jayaraj+Bhuvana_Chandra--Asale_Pilla.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Edo Edo",
+      "artists": [
+        "Shail Hada",
+        "Andrea Jeremiah",
+        "Sricharan",
+        "Sudha Raghunathan",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/02--Shail_Hada+Andrea_Jeremiah+Sricharan+Sudha_Raghunathan+Harris_Jayaraj+Bhuvana_Chandra--Edo_Edo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Damakku Damakku",
+      "artists": [
+        "Benny Dayal",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/03--Benny_Dayal+Harris_Jayaraj+Bhuvana_Chandra--Damakku_Damakku.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Mrogindi",
+      "artists": [
+        "Chinmayi Sripada",
+        "Rahul Nambiar",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/04--Chinmayi_Sripada+Rahul_Nambiar+Harris_Jayaraj+Bhuvana_Chandra--Mrogindi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Dheko Dheko",
+      "artists": [
+        "Suvi Suresh",
+        "Sricharan",
+        "Feji",
+        "Sandhya",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/05--Suvi_Suresh+Sricharan+Feji+Sandhya+Harris_Jayaraj+Bhuvana_Chandra--Dheko_Dheko.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Maasi Maasi",
+      "artists": [
+        "Megha",
+        "Mano",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/06--Megha+Mano+Harris_Jayaraj+Bhuvana_Chandra--Maasi_Maasi.m4a"
+    }
+  ]
+}

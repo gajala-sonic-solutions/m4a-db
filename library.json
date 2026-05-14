@@ -465,6 +465,14 @@
       "tracksFile": "albums/SG-Bheemili-Kabaddi-Jattu-2010.json"
     },
     {
+      "id": "HJ-Ghatikudu-2009",
+      "artist": "Harris Jayaraj",
+      "title": "Ghatikudu",
+      "year": 2009,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Ghatikudu-2009/cover.webp",
+      "tracksFile": "albums/HJ-Ghatikudu-2009.json"
+    },
+    {
       "id": "KMR-Bale-Dongalu-2008",
       "artist": "K M Radhakrishnan",
       "title": "Bale Dongalu",
