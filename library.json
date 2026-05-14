@@ -65,6 +65,14 @@
       "tracksFile": "albums/ShK-Fidaa-2017.json"
     },
     {
+      "id": "SK-Dwaraka-2016",
+      "artist": "Sai Karthik",
+      "title": "Dwaraka",
+      "year": 2016,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/cover.webp",
+      "tracksFile": "albums/SK-Dwaraka-2016.json"
+    },
+    {
       "id": "SK-supreme-2019",
       "artist": "Sai Karthik",
       "title": "Supreme",

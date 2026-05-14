@@ -1,0 +1,49 @@
+{
+  "artist": "Sai Karthik",
+  "album": "Dwaraka",
+  "year": 2016,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bhajare Nanda Gopala",
+      "artists": [
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/01--K._S._Chithra--Bhajare_Nanda_Gopala.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Adire Dhada Puttinde",
+      "artists": [
+        "Sai Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/02--Sai_Charan--Adire_Dhada_Puttinde.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Janthar Manthar",
+      "artists": [
+        "Saketh Komanduri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/03--Saketh_Komanduri--Janthar_Manthar.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Entha Chitram Kada",
+      "artists": [
+        "Sameera Bharadwaj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/04--Sameera_Bharadwaj--Entha_Chitram_Kada.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Allabbi Allabbi",
+      "artists": [
+        "Revanth",
+        "Divija Karthic"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Dwaraka-2016/05--Revanth+Divija_Karthic--Allabbi_Allabbi.m4a"
+    }
+  ]
+}
