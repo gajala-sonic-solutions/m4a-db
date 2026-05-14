@@ -33,6 +33,14 @@
       "tracksFile": "albums/JP-Radhe-Shyam-2022.json"
     },
     {
+      "id": "AR-Bangarraju-2022",
+      "artist": "Anup Rubens",
+      "title": "Bangarraju",
+      "year": 2022,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/cover.webp",
+      "tracksFile": "albums/AR-Bangarraju-2022.json"
+    },
+    {
       "id": "AR-30-Rojullo-Preminchadam-Ela-2021",
       "artist": "Anup Rubens",
       "title": "30 Rojullo Preminchadam Ela",

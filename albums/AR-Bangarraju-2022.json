@@ -1,0 +1,70 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Bangarraju",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nuvvu Siggupadithe",
+      "artists": [
+        "K S Chithra",
+        "Sai Charan",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/01--K._S._Chithra+Sai_Charan+Ramya_Behara--Nuvvu_Siggupadithe.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Vaasivaadi Tassadiyyaa",
+      "artists": [
+        "Mohana Bhogaraju",
+        "Shahiti Chaganti",
+        "Harshavardhan Chavali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/02--Mohana_Bhogaraju+Shahiti_Chaganti+Harshavardhan_Chavali--Vaasivaadi_Tassadiyyaa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Naa Kosam",
+      "artists": [
+        "Sid Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/03--Sid_Sriram--Naa_Kosam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Entha Sakkagundhiro",
+      "artists": [
+        "Sai Madhav",
+        "Mohana Bogaraju",
+        "Meghana Raj",
+        "Kavya",
+        "Aparna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/04--Sai_Madhav+Mohana_Bogaraju+Meghana_Raj+Kavya+Aparna--Entha_Sakkagundhiro.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Bangaara",
+      "artists": [
+        "Madhu Priya",
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/05--Madhu_Priya+Anup_Rubens--Bangaara.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Laddunda",
+      "artists": [
+        "Akkineni Nagarjuna",
+        "Dhanunjay Seepana",
+        "Anup Rubens",
+        "Nuthana Mohan",
+        "Mohana Bogaraju",
+        "Haripriya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bangarraju-2022/06--Akkineni_Nagarjuna+Dhanunjay_Seepana+Anup_Rubens+Nuthana_Mohan+Mohana_Bogaraju+Haripriya--Laddunda.m4a"
+    }
+  ]
+}
