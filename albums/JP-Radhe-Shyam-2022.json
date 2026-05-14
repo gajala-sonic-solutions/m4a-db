@@ -1,0 +1,76 @@
+{
+  "artist": "Justin Prabhakaran",
+  "album": "Radhe Shyam",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Sanchari",
+      "artists": [
+        "Anirudh Ravichander",
+        "Justin Prabhakaran",
+        "Krishna Kanth"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/01--Anirudh_Ravichander+Justin_Prabhakaran+Krishna_Kanth--Sanchari.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nagumomu Thaarale",
+      "artists": [
+        "Sid Sriram",
+        "Justin Prabhakaran",
+        "Krishna Kanth"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/02--Sid_Sriram+Justin_Prabhakaran+Krishna_Kanth--Nagumomu_Thaarale.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ee Raathale",
+      "artists": [
+        "Yuvan Shankar Raja",
+        "Harini Ivaturi",
+        "Justin Prabhakaran",
+        "Krishna Kanth"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/03--Yuvan_Shankar_Raja+Harini_Ivaturi+Justin_Prabhakaran+Krishna_Kanth--Ee_Raathale.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ninnele",
+      "artists": [
+        "Anurag Kulkarni",
+        "Shreya Ghoshal",
+        "Justin Prabhakaran",
+        "Krishna Kanth"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/04--Anurag_Kulkarni+Shreya_Ghoshal+Justin_Prabhakaran+Krishna_Kanth--Ninnele.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Krishna Krishna",
+      "artists": [
+        "Sathya Yamini",
+        "Justin Prabhakaran"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/05--Sathya_Yamini+Justin_Prabhakaran--Krishna_Krishna.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Sei Un Angelo",
+      "artists": [
+        "Justin Prabhakaran"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/06--Justin_Prabhakaran--Sei_Un_Angelo.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Sundhara Vadhana",
+      "artists": [
+        "Aishwarya Ravichandran",
+        "Justin Prabhakaran"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/JP-Radhe-Shyam-2022/07--Aishwarya_Ravichandran+Justin_Prabhakaran--Sundhara_Vadhana.m4a"
+    }
+  ]
+}
