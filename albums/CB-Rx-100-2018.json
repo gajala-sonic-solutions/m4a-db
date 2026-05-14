@@ -1,0 +1,108 @@
+{
+  "artist": "Chaitan Bharadwaj",
+  "album": "Rx 100",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nippai Ragile",
+      "artists": [
+        "Rahul Sipligunj",
+        "Chaitan Bharadwaj",
+        "Chaitanya Varma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/01--Rahul_Sipligunj+Chaitan_Bharadwaj+Chaitanya_Varma--Nippai_Ragile.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Reppalanindaa",
+      "artists": [
+        "Haricharan",
+        "Chaitan Bharadwaj",
+        "Srimani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/02--Haricharan+Chaitan_Bharadwaj+Srimani--Reppalanindaa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Adire Hrudayam",
+      "artists": [
+        "Karthik",
+        "Chaitan Bharadwaj",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/03--Karthik+Chaitan_Bharadwaj+Chaitanya_Prasad--Adire_Hrudayam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Pillaa Raa",
+      "artists": [
+        "Anurag Kulkarni",
+        "Chaitan Bharadwaj",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/04--Anurag_Kulkarni+Chaitan_Bharadwaj+Chaitanya_Prasad--Pillaa_Raa.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Rudhiram Marigi",
+      "artists": [
+        "Deepthi Parthasarathi",
+        "Sai Charan",
+        "Chaitan Bharadwaj",
+        "Sira Sri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/05--Deepthi_Parthasarathi+Sai_Charan+Chaitan_Bharadwaj+Sira_Sri--Rudhiram_Marigi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manasuni Patti Daaram Katti Yevare Yevare",
+      "artists": [
+        "Haricharan",
+        "Umaneha",
+        "Chaitan Bharadwaj",
+        "Srimani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/06--Haricharan+Umaneha+Chaitan_Bharadwaj+Srimani--Manasuni_Patti_Daaram_Katti_Yevare_Yevare.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Pere Paruvala Jaaji Dhinaku Dhina Da",
+      "artists": [
+        "Varam",
+        "Sreedeep K",
+        "Maruthi Kodimoju",
+        "Chaitan Bharadwaj",
+        "Chaitanya Varma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/07--Varam+Sreedeep.K+Maruthi_Kodimoju+Chaitan_Bharadwaj+Chaitanya_Varma--Pere_Paruvala_Jaaji_Dhinaku_Dhina_Da.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Pillaa Raa Flute Version",
+      "artists": [
+        "Lalit Talluri",
+        "Chaitan Bharadwaj",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/08--Lalit_Talluri+Chaitan_Bharadwaj+Chaitanya_Prasad--Pillaa_Raa_Flute_Version.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Pillaa Raa DJ Song",
+      "artists": [
+        "M M Manasi",
+        "Sri Vardhini",
+        "Thanushree Natarajan",
+        "Miraya",
+        "Varma",
+        "Revanth",
+        "Shabir",
+        "Shabir",
+        "Shree Mani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Rx-100-2018/09--M.M._Manasi+Sri_Vardhini+Thanushree_Natarajan+Miraya+Varma+Revanth_+_Shabir+Shabir+Shree_Mani--Pillaa_Raa_DJ_Song.m4a"
+    }
+  ]
+}
