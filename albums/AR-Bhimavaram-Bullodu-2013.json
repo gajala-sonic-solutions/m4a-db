@@ -1,0 +1,65 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Bhimavaram Bullodu",
+  "year": 2013,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Oka Vaipu Nuvvu",
+      "artists": [
+        "Anup Rubens",
+        "Saindhavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/01--Anup_Rubens+Saindhavi--Oka_Vaipu_Nuvvu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Supermanula",
+      "artists": [
+        "Pruthvi",
+        "Pranathi",
+        "Ramki",
+        "Dhanunjay"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/02--Pruthvi+Pranathi+Ramki+Dhanunjay--Supermanula.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Premalo Paddanu Raa",
+      "artists": [
+        "Vijay Prakash",
+        "Shravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/03--Vijay_Prakash+Shravani--Premalo_Paddanu_Raa.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Pallakitho Vasthane",
+      "artists": [
+        "Raja Hasan",
+        "Ramya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/04--Raja_Hasan+Ramya--Pallakitho_Vasthane.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Bhimavaram Bullodu",
+      "artists": [
+        "Anjana Sowmya",
+        "Bhargavi Pillaye",
+        "Megha Raj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/05--Anjana_Sowmya+Bhargavi_Pillaye+Megha_Raj--Bhimavaram_Bullodu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Oka Vaipu Nuvvu Rubens Club Mix",
+      "artists": [
+        "Anup Rubens",
+        "Saindhavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Bhimavaram-Bullodu-2013/06--Anup_Rubens+Saindhavi--Oka_Vaipu_Nuvvu_Rubens_Club_Mix.m4a"
+    }
+  ]
+}
