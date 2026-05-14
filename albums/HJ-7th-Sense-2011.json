@@ -1,0 +1,77 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "7th Sense",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Oh Ringa Ringa",
+      "artists": [
+        "Benny Dayal",
+        "Suchitra",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/01--Benny_Dayal+Suchitra+Harris_Jayaraj+Bhuvana_Chandra--Oh_Ringa_Ringa.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Mutyala Dhaarani",
+      "artists": [
+        "Karthik",
+        "Megha",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/02--Karthik+Megha+Harris_Jayaraj+Bhuvana_Chandra--Mutyala_Dhaarani.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Yellae Lama",
+      "artists": [
+        "Vijay Prakash",
+        "Karthik",
+        "Shalini Singh",
+        "Rita",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/03--Vijay_Prakash+Karthik+Shalini_Singh+Rita+Harris_Jayaraj+Bhuvana_Chandra--Yellae_Lama.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Amma Amma",
+      "artists": [
+        "Shweta Mohan",
+        "S P Balasubrahmanyam",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/04--Shweta_Mohan+S._P._Balasubrahmanyam+Harris_Jayaraj+Bhuvana_Chandra--Amma_Amma.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Endukanta Joda",
+      "artists": [
+        "Naresh Iyer",
+        "Suchith Suresan",
+        "Balram",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/05--Naresh_Iyer+Suchith_Suresan+Balram+Harris_Jayaraj+Bhuvana_Chandra--Endukanta_Joda.m4a"
+    },
+    {
+      "track": 6,
+      "title": "The Rise Of Damo Mandarin Telugu",
+      "artists": [
+        "Sunitha Sarathy",
+        "Hao Wang",
+        "Harris Jayaraj",
+        "Bhuvana Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-7th-Sense-2011/06--Sunitha_Sarathy+Hao_Wang+Harris_Jayaraj+Bhuvana_Chandra--The_Rise_Of_Damo_Mandarin_Telugu.m4a"
+    }
+  ]
+}
