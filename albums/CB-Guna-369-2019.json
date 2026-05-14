@@ -1,0 +1,59 @@
+{
+  "artist": "Chaitan Bharadwaj",
+  "album": "Guna 369",
+  "year": 2019,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Tholi Parichayama Idhi",
+      "artists": [
+        "Haricharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/01--Haricharan--Tholi_Parichayama_Idhi.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Bujji Bangaram",
+      "artists": [
+        "Nakash Aziz",
+        "Deepthi Parthasarathy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/02--Nakash_Aziz+Deepthi_Parthasarathy--Bujji_Bangaram.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Manasukidi Garalam",
+      "artists": [
+        "Vijay Yesudas",
+        "Shweta Mohan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/03--Vijay_Yesudas+Shweta_Mohan--Manasukidi_Garalam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Dheveri",
+      "artists": [
+        "Gowtham Bharadwaj",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/04--Gowtham_Bharadwaj+Ramya_Behara--Dheveri.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Dhamaruka",
+      "artists": [
+        "Kala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/05--Kala_Bhairava--Dhamaruka.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Usuremo",
+      "artists": [
+        "Mohana Bhogaraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/06--Mohana_Bhogaraju--Usuremo.m4a"
+    }
+  ]
+}

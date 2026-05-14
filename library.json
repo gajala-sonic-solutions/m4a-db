@@ -41,6 +41,14 @@
       "tracksFile": "albums/JP-Meenakshi-Sundareshwar-2021.json"
     },
     {
+      "id": "CB-Guna-369-2019",
+      "artist": "Chaitan Bharadwaj",
+      "title": "Guna 369",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/CB-Guna-369-2019/cover.webp",
+      "tracksFile": "albums/CB-Guna-369-2019.json"
+    },
+    {
       "id": "DNT-Kousalya-Krishnamurthy-2019",
       "artist": "Dhibu Ninan Thomas",
       "title": "Kousalya Krishnamurthy",
