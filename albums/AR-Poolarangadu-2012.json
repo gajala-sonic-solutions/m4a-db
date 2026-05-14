@@ -1,0 +1,65 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Poolarangadu",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Poolarangadu",
+      "artists": [
+        "Benny Dayal",
+        "Nakash",
+        "Bhargavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/01--Benny_Dayal+Nakash+Bhargavi--Poolarangadu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nuvvu Naaku",
+      "artists": [
+        "Anup Rubens",
+        "Ranjith",
+        "Kousalya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/02--Anup_Rubens+Ranjith+Kousalya--Nuvvu_Naaku.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Okkade Okkade",
+      "artists": [
+        "Raja Hasan",
+        "Noel",
+        "Lipisika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/03--Raja_Hasan+Noel_+Lipisika--Okkade_Okkade.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nuvve Nuvvele",
+      "artists": [
+        "Karthik",
+        "Gayathri Raghuram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/04--Karthik+Gayathri_Raghuram--Nuvve_Nuvvele.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chocklet",
+      "artists": [
+        "Udit Narayan",
+        "Meenal Jain"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/05--Udit_Narayan+Meenal_Jain--Chocklet.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Okkade Remix",
+      "artists": [
+        "Raja Hasan",
+        "Lipisika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Poolarangadu-2012/06--Raja_Hasan+Lipisika--Okkade_Remix.m4a"
+    }
+  ]
+}
