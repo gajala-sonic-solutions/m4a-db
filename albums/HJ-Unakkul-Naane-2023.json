@@ -1,0 +1,41 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Unakkul Naane",
+  "year": 2023,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Unakkul-Naane-2023/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Unakkul Naane",
+      "artists": [
+        "Harris Jayaraj",
+        "Rohini",
+        "Pritt",
+        "dilushselva"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Unakkul-Naane-2023/01--Harris_Jayaraj+Rohini+Pritt+dilushselva--Unakkul_Naane.m4a"
+    },
+    {
+      "track": 1,
+      "title": "Unakkul Naane Sped Up",
+      "artists": [
+        "Harris Jayaraj",
+        "Rohini",
+        "Pritt",
+        "dilushselva"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Unakkul-Naane-2023/01--Harris_Jayaraj+Rohini+Pritt+dilushselva--Unakkul_Naane_Sped_Up.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Unakkul Naane slowed reverbed",
+      "artists": [
+        "Harris Jayaraj",
+        "Rohini",
+        "Pritt",
+        "dilushselva"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Unakkul-Naane-2023/02--Harris_Jayaraj+Rohini+Pritt+dilushselva--Unakkul_Naane_slowed_reverbed.m4a"
+    }
+  ]
+}
