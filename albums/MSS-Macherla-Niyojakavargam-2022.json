@@ -1,0 +1,52 @@
+{
+  "artist": "Mahati Swara Sagar",
+  "album": "Macherla Niyojakavargam",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Macherla-Niyojakavargam-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Chill Maaro Chill Maaro",
+      "artists": [
+        "Nakash Aziz",
+        "Sanjana Kalmanje",
+        "Nithiin",
+        "Krithi Shetty"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Macherla-Niyojakavargam-2022/01--Nakash_Aziz+Sanjana_Kalmanje+Nithiin+Krithi_Shetty--Chill_Maaro_Chill_Maaro.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ra Ra Reddy I Am Ready",
+      "artists": [
+        "Lipisika",
+        "Aditya Iyengar",
+        "Nithiin",
+        "Anjali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Macherla-Niyojakavargam-2022/02--Lipisika+Aditya_Iyengar+Nithiin+Anjali--Ra_Ra_Reddy_I_Am_Ready.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Adirindey",
+      "artists": [
+        "Sanjith Hegde",
+        "Nithiin",
+        "Krithi Shetty"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Macherla-Niyojakavargam-2022/03--Sanjith_Hegde+Nithiin+Krithi_Shetty--Adirindey.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Pori Superoo",
+      "artists": [
+        "Rahul Sipligunj",
+        "Geetha Madhuri",
+        "Nithiin",
+        "Krithi Shetty",
+        "Catherine Tresa"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Macherla-Niyojakavargam-2022/04--Rahul_Sipligunj+Geetha_Madhuri+Nithiin+Krithi_Shetty+Catherine_Tresa--Pori_Superoo.m4a"
+    }
+  ]
+}

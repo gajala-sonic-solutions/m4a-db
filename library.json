@@ -41,6 +41,14 @@
       "tracksFile": "albums/SK-Pataas-2022.json"
     },
     {
+      "id": "MSS-Macherla-Niyojakavargam-2022",
+      "artist": "Mahati Swara Sagar",
+      "title": "Macherla Niyojakavargam",
+      "year": 2022,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Macherla-Niyojakavargam-2022/cover.webp",
+      "tracksFile": "albums/MSS-Macherla-Niyojakavargam-2022.json"
+    },
+    {
       "id": "JP-Radhe-Shyam-2022",
       "artist": "Justin Prabhakaran",
       "title": "Radhe Shyam",
