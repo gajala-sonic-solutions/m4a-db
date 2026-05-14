@@ -217,6 +217,14 @@
       "tracksFile": "albums/AR-Akhil-The-Power-Of-Jua-2015.json"
     },
     {
+      "id": "AR-Manam-2014",
+      "artist": "Anup Rubens",
+      "title": "Manam",
+      "year": 2014,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/cover.webp",
+      "tracksFile": "albums/AR-Manam-2014.json"
+    },
+    {
       "id": "AR-Loukyam-2014",
       "artist": "Anup Rubens",
       "title": "Loukyam",

@@ -1,0 +1,61 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Manam",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Piyo Piyo Re",
+      "artists": [
+        "Jaspreet Jasz",
+        "Anup Rubens",
+        "Megh Raj",
+        "Rahul"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/01--Jaspreet_Jasz+Anup_Rubens+Megh_Raj+Rahul--Piyo_Piyo_Re.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Kanulanu Thaake",
+      "artists": [
+        "Arijit Singh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/02--Arijit_Singh--Kanulanu_Thaake.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chinni Chinni Aasalu",
+      "artists": [
+        "Shreya Ghoshal",
+        "Ashwin",
+        "Hari"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/03--Shreya_Ghoshal+Ashwin+Hari--Chinni_Chinni_Aasalu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Kani Penchina Ma Ammake",
+      "artists": [
+        "Bharath"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/04--Bharath--Kani_Penchina_Ma_Ammake.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Edhi Prema",
+      "artists": [
+        "Haricharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/05--Haricharan--Edhi_Prema.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manam Theme",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Manam-2014/06--Anup_Rubens--Manam_Theme.m4a"
+    }
+  ]
+}
