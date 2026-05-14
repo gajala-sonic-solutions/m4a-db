@@ -1,0 +1,51 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Sita",
+  "year": 2019,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sita-2019/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bulreddy",
+      "artists": [
+        "Uma Neha",
+        "Teja",
+        "Santosh G",
+        "Amito"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sita-2019/01--Uma_Neha+Teja+Santosh.G+Amito--Bulreddy.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nijamena",
+      "artists": [
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sita-2019/02--Anurag_Kulkarni--Nijamena.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Koyilamma",
+      "artists": [
+        "Armaan Malik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sita-2019/03--Armaan_Malik--Koyilamma.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Rola Rola",
+      "artists": [
+        "Paroma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sita-2019/04--Paroma--Rola_Rola.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Evaradi Evaradi",
+      "artists": [
+        "Haricharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Sita-2019/05--Haricharan--Evaradi_Evaradi.m4a"
+    }
+  ]
+}
