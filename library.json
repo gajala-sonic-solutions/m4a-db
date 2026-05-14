@@ -601,6 +601,14 @@
       "tracksFile": "albums/KMR-Anand-2004.json"
     },
     {
+      "id": "HJ-Vaasu-2002",
+      "artist": "Harris Jayaraj",
+      "title": "Vaasu",
+      "year": 2002,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/cover.webp",
+      "tracksFile": "albums/HJ-Vaasu-2002.json"
+    },
+    {
       "id": "HJ-Cheli-2001",
       "artist": "Harris Jayaraj",
       "title": "Cheli",

@@ -1,0 +1,94 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Vaasu",
+  "year": 2002,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Pataku Pranam",
+      "artists": [
+        "KK",
+        "Swarnalatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/01--KK+Swarnalatha--Pataku_Pranam.m4a"
+    },
+    {
+      "track": 2,
+      "title": "O Prema",
+      "artists": [
+        "Devan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/02--Devan--O_Prema.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vaale Vaale",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/03--S._P._Balasubrahmanyam+K._S._Chithra+Karthik--Vaale_Vaale.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Sportive Boys",
+      "artists": [
+        "KK",
+        "Clinton",
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/04--KK+Clinton+Tippu--Sportive_Boys.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Nammave Ammai",
+      "artists": [
+        "Raghavendra",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/05--Raghavendra+K._S._Chithra--Nammave_Ammai.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Padana Teeyaga",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/06--S._P._Balasubrahmanyam--Padana_Teeyaga.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Stick Dance Bit",
+      "artists": [
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/07--Harris_Jayaraj--Stick_Dance_Bit.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Music Bit",
+      "artists": [
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/08--Harris_Jayaraj--Music_Bit.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Interval Bang Music Bit",
+      "artists": [
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/09--Harris_Jayaraj--Interval_Bang_Music_Bit.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Montages Music Bit",
+      "artists": [
+        "Harris Jayaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/10--Harris_Jayaraj--Montages_Music_Bit.m4a"
+    }
+  ]
+}
