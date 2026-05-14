@@ -65,6 +65,14 @@
       "tracksFile": "albums/SK-Lover-2018.json"
     },
     {
+      "id": "SK-Raja-The-Great-2017",
+      "artist": "Sai Karthik",
+      "title": "Raja The Great",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/cover.webp",
+      "tracksFile": "albums/SK-Raja-The-Great-2017.json"
+    },
+    {
       "id": "ShK-Fidaa-2017",
       "artist": "Shakthikanth Karthick",
       "title": "Fidaa",

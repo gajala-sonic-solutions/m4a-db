@@ -1,0 +1,52 @@
+{
+  "artist": "Sai Karthik",
+  "album": "Raja The Great",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Raja The Great",
+      "artists": [
+        "Ravi Teja",
+        "Revanth",
+        "Saketh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/01--Ravi_Teja+Revanth+Saketh--Raja_The_Great.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Naake Ne Nachesthunna",
+      "artists": [
+        "Sameera Bharadwaj",
+        "ML Shruthi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/02--Sameera_Bharadwaj+ML_Shruthi--Naake_Ne_Nachesthunna.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chinnari",
+      "artists": [
+        "Haricharan",
+        "Divija Kartheek"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/03--Haricharan+Divija_Kartheek--Chinnari.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Allabe Allabe",
+      "artists": [
+        "Yazin Nizar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/04--Yazin_Nizar--Allabe_Allabe.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Yenniyalo Yenniyalo",
+      "artists": [
+        "Sai Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SK-Raja-The-Great-2017/05--Sai_Karthik--Yenniyalo_Yenniyalo.m4a"
+    }
+  ]
+}
