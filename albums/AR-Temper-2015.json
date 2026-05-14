@@ -1,0 +1,71 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Temper",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Choolenge Aasma",
+      "artists": [
+        "Adnan Sami",
+        "Ramya Behara",
+        "Veena Ghantasala"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/01--Adnan_Sami+Ramya_Behara+Veena_Ghantasala--Choolenge_Aasma.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Temper",
+      "artists": [
+        "Umaneha",
+        "M L R Karthikeyan",
+        "Bhargavi Pillaye",
+        "Simha",
+        "Rap Rahul"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/02--Umaneha+M.L.R._Karthikeyan+Bhargavi_Pillaye+Simha+Rap_Rahul--Temper.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Devudaa",
+      "artists": [
+        "Anup Rubens",
+        "Puri Jagannath"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/03--Anup_Rubens+Puri_Jagannath--Devudaa.m4a"
+    },
+    {
+      "track": 4,
+      "title": "One More Time",
+      "artists": [
+        "Ranjith",
+        "Lipisika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/04--Ranjith+Lipisika--One_More_Time.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ittage Recchipodham",
+      "artists": [
+        "Geetha Madhuri",
+        "Dhanunjay",
+        "Anudeep",
+        "Arun"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/05--Geetha_Madhuri+Dhanunjay+Anudeep+Arun--Ittage_Recchipodham.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Temper Theme",
+      "artists": [
+        "Hymath",
+        "Arun",
+        "Dhanunjay",
+        "Anudeep",
+        "Rap Rahul"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Temper-2015/06--Hymath+Arun+Dhanunjay+Anudeep+Rap_Rahul--Temper_Theme.m4a"
+    }
+  ]
+}
