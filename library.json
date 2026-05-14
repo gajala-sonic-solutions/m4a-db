@@ -241,6 +241,14 @@
       "tracksFile": "albums/SK-Dwaraka-2016.json"
     },
     {
+      "id": "HJ-S3-Yamudu-3-2016",
+      "artist": "Harris Jayaraj",
+      "title": "S3 Yamudu 3",
+      "year": 2016,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/cover.webp",
+      "tracksFile": "albums/HJ-S3-Yamudu-3-2016.json"
+    },
+    {
       "id": "SK-supreme-2019",
       "artist": "Sai Karthik",
       "title": "Supreme",

@@ -1,0 +1,79 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "S3 Yamudu 3",
+  "year": 2016,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "O Sone Sone",
+      "artists": [
+        "Harris Jayaraj",
+        "Javed Ali",
+        "Priya Subramanian",
+        "MC Vickey"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/01--Harris_Jayaraj+Javed_Ali+Priya_Subramanian+MC_Vickey--O_Sone_Sone.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Musi Musi Navvula",
+      "artists": [
+        "Harris Jayaraj",
+        "Aalap Raju",
+        "Swetha Menon",
+        "Ramya NSK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/02--Harris_Jayaraj+Aalap_Raju+Swetha_Menon+Ramya_NSK--Musi_Musi_Navvula.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Universal Cop",
+      "artists": [
+        "Harris Jayaraj",
+        "Christopher Stanley",
+        "Krishna Iyer",
+        "Krish"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/03--Harris_Jayaraj+Christopher_Stanley+Krishna_Iyer+Krish--Universal_Cop.m4a"
+    },
+    {
+      "track": 4,
+      "title": "He s My Hero",
+      "artists": [
+        "Harris Jayaraj",
+        "Maalavika Manoj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/04--Harris_Jayaraj+Maalavika_Manoj--He_s_My_Hero.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Wi Wi Wi Wi Wifi",
+      "artists": [
+        "Harris Jayaraj",
+        "Karthik",
+        "Nikhita Gandhi",
+        "Christopher Stanley"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/05--Harris_Jayaraj+Karthik+Nikhita_Gandhi+Christopher_Stanley--Wi_Wi_Wi_Wi_Wifi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Mission To Sydney",
+      "artists": [
+        "Harris Jayaraj",
+        "Lady Kash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/06--Harris_Jayaraj+Lady_Kash--Mission_To_Sydney.m4a"
+    },
+    {
+      "track": 7,
+      "title": "S3 Vetta Theme Music",
+      "artists": [
+        "Harris Jayaraj",
+        "MC Vickey"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-S3-Yamudu-3-2016/07--Harris_Jayaraj+MC_Vickey--S3_Vetta_Theme_Music.m4a"
+    }
+  ]
+}
