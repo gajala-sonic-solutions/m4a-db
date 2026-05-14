@@ -1,0 +1,71 @@
+{
+  "artist": "Shakthikanth Karthick",
+  "album": "Nela Ticket",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "O Sari Try Chei",
+      "artists": [
+        "Mallikarjun",
+        "Shakthikanth Karthick",
+        "Bhaskarabhatla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/01--Mallikarjun+Shakthikanth_Karthick+Bhaskarabhatla--O_Sari_Try_Chei.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Bijili",
+      "artists": [
+        "Prudhvi Chandra",
+        "Janani Sanjeevi",
+        "Shakthikanth Karthick",
+        "Chaithanya Pingali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/02--Prudhvi_Chandra+Janani_Sanjeevi+Shakthikanth_Karthick+Chaithanya_Pingali--Bijili.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Love You Love You",
+      "artists": [
+        "Sri Krishna",
+        "Ramya Behara",
+        "Shakthikanth Karthick",
+        "Chaithanya Pingali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/03--Sri_Krishna+Ramya_Behara+Shakthikanth_Karthick+Chaithanya_Pingali--Love_You_Love_You.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nela Ticket",
+      "artists": [
+        "Simha",
+        "Madhu Priya",
+        "Shakthikanth Karthick",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/04--Simha+Madhu_Priya+Shakthikanth_Karthick+Ramajogayya_Sastry--Nela_Ticket.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chuttu Janam",
+      "artists": [
+        "Vijay Yesudas",
+        "Shakthikanth Karthick",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/05--Vijay_Yesudas+Shakthikanth_Karthick+Sirivennela_Sitaramasastri--Chuttu_Janam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Namaste",
+      "artists": [
+        "Pvns Rohith",
+        "Shakthikanth Karthick",
+        "Suddala Ashok Teja"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/06--Pvns_Rohith+Shakthikanth_Karthick+Suddala_Ashok_Teja--Namaste.m4a"
+    }
+  ]
+}

@@ -57,6 +57,14 @@
       "tracksFile": "albums/JP-dear-comrade.json"
     },
     {
+      "id": "ShK-Nela-Ticket-2018",
+      "artist": "Shakthikanth Karthick",
+      "title": "Nela Ticket",
+      "year": 2018,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Nela-Ticket-2018/cover.webp",
+      "tracksFile": "albums/ShK-Nela-Ticket-2018.json"
+    },
+    {
       "id": "SK-Lover-2018",
       "artist": "Sai Karthik",
       "title": "Lover",
