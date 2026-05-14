@@ -1,0 +1,52 @@
+{
+  "artist": "Mahati Swara Sagar",
+  "album": "Maestro",
+  "year": 2021,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Maestro-2021/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Baby Oh Baby",
+      "artists": [
+        "Anurag Kulkarni",
+        "Nithiin",
+        "Tamannaah",
+        "Nabha Natesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Maestro-2021/01--Anurag_Kulkarni+Nithiin+Tamannaah+Nabha_Natesh--Baby_Oh_Baby.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Vennello Aadapilla",
+      "artists": [
+        "Sweekar Agasthi",
+        "Nithiin",
+        "Tamannaah",
+        "Nabha Natesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Maestro-2021/02--Sweekar_Agasthi+Nithiin+Tamannaah+Nabha_Natesh--Vennello_Aadapilla.m4a"
+    },
+    {
+      "track": 3,
+      "title": "La La La La",
+      "artists": [
+        "Dhanunjay Seepana",
+        "Nithiin",
+        "Tamannaah",
+        "Nabha Natesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Maestro-2021/03--Dhanunjay_Seepana+Nithiin+Tamannaah+Nabha_Natesh--La_La_La_La.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Shuru Karo",
+      "artists": [
+        "Revanth",
+        "Nithiin",
+        "Tamannaah",
+        "Nabha Natesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Maestro-2021/04--Revanth+Nithiin+Tamannaah+Nabha_Natesh--Shuru_Karo.m4a"
+    }
+  ]
+}

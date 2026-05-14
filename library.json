@@ -65,6 +65,14 @@
       "tracksFile": "albums/AR-Bangarraju-2022.json"
     },
     {
+      "id": "MSS-Maestro-2021",
+      "artist": "Mahati Swara Sagar",
+      "title": "Maestro",
+      "year": 2021,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MSS-Maestro-2021/cover.webp",
+      "tracksFile": "albums/MSS-Maestro-2021.json"
+    },
+    {
       "id": "AR-Manchi-Rojulochaie-2021",
       "artist": "Anup Rubens",
       "title": "Manchi Rojulochaie",
