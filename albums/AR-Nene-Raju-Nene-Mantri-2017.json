@@ -1,0 +1,68 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Nene Raju Nene Mantri",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Jogendra Jogendra",
+      "artists": [
+        "Shreya Ghoshal",
+        "Rohith",
+        "Anup Rubens",
+        "Surendra Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/01--Shreya_Ghoshal+Rohith+Anup_Rubens+Surendra_Krishna--Jogendra_Jogendra.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Sukhibhava Annaru",
+      "artists": [
+        "Sravani",
+        "Anup Rubens",
+        "Surendra Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/02--Sravani+Anup_Rubens+Surendra_Krishna--Sukhibhava_Annaru.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Devuditho Samaram",
+      "artists": [
+        "Master Rishon Rubens",
+        "Divya",
+        "Anup Rubens",
+        "Surendra Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/03--Master_Rishon_Rubens+Divya+Anup_Rubens+Surendra_Krishna--Devuditho_Samaram.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Radhamma Radhamma",
+      "artists": [
+        "Vijay Yesudas",
+        "Ramya",
+        "Anup Rubens",
+        "Surendra Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/04--Vijay_Yesudas+Ramya+Anup_Rubens+Surendra_Krishna--Radhamma_Radhamma.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Sumangalai",
+      "artists": [
+        "Anup Rubens",
+        "Lakshmi Bhupala"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/05--Anup_Rubens+Lakshmi_Bhupala--Sumangalai.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Kathulatho",
+      "artists": [
+        "Anup Rubens"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Nene-Raju-Nene-Mantri-2017/06--Anup_Rubens--Kathulatho.m4a"
+    }
+  ]
+}
