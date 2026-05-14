@@ -1,0 +1,62 @@
+{
+  "artist": "Selva Ganesh",
+  "album": "Bheemili Kabaddi Jattu",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Kabaddi",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/01--Shankar_Mahadevan--Kabaddi.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Naalo Parugulu",
+      "artists": [
+        "Karthik",
+        "Chinmayee"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/02--Karthik+Chinmayee--Naalo_Parugulu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Neetho",
+      "artists": [
+        "V V Prasanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/03--V.V.Prasanna--Neetho.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Pada Pada",
+      "artists": [
+        "Karthik",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/04--Karthik+Kalpana_Raghavendar--Pada_Pada.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Soul Of Bheemili Theme Music",
+      "artists": [
+        "Selva Ganesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/05--Selva_Ganesh--Soul_Of_Bheemili_Theme_Music.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Jathara Nidadholu Pilla",
+      "artists": [
+        "Anuj Gurwara",
+        "Karthik",
+        "Malathi Lakshman",
+        "Maya Iyer",
+        "Vinay"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/06--Anuj_Gurwara+Karthik+Malathi_Lakshman+Maya_Iyer+Vinay--Jathara_Nidadholu_Pilla.m4a"
+    }
+  ]
+}
