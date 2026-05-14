@@ -1,0 +1,85 @@
+{
+  "artist": "Harris Jayaraj",
+  "album": "Cheli",
+  "year": 2001,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Aei Vennella Sona",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Harish Raghavendra",
+        "Timmy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/01--Harris_Jayaraj+Bhuvana_Chandra+Harish_Raghavendra+Timmy--Aei_Vennella_Sona.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Kannulu Neevi",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Naveen"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/02--Harris_Jayaraj+Bhuvana_Chandra+Naveen--Kannulu_Neevi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Manohara",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Bombay Jayashri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/03--Harris_Jayaraj+Bhuvana_Chandra+Bombay_Jayashri--Manohara.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Manohara Pt 2",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Bombay Jayashri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/04--Harris_Jayaraj+Bhuvana_Chandra+Bombay_Jayashri--Manohara_Pt_2.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ningiki Jabili Andam",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Harini",
+        "P Unnikrishnan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/05--Harris_Jayaraj+Bhuvana_Chandra+Harini+P._Unnikrishnan--Ningiki_Jabili_Andam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ooh Mama",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Mano",
+        "Timmy",
+        "Vasu",
+        "Chandrani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/06--Harris_Jayaraj+Bhuvana_Chandra+Mano+Timmy+Vasu+Chandrani--Ooh_Mama.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Varshinche Megamila Neynunna",
+      "artists": [
+        "Harris Jayaraj",
+        "Bhuvana Chandra",
+        "Srinivas",
+        "Timmy",
+        "Vasu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/07--Harris_Jayaraj+Bhuvana_Chandra+Srinivas+Timmy+Vasu--Varshinche_Megamila_Neynunna.m4a"
+    }
+  ]
+}

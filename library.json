@@ -495,6 +495,14 @@
       "year": 2004,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/cover.webp",
       "tracksFile": "albums/KMR-Anand-2004.json"
+    },
+    {
+      "id": "HJ-Cheli-2001",
+      "artist": "Harris Jayaraj",
+      "title": "Cheli",
+      "year": 2001,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/cover.webp",
+      "tracksFile": "albums/HJ-Cheli-2001.json"
     }
   ]
 }
