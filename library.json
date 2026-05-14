@@ -81,6 +81,14 @@
       "tracksFile": "albums/CB-Guna-369-2019.json"
     },
     {
+      "id": "AR-Seetharama-Kalyana-2019",
+      "artist": "Anup Rubens",
+      "title": "Seetharama Kalyana",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/cover.webp",
+      "tracksFile": "albums/AR-Seetharama-Kalyana-2019.json"
+    },
+    {
       "id": "AR-90ml-OST-2019",
       "artist": "Anup Rubens",
       "title": "90ml [OST]",

@@ -1,0 +1,48 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Seetharama Kalyana",
+  "year": 2019,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ninna Raja Naanu Nanna Rani Neenu",
+      "artists": [
+        "Armaan Malik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/01--Armaan_Malik--Ninna_Raja_Naanu_Nanna_Rani_Neenu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Bhoomiye Mantapa",
+      "artists": [
+        "Kailash Kher"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/02--Kailash_Kher--Bhoomiye_Mantapa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Mangalyam Thanthunanena",
+      "artists": [
+        "Vijay Prakash"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/03--Vijay_Prakash--Mangalyam_Thanthunanena.m4a"
+    },
+    {
+      "track": 4,
+      "title": "O Jaanu O Jaanu",
+      "artists": [
+        "Sanjith Hegde"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/04--Sanjith_Hegde--O_Jaanu_O_Jaanu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Yaara Shaapa Idu",
+      "artists": [
+        "Kailash Kher"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Seetharama-Kalyana-2019/05--Kailash_Kher--Yaara_Shaapa_Idu.m4a"
+    }
+  ]
+}
