@@ -1,0 +1,50 @@
+{
+  "artist": "Anup Rubens",
+  "album": "Pilla Nuvvu Leni Jeevitham",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dilse Dilse",
+      "artists": [
+        "Rahul Nambiar",
+        "Megaraj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/01--Rahul_Nambiar+Megaraj--Dilse_Dilse.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Pilla Nuvvu Leni Jeevitham",
+      "artists": [
+        "Anudeep",
+        "Rahul"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/02--Anudeep+Rahul--Pilla_Nuvvu_Leni_Jeevitham.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Aa Roje Tholisari",
+      "artists": [
+        "Sri Rama Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/03--Sri_Rama_Chandra--Aa_Roje_Tholisari.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Neeli Neeli Kalladana",
+      "artists": [
+        "Rupam Islam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/04--Rupam_Islam--Neeli_Neeli_Kalladana.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Atoo Itoo Etoo",
+      "artists": [
+        "M L R Karthikeyan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/05--M.L.R._Karthikeyan--Atoo_Itoo_Etoo.m4a"
+    }
+  ]
+}

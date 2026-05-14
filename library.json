@@ -241,6 +241,14 @@
       "tracksFile": "albums/AR-Akhil-The-Power-Of-Jua-2015.json"
     },
     {
+      "id": "AR-Pilla-Nuvvu-Leni-Jeevitham-2014",
+      "artist": "Anup Rubens",
+      "title": "Pilla Nuvvu Leni Jeevitham",
+      "year": 2014,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/AR-Pilla-Nuvvu-Leni-Jeevitham-2014/cover.webp",
+      "tracksFile": "albums/AR-Pilla-Nuvvu-Leni-Jeevitham-2014.json"
+    },
+    {
       "id": "AR-Oka-Laila-Kosam-2014",
       "artist": "Anup Rubens",
       "title": "Oka Laila Kosam",
