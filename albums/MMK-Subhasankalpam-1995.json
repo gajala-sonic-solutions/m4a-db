@@ -1,0 +1,80 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Subhasankalpam",
+  "year": 1995,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Seetamma Andalu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/01--S._P._Balasubrahmanyam+K._S._Chithra--Seetamma_Andalu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chiranjeevi Soubhagyavathi",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "M D Pallavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/02--S._P._Balasubrahmanyam+K._S._Chithra+M.D._Pallavi--Chiranjeevi_Soubhagyavathi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Srisailamlo",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/03--S._P._Balasubrahmanyam--Srisailamlo.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Narudu Bratuku Natana",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "S P Sailaja"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/04--S._P._Balasubrahmanyam+S._P._Sailaja--Narudu_Bratuku_Natana.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Moodu Mullu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "S P Sailaja"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/05--S._P._Balasubrahmanyam+S._P._Sailaja--Moodu_Mullu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Chukkalanni Kalisi",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "S P Sailaja"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/06--S._P._Balasubrahmanyam+S._P._Sailaja--Chukkalanni_Kalisi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Haillessa Hailessa",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "M D Pallavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/07--S._P._Balasubrahmanyam+K._S._Chithra+M.D._Pallavi--Haillessa_Hailessa.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Hari Paadana",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Subhasankalpam-1995/08--S._P._Balasubrahmanyam--Hari_Paadana.m4a"
+    }
+  ]
+}
