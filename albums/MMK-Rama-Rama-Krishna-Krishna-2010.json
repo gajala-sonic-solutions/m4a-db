@@ -1,0 +1,66 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Rama Rama Krishna Krishna",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Rama Rama Krishna Krishna",
+      "artists": [
+        "Karthik",
+        "Ranjith",
+        "Sudha Jeevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/01--Karthik+Ranjith+Sudha_Jeevan--Rama_Rama_Krishna_Krishna.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Oola Ulala",
+      "artists": [
+        "Tippu",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/02--Tippu+Chaitra--Oola_Ulala.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Lera Chanti",
+      "artists": [
+        "Karthik",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/03--Karthik+Chorus--Lera_Chanti.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Count Down",
+      "artists": [
+        "Deepu",
+        "Chaitanya",
+        "Noel"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/04--Deepu+Chaitanya+Noel--Count_Down.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Endhukila",
+      "artists": [
+        "MM Keeravaani",
+        "Karthik",
+        "Geetha Madhuri",
+        "Noel"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/05--MM_Keeravaani+Karthik+Geetha_Madhuri+Noel--Endhukila.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Thu Go Jilla",
+      "artists": [
+        "Daler Mehndi",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Rama-Rama-Krishna-Krishna-2010/06--Daler_Mehndi+Chaitra--Thu_Go_Jilla.m4a"
+    }
+  ]
+}
