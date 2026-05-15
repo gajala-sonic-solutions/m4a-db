@@ -1,0 +1,72 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Chatrapathi",
+  "year": 2005,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "A Vachi B Pai",
+      "artists": [
+        "MM Keeravaani",
+        "Mathangi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/01--MM_Keeravaani+Mathangi--A_Vachi_B_Pai.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Agni Skalana",
+      "artists": [
+        "MM Keeravaani",
+        "Mathangi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/02--MM_Keeravaani+Mathangi--Agni_Skalana.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Summamma Suriya",
+      "artists": [
+        "Kalyan Koduri",
+        "Sunitha",
+        "Smitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/03--Kalyan_Koduri+Sunitha+Smitha--Summamma_Suriya.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nallani Vannio",
+      "artists": [
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/04--K._S._Chithra--Nallani_Vannio.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Mannela Tintivira",
+      "artists": [
+        "Tippu",
+        "Smitha",
+        "Kalyani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/05--Tippu+Smitha+Kalyani--Mannela_Tintivira.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Gundu Sudhi",
+      "artists": [
+        "MM Keeravaani",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/06--MM_Keeravaani+Sunitha--Gundu_Sudhi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Gala Gala",
+      "artists": [
+        "Jessi Gift",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/07--Jessi_Gift+K._S._Chithra--Gala_Gala.m4a"
+    }
+  ]
+}

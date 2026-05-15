@@ -649,6 +649,14 @@
       "tracksFile": "albums/HJ-Sainikudu-2006.json"
     },
     {
+      "id": "MMK-Chatrapathi-2005",
+      "artist": "M M Keeravaani",
+      "title": "Chatrapathi",
+      "year": 2005,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Chatrapathi-2005/cover.webp",
+      "tracksFile": "albums/MMK-Chatrapathi-2005.json"
+    },
+    {
       "id": "HJ-Ghajini-2005",
       "artist": "Harris Jayaraj",
       "title": "Ghajini",
