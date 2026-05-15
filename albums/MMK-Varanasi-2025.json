@@ -6,42 +6,42 @@
   "tracks": [
     {
       "track": 1,
-      "title": "Rana Kumbha",
-      "artists": [
-        "MM Keeravaani",
-        "Aditya Iyengar",
-        "Chaitanya Prasad"
-      ],
-      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/01--MM_Keeravaani+Aditya_Iyengar+Chaitanya_Prasad--Rana_Kumbha.m4a"
-    },
-    {
-      "track": 1,
-      "title": "Desi Girl 2 0 Varanasi Event",
-      "artists": [
-        "MM Keeravaani",
-        "Lipsika Bhashyam",
-        "Chaitanya Prasad"
-      ],
-      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/01--MM_Keeravaani+Lipsika_Bhashyam+Chaitanya_Prasad--Desi_Girl_2_0_Varanasi_Event.m4a"
-    },
-    {
-      "track": 1,
-      "title": "GlobeTrotter From Varanasi",
+      "title": "GlobeTrotter",
       "artists": [
         "MM Keeravaani",
         "Shruti Haasan",
         "Kaala Bhairava",
         "Chaitanya Prasad"
       ],
-      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/01--MM_Keeravaani+Shruti_Haasan+Kaala_Bhairava+Chaitanya_Prasad--GlobeTrotter_From_Varanasi.m4a"
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/01--MM_Keeravaani+Shruti_Haasan+Kaala_Bhairava+Chaitanya_Prasad--GlobeTrotter.m4a"
     },
     {
-      "track": 1,
+      "track": 2,
+      "title": "Rana Kumbha",
+      "artists": [
+        "MM Keeravaani",
+        "Aditya Iyengar",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/02--MM_Keeravaani+Aditya_Iyengar+Chaitanya_Prasad--Rana_Kumbha.m4a"
+    },
+    {
+      "track": 3,
       "title": "The Arrival",
       "artists": [
         "MM Keeravaani"
       ],
-      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/01--MM_Keeravaani--The_Arrival.m4a"
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/03--MM_Keeravaani--The_Arrival.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Desi Girl 2 0",
+      "artists": [
+        "MM Keeravaani",
+        "Lipsika Bhashyam",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Varanasi-2025/04--MM_Keeravaani+Lipsika_Bhashyam+Chaitanya_Prasad--Desi_Girl_2_0_.m4a"
     }
   ]
 }

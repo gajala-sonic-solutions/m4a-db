@@ -1,0 +1,432 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Baahubali [OST]",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Mahendra Baahubali Must Live",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/01--MM_Keeravaani--Mahendra_Baahubali_Must_Live.m4a"
+    },
+    {
+      "track": 2,
+      "title": "The Mask And The Soldier",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/02--MM_Keeravaani--The_Mask_And_The_Soldier.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Tattoo",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/03--MM_Keeravaani--Tattoo.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Bhalla And Bison",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/04--MM_Keeravaani--Bhalla_And_Bison.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Volcanic Words",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/05--MM_Keeravaani--Volcanic_Words.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Man And Woman",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/06--MM_Keeravaani--Man_And_Woman.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Mahishmathi Brace Yourself",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/07--MM_Keeravaani--Mahishmathi_Brace_Yourself.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Undying Glory",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/08--MM_Keeravaani--Undying_Glory.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Rage 1",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/09--MM_Keeravaani--Rage_1.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Rage 2",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/10--MM_Keeravaani--Rage_2.m4a"
+    },
+    {
+      "track": 11,
+      "title": "The King And His Sword",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/11--MM_Keeravaani--The_King_And_His_Sword.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Baahubali The Story",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/12--MM_Keeravaani--Baahubali_The_Story.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Sivagami",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/13--MM_Keeravaani--Sivagami.m4a"
+    },
+    {
+      "track": 14,
+      "title": "True Colours",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/14--MM_Keeravaani--True_Colours.m4a"
+    },
+    {
+      "track": 15,
+      "title": "Kaalakeyas",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/15--MM_Keeravaani--Kaalakeyas.m4a"
+    },
+    {
+      "track": 16,
+      "title": "Old Tools New Plan",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/16--MM_Keeravaani--Old_Tools_New_Plan.m4a"
+    },
+    {
+      "track": 17,
+      "title": "Wkkb",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/17--MM_Keeravaani--Wkkb.m4a"
+    },
+    {
+      "track": 18,
+      "title": "Agni Prasthham",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/18--MM_Keeravaani--Agni_Prasthham.m4a"
+    },
+    {
+      "track": 19,
+      "title": "The Saviour",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/19--MM_Keeravaani--The_Saviour.m4a"
+    },
+    {
+      "track": 20,
+      "title": "Poison",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/20--MM_Keeravaani--Poison.m4a"
+    },
+    {
+      "track": 21,
+      "title": "Sniffer Dog",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/21--MM_Keeravaani--Sniffer_Dog.m4a"
+    },
+    {
+      "track": 22,
+      "title": "The Tour",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/22--MM_Keeravaani--The_Tour.m4a"
+    },
+    {
+      "track": 23,
+      "title": "Compensation",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/23--MM_Keeravaani--Compensation.m4a"
+    },
+    {
+      "track": 24,
+      "title": "Devasena",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/24--MM_Keeravaani--Devasena.m4a"
+    },
+    {
+      "track": 25,
+      "title": "Kunthala",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/25--MM_Keeravaani--Kunthala.m4a"
+    },
+    {
+      "track": 26,
+      "title": "Lust",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/26--MM_Keeravaani--Lust.m4a"
+    },
+    {
+      "track": 27,
+      "title": "Killer Beauty",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/27--MM_Keeravaani--Killer_Beauty.m4a"
+    },
+    {
+      "track": 28,
+      "title": "Wrong Path",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/28--MM_Keeravaani--Wrong_Path.m4a"
+    },
+    {
+      "track": 29,
+      "title": "Word Against Sword",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/29--MM_Keeravaani--Word_Against_Sword.m4a"
+    },
+    {
+      "track": 30,
+      "title": "Love At First Fight",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/30--MM_Keeravaani--Love_At_First_Fight.m4a"
+    },
+    {
+      "track": 31,
+      "title": "Master Plan",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/31--MM_Keeravaani--Master_Plan.m4a"
+    },
+    {
+      "track": 32,
+      "title": "He Is The Man",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/32--MM_Keeravaani--He_Is_The_Man.m4a"
+    },
+    {
+      "track": 33,
+      "title": "Revealed Identity",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/33--MM_Keeravaani--Revealed_Identity.m4a"
+    },
+    {
+      "track": 34,
+      "title": "Royal Love",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/34--MM_Keeravaani--Royal_Love.m4a"
+    },
+    {
+      "track": 35,
+      "title": "Enter Mahishmathi",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/35--MM_Keeravaani--Enter_Mahishmathi.m4a"
+    },
+    {
+      "track": 36,
+      "title": "The Court",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/36--MM_Keeravaani--The_Court.m4a"
+    },
+    {
+      "track": 37,
+      "title": "Greatest Honour",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/37--MM_Keeravaani--Greatest_Honour.m4a"
+    },
+    {
+      "track": 38,
+      "title": "My Wish Is Your Priority",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/38--MM_Keeravaani--My_Wish_Is_Your_Priority.m4a"
+    },
+    {
+      "track": 39,
+      "title": "Please Leave Me",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/39--MM_Keeravaani--Please_Leave_Me.m4a"
+    },
+    {
+      "track": 40,
+      "title": "Trap",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/40--MM_Keeravaani--Trap.m4a"
+    },
+    {
+      "track": 41,
+      "title": "Stoned Heart",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/41--MM_Keeravaani--Stoned_Heart.m4a"
+    },
+    {
+      "track": 42,
+      "title": "Confession",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/42--MM_Keeravaani--Confession.m4a"
+    },
+    {
+      "track": 43,
+      "title": "Lullaby Of Death",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/43--MM_Keeravaani--Lullaby_Of_Death.m4a"
+    },
+    {
+      "track": 44,
+      "title": "Can You Ever Forgive Me",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/44--MM_Keeravaani--Can_You_Ever_Forgive_Me.m4a"
+    },
+    {
+      "track": 45,
+      "title": "Birth Of An Avenger",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/45--MM_Keeravaani--Birth_Of_An_Avenger.m4a"
+    },
+    {
+      "track": 46,
+      "title": "Message From Forgotten Past",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/46--MM_Keeravaani--Message_From_Forgotten_Past.m4a"
+    },
+    {
+      "track": 47,
+      "title": "Hatha Praveera",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/47--MM_Keeravaani--Hatha_Praveera.m4a"
+    },
+    {
+      "track": 48,
+      "title": "We Can T Afford To Lose",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/48--MM_Keeravaani--We_Can_T_Afford_To_Lose.m4a"
+    },
+    {
+      "track": 49,
+      "title": "Think Like Baahubali",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/49--MM_Keeravaani--Think_Like_Baahubali.m4a"
+    },
+    {
+      "track": 50,
+      "title": "Sa Ho",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/50--MM_Keeravaani--Sa_Ho.m4a"
+    },
+    {
+      "track": 51,
+      "title": "Constitutional Advice",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/51--MM_Keeravaani--Constitutional_Advice.m4a"
+    },
+    {
+      "track": 52,
+      "title": "War And Passion",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/52--MM_Keeravaani--War_And_Passion.m4a"
+    },
+    {
+      "track": 53,
+      "title": "My Faith My Mentor",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-OST-2015/53--MM_Keeravaani--My_Faith_My_Mentor.m4a"
+    }
+  ]
+}
