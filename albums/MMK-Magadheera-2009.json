@@ -1,0 +1,52 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Magadheera",
+  "year": 2009,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Magadheera-2009/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dheera Dheera",
+      "artists": [
+        "MM Keeravaani",
+        "Nikitha Nigam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Magadheera-2009/01--MM_Keeravaani+Nikitha_Nigam--Dheera_Dheera.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Anaganaga",
+      "artists": [
+        "Jessi Gift"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Magadheera-2009/02--Jessi_Gift--Anaganaga.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Jorse Jorse",
+      "artists": [
+        "Daler Mehndi",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Magadheera-2009/03--Daler_Mehndi+Geetha_Madhuri--Jorse_Jorse.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Naakosam",
+      "artists": [
+        "Deepu",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Magadheera-2009/04--Deepu+Geetha_Madhuri--Naakosam.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Panchadaara",
+      "artists": [
+        "Anooj Guruvala",
+        "Rita"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Magadheera-2009/05--Anooj_Guruvala+Rita--Panchadaara.m4a"
+    }
+  ]
+}
