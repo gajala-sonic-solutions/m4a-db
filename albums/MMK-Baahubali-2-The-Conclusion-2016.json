@@ -1,0 +1,59 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Baahubali 2 - The Conclusion",
+  "year": 2016,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Saahore Baahubali",
+      "artists": [
+        "Daler Mehndi",
+        "Mounima",
+        "MM Keeravaani",
+        "K Shivashakthi Datta",
+        "Dr K Ramakrishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/01--Daler_Mehndi+Mounima+MM_Keeravaani+K._Shivashakthi_Datta+Dr._K._Ramakrishna--Saahore_Baahubali.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Hamsa Naava",
+      "artists": [
+        "Sony",
+        "Deepu",
+        "MM Keeravaani",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/02--Sony+Deepu+MM_Keeravaani+Chaitanya_Prasad--Hamsa_Naava.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Kannaa Nidurinchara",
+      "artists": [
+        "Sreenidhi",
+        "V Srisoumya",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/03--Sreenidhi+V._Srisoumya+MM_Keeravaani--Kannaa_Nidurinchara.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Dandaalayyaa",
+      "artists": [
+        "Kaala Bhairava",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/04--Kaala_Bhairava+MM_Keeravaani--Dandaalayyaa.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Oka Praanam",
+      "artists": [
+        "Kaala Bhairava",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/05--Kaala_Bhairava+MM_Keeravaani--Oka_Praanam.m4a"
+    }
+  ]
+}

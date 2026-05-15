@@ -289,6 +289,14 @@
       "tracksFile": "albums/ShK-Fidaa-2017.json"
     },
     {
+      "id": "MMK-Baahubali-2-The-Conclusion-2016",
+      "artist": "M M Keeravaani",
+      "title": "Baahubali 2 - The Conclusion",
+      "year": 2016,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-2-The-Conclusion-2016/cover.webp",
+      "tracksFile": "albums/MMK-Baahubali-2-The-Conclusion-2016.json"
+    },
+    {
       "id": "SK-Dwaraka-2016",
       "artist": "Sai Karthik",
       "title": "Dwaraka",
