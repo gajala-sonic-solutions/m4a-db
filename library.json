@@ -663,6 +663,14 @@
       "year": 2001,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Cheli-2001/cover.webp",
       "tracksFile": "albums/HJ-Cheli-2001.json"
+    },
+    {
+      "id": "MMK-Allari-Primikudu-1994",
+      "artist": "M M Keeravaani",
+      "title": "Allari Primikudu",
+      "year": 1994,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/cover.webp",
+      "tracksFile": "albums/MMK-Allari-Primikudu-1994.json"
     }
   ]
 }

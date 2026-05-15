@@ -1,0 +1,78 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Allari Primikudu",
+  "year": 1994,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ninnu Choodugaane",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "Veturi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/01--S._P._Balasubrahmanyam+K._S._Chithra+Veturi--Ninnu_Choodugaane.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Banthi Laanti Banthayi",
+      "artists": [
+        "Vennelakanti",
+        "K S Chithra",
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/02--Vennelakanti+K._S._Chithra+S._P._Balasubrahmanyam--Banthi_Laanti_Banthayi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Ku Ku Ku Koo Komma Remma",
+      "artists": [
+        "K S Chithra",
+        "Veturi",
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/03--K._S._Chithra+Veturi+S._P._Balasubrahmanyam--Ku_Ku_Ku_Koo_Komma_Remma.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chilipi Chilaka I Love You",
+      "artists": [
+        "K S Chithra",
+        "Veturi",
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/04--K._S._Chithra+Veturi+S._P._Balasubrahmanyam--Chilipi_Chilaka_I_Love_You.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Naari Jana Priyathama",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "MM Keeravaani",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/05--S._P._Balasubrahmanyam+MM_Keeravaani+K._S._Chithra--Naari_Jana_Priyathama.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Putthadi Bommaku Siggalu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Seetharama Shastry",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/06--S._P._Balasubrahmanyam+Seetharama_Shastry+K._S._Chithra--Putthadi_Bommaku_Siggalu.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Sanna Jaaji",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "Seetharama Shastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/07--S._P._Balasubrahmanyam+K._S._Chithra+Seetharama_Shastry--Sanna_Jaaji.m4a"
+    }
+  ]
+}
