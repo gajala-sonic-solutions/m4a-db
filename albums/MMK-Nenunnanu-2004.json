@@ -1,0 +1,61 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Nenunnanu",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nenunnanani",
+      "artists": [
+        "MM Keeravaani",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/01--MM_Keeravaani+Sunitha--Nenunnanani.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ryali Ravulapadu",
+      "artists": [
+        "Sunitha",
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/02--Sunitha+Tippu--Ryali_Ravulapadu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Intha Duramochaka",
+      "artists": [
+        "Shreya Ghoshal",
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/03--Shreya_Ghoshal+Tippu--Intha_Duramochaka.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ye Swasalo",
+      "artists": [
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/04--K._S._Chithra--Ye_Swasalo.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Nuziveedu",
+      "artists": [
+        "Shreya Ghoshal",
+        "Arnob Chakravarthi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/05--Shreya_Ghoshal+Arnob_Chakravarthi--Nuziveedu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Neekosam",
+      "artists": [
+        "Shreya Ghoshal",
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/06--Shreya_Ghoshal+KK--Neekosam.m4a"
+    }
+  ]
+}

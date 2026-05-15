@@ -705,6 +705,14 @@
       "tracksFile": "albums/HJ-Aparichithudu-2005.json"
     },
     {
+      "id": "MMK-Nenunnanu-2004",
+      "artist": "M M Keeravaani",
+      "title": "Nenunnanu",
+      "year": 2004,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Nenunnanu-2004/cover.webp",
+      "tracksFile": "albums/MMK-Nenunnanu-2004.json"
+    },
+    {
       "id": "MMK-Naa-Autograph-2004",
       "artist": "M M Keeravaani",
       "title": "Naa Autograph",
