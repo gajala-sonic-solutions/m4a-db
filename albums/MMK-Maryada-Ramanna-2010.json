@@ -1,0 +1,78 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Maryada Ramanna",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ammayi Kitiki Pakkana",
+      "artists": [
+        "Karunya",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/01--Karunya+Chaitra--Ammayi_Kitiki_Pakkana.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Udhyogam Oodipoyindi",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/02--Ranjith--Udhyogam_Oodipoyindi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Telugammayi",
+      "artists": [
+        "MM Keeravaani",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/03--MM_Keeravaani+Geetha_Madhuri--Telugammayi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Raaye Raaye",
+      "artists": [
+        "Raghu Kunche",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/04--Raghu_Kunche+Geetha_Madhuri--Raaye_Raaye.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Parugulu Thiy",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/05--S._P._Balasubrahmanyam--Parugulu_Thiy.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Kanivini Eragandi",
+      "artists": [
+        "Revanth"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/06--Revanth--Kanivini_Eragandi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Ennendlaku Peda Pandaga Vacche",
+      "artists": [
+        "Revanth",
+        "Rahul",
+        "Balaji",
+        "Badrachalam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/07--Revanth+Rahul+Balaji+Badrachalam--Ennendlaku_Peda_Pandaga_Vacche.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Arerere Arerere",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/08--MM_Keeravaani--Arerere_Arerere.m4a"
+    }
+  ]
+}

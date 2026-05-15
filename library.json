@@ -585,6 +585,14 @@
       "tracksFile": "albums/AR-Prema-Kavali-2011.json"
     },
     {
+      "id": "MMK-Maryada-Ramanna-2010",
+      "artist": "M M Keeravaani",
+      "title": "Maryada Ramanna",
+      "year": 2010,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Maryada-Ramanna-2010/cover.webp",
+      "tracksFile": "albums/MMK-Maryada-Ramanna-2010.json"
+    },
+    {
       "id": "SG-Bheemili-Kabaddi-Jattu-2010",
       "artist": "Selva Ganesh",
       "title": "Bheemili Kabaddi Jattu",
