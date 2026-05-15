@@ -1,0 +1,74 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Savyasachi",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Why Not",
+      "artists": [
+        "PVNS Rohit",
+        "Manisha Eerabathini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/01--PVNS_Rohit+Manisha_Eerabathini--Why_Not.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ninnu Road Meedha",
+      "artists": [
+        "Prudhvi Chandra",
+        "Mounima Chandrabhatla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/02--Prudhvi_Chandra+Mounima_Chandrabhatla--Ninnu_Road_Meedha.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Okkarante Okkaru",
+      "artists": [
+        "Sreenidhi Tirumala"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/03--Sreenidhi_Tirumala--Okkarante_Okkaru.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Tick Tick Tick",
+      "artists": [
+        "Hymath",
+        "Shreya Goparaju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/04--Hymath+Shreya_Goparaju--Tick_Tick_Tick.m4a"
+    },
+    {
+      "track": 5,
+      "title": "1980 81 82",
+      "artists": [
+        "Rahul Sipligunj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/05--Rahul_Sipligunj--1980_81_82.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Oopiri Ukkiribikkiri",
+      "artists": [
+        "Sri Krishna",
+        "Sri Soumya",
+        "Mohana Bhogaraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/06--Sri_Krishna+Sri_Soumya+Mohana_Bhogaraju--Oopiri_Ukkiribikkiri.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Savyasachi",
+      "artists": [
+        "Rahul",
+        "Deepu",
+        "Hymath",
+        "Mounima Chandrabhatla",
+        "Ramya",
+        "Mohana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Savyasachi-2018/07--Rahul+Deepu+Hymath+Mounima_Chandrabhatla+Ramya+Mohana--Savyasachi.m4a"
+    }
+  ]
+}
