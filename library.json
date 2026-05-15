@@ -337,6 +337,14 @@
       "tracksFile": "albums/ShK-Fidaa-2017.json"
     },
     {
+      "id": "ShK-Fidaa-2017",
+      "artist": "Shakthikanth Karthick",
+      "title": "Fidaa",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/ShK-Fidaa-2017/cover.webp",
+      "tracksFile": "albums/ShK-Fidaa-2017.json"
+    },
+    {
       "id": "MMK-Baahubali-2-The-Conclusion-2016",
       "artist": "M M Keeravaani",
       "title": "Baahubali 2 - The Conclusion",
