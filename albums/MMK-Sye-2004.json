@@ -1,0 +1,67 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Sye",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Chantyna Bujjaina",
+      "artists": [
+        "Kalyan Koduri",
+        "Smitha",
+        "Vasundhara Das"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/01--Kalyan_Koduri+Smitha+Vasundhara_Das--Chantyna_Bujjaina.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nallka Nallani",
+      "artists": [
+        "MM Keeravaani",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/02--MM_Keeravaani+K._S._Chithra--Nallka_Nallani.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Pantham Pantham",
+      "artists": [
+        "MM Keeravaani",
+        "Devi Sri Prasad",
+        "Tippu",
+        "Chandrabose",
+        "Kalyan Koduri",
+        "Smitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/03--MM_Keeravaani+Devi_Sri_Prasad+Tippu+Chandrabose+Kalyan_Koduri+Smitha--Pantham_Pantham.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ganga AC",
+      "artists": [
+        "Kalyan Koduri",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/04--Kalyan_Koduri+Ganga--Ganga_AC.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Appudu Appudu",
+      "artists": [
+        "Lucky Ali",
+        "Sumangali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/05--Lucky_Ali+Sumangali--Appudu_Appudu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Gootlo Undi",
+      "artists": [
+        "Lucky Ali",
+        "Sumangali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sye-2004/06--Lucky_Ali+Sumangali--Gootlo_Undi.m4a"
+    }
+  ]
+}
