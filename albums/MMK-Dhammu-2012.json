@@ -1,0 +1,78 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Dhammu",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "O Lilly",
+      "artists": [
+        "Baba Sehgal",
+        "MM Keeravaani",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/01--Baba_Sehgal+MM_Keeravaani+Chandrabose--O_Lilly.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Roolar",
+      "artists": [
+        "Geetha Madhuri",
+        "Revanth",
+        "G Sahithi",
+        "Prudhvi Chandra",
+        "MM Keeravaani",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/02--Geetha_Madhuri+Revanth+G._Sahithi+Prudhvi_Chandra+MM_Keeravaani+Chandrabose--Roolar.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Raja Vasi Reddy",
+      "artists": [
+        "MM Keeravaani",
+        "Krishna Chaitanya",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/03--MM_Keeravaani+Krishna_Chaitanya+Chandrabose--Raja_Vasi_Reddy.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Vaastu Bagunde",
+      "artists": [
+        "Sravana Bhargavi",
+        "Rahul Sipligunj",
+        "Shivani",
+        "MM Keeravaani",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/04--Sravana_Bhargavi+Rahul_Sipligunj+Shivani+MM_Keeravaani+Chandrabose--Vaastu_Bagunde.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Dhammu",
+      "artists": [
+        "Sravana Bhargavi",
+        "Rahul Sipligunj",
+        "Shivani",
+        "MM Keeravaani",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/05--Sravana_Bhargavi+Rahul_Sipligunj+Shivani+MM_Keeravaani+Chandrabose--Dhammu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Roolar 2",
+      "artists": [
+        "Geetha Madhuri",
+        "Revanth",
+        "G Sahithi",
+        "Prudhvi Chandra",
+        "MM Keeravaani",
+        "Chandrabose"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Dhammu-2012/06--Geetha_Madhuri+Revanth+G._Sahithi+Prudhvi_Chandra+MM_Keeravaani+Chandrabose--Roolar_2.m4a"
+    }
+  ]
+}
