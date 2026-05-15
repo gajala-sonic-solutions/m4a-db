@@ -1,0 +1,408 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "RRR [OST]",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Spirit Of Rrr",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/01--M.M._Keeravani--Spirit_Of_Rrr.m4a"
+    },
+    {
+      "track": 2,
+      "title": "The Story",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/02--M.M._Keeravani--The_Story.m4a"
+    },
+    {
+      "track": 3,
+      "title": "The Fire",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/03--M.M._Keeravani--The_Fire.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Arrest That B",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/04--M.M._Keeravani--Arrest_That_B.m4a"
+    },
+    {
+      "track": 5,
+      "title": "The Water",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/05--M.M._Keeravani--The_Water.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Tiger Chase",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/06--M.M._Keeravani--Tiger_Chase.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Please Forgive Me",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/07--M.M._Keeravani--Please_Forgive_Me.m4a"
+    },
+    {
+      "track": 8,
+      "title": "New Attire",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/08--M.M._Keeravani--New_Attire.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Reward Announced Hunt Began",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/09--M.M._Keeravani--Reward_Announced_Hunt_Began.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Jenny Is A Kind Soul",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/10--M.M._Keeravani--Jenny_Is_A_Kind_Soul.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Lachu Escapes",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/11--M.M._Keeravani--Lachu_Escapes.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Train Accident",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/12--M.M._Keeravani--Train_Accident.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Affinity With Jenny",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/13--M.M._Keeravani--Affinity_With_Jenny.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Malli s Existance Is Evident",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/14--M.M._Keeravani--Malli_s_Existance_Is_Evident.m4a"
+    },
+    {
+      "track": 15,
+      "title": "An Invite A Gift",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/15--M.M._Keeravani--An_Invite_A_Gift.m4a"
+    },
+    {
+      "track": 16,
+      "title": "Lachu Is Caught",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/16--M.M._Keeravani--Lachu_Is_Caught.m4a"
+    },
+    {
+      "track": 17,
+      "title": "Scott s Palace",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/17--M.M._Keeravani--Scott_s_Palace.m4a"
+    },
+    {
+      "track": 18,
+      "title": "Seetha",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/18--M.M._Keeravani--Seetha.m4a"
+    },
+    {
+      "track": 19,
+      "title": "Promise Telugu",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/19--Kaala_Bhairava--Promise_Telugu.m4a"
+    },
+    {
+      "track": 20,
+      "title": "Promise Hindi",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/20--Kaala_Bhairava--Promise_Hindi.m4a"
+    },
+    {
+      "track": 21,
+      "title": "Promise Tamil",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/21--Kaala_Bhairava--Promise_Tamil.m4a"
+    },
+    {
+      "track": 22,
+      "title": "Promise Kannada",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/22--Kaala_Bhairava--Promise_Kannada.m4a"
+    },
+    {
+      "track": 23,
+      "title": "Promise Malayalam",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/23--Kaala_Bhairava--Promise_Malayalam.m4a"
+    },
+    {
+      "track": 24,
+      "title": "Snake Bite",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/24--M.M._Keeravani--Snake_Bite.m4a"
+    },
+    {
+      "track": 25,
+      "title": "Sos",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/25--M.M._Keeravani--Sos.m4a"
+    },
+    {
+      "track": 26,
+      "title": "True Identity Revealed",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/26--M.M._Keeravani--True_Identity_Revealed.m4a"
+    },
+    {
+      "track": 27,
+      "title": "Making Harder Decisions",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/27--M.M._Keeravani--Making_Harder_Decisions.m4a"
+    },
+    {
+      "track": 28,
+      "title": "Bheem The Tsunami",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/28--M.M._Keeravani--Bheem_The_Tsunami.m4a"
+    },
+    {
+      "track": 29,
+      "title": "Unfortunate Fight",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/29--M.M._Keeravani--Unfortunate_Fight.m4a"
+    },
+    {
+      "track": 30,
+      "title": "Fire And Water",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/30--M.M._Keeravani--Fire_And_Water.m4a"
+    },
+    {
+      "track": 31,
+      "title": "Tears Blood And Breach Telugu",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/31--M.M._Keeravani--Tears_Blood_And_Breach_Telugu.m4a"
+    },
+    {
+      "track": 32,
+      "title": "Tears Blood And Breach Hindi",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/32--M.M._Keeravani--Tears_Blood_And_Breach_Hindi.m4a"
+    },
+    {
+      "track": 33,
+      "title": "Tears Blood And Breach Tamil",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/33--M.M._Keeravani--Tears_Blood_And_Breach_Tamil.m4a"
+    },
+    {
+      "track": 34,
+      "title": "Tears Blood And Breach Kannada",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/34--M.M._Keeravani--Tears_Blood_And_Breach_Kannada.m4a"
+    },
+    {
+      "track": 35,
+      "title": "Tears Blood And Breach Malayalam",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/35--M.M._Keeravani--Tears_Blood_And_Breach_Malayalam.m4a"
+    },
+    {
+      "track": 36,
+      "title": "Load Aim Shoot The Practice",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/36--M.M._Keeravani--Load_Aim_Shoot_The_Practice.m4a"
+    },
+    {
+      "track": 37,
+      "title": "Misunderstood",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/37--M.M._Keeravani--Misunderstood.m4a"
+    },
+    {
+      "track": 38,
+      "title": "Never Giving Up",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/38--M.M._Keeravani--Never_Giving_Up.m4a"
+    },
+    {
+      "track": 39,
+      "title": "Smallpox",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/39--M.M._Keeravani--Smallpox.m4a"
+    },
+    {
+      "track": 40,
+      "title": "Prodigious Precisio",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/40--M.M._Keeravani--Prodigious_Precisio.m4a"
+    },
+    {
+      "track": 41,
+      "title": "Guilt",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/41--M.M._Keeravani--Guilt.m4a"
+    },
+    {
+      "track": 42,
+      "title": "Ram The Volcano",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/42--M.M._Keeravani--Ram_The_Volcano.m4a"
+    },
+    {
+      "track": 43,
+      "title": "Closer Than Ever",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/43--M.M._Keeravani--Closer_Than_Ever.m4a"
+    },
+    {
+      "track": 44,
+      "title": "Together We Rock Telugu",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/44--M.M._Keeravani--Together_We_Rock_Telugu.m4a"
+    },
+    {
+      "track": 45,
+      "title": "Together We Rock Hindi",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/45--M.M._Keeravani--Together_We_Rock_Hindi.m4a"
+    },
+    {
+      "track": 46,
+      "title": "Together We Rock Tamil",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/46--M.M._Keeravani--Together_We_Rock_Tamil.m4a"
+    },
+    {
+      "track": 47,
+      "title": "Together We Rock Kannada",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/47--M.M._Keeravani--Together_We_Rock_Kannada.m4a"
+    },
+    {
+      "track": 48,
+      "title": "Together We Rock Malayalam",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/48--M.M._Keeravani--Together_We_Rock_Malayalam.m4a"
+    },
+    {
+      "track": 49,
+      "title": "Load Aim Shoot Climax",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/49--M.M._Keeravani--Load_Aim_Shoot_Climax.m4a"
+    },
+    {
+      "track": 50,
+      "title": "Raamam Bheemam",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-OST-2022/50--M.M._Keeravani--Raamam_Bheemam.m4a"
+    }
+  ]
+}
