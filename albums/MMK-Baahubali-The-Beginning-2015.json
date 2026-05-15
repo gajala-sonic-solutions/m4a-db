@@ -1,0 +1,93 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Baahubali - The Beginning",
+  "year": 2015,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Mamatala Talli",
+      "artists": [
+        "Surya Yamini",
+        "MM Keeravaani",
+        "K Siva Shakthi Datta"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/01--Surya_Yamini+MM_Keeravaani+K._Siva_Shakthi_Datta--Mamatala_Talli.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Jeeva Nadhi Telugu",
+      "artists": [
+        "Geetha Madhuri",
+        "MM Keeravaani",
+        "Inaganti Sundar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/02--Geetha_Madhuri+MM_Keeravaani+Inaganti_Sundar--Jeeva_Nadhi_Telugu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dhivara",
+      "artists": [
+        "Ramya Behara",
+        "Deepu",
+        "MM Keeravaani",
+        "Ramajogayya Sastry",
+        "K Siva Shakthi Datta"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/03--Ramya_Behara+Deepu+MM_Keeravaani+Ramajogayya_Sastry+K._Siva_Shakthi_Datta--Dhivara.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Sivuni Aana",
+      "artists": [
+        "MM Keeravaani",
+        "Mounima",
+        "Inaganti Sundar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/04--MM_Keeravaani+Mounima+Inaganti_Sundar--Sivuni_Aana.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Pacha Bottasi",
+      "artists": [
+        "Karthik",
+        "Damini Bhatla",
+        "MM Keeravaani",
+        "Anantha Sri Ram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/05--Karthik+Damini_Bhatla+MM_Keeravaani+Anantha_Sri_Ram--Pacha_Bottasi.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manohari",
+      "artists": [
+        "Mohana Bhogaraju",
+        "Revanth",
+        "MM Keeravaani",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/06--Mohana_Bhogaraju+Revanth+MM_Keeravaani+Chaitanya_Prasad--Manohari.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Nippulaa Swasa Ga",
+      "artists": [
+        "MM Keeravaani",
+        "Inaganti Sundar",
+        "K Siva Shakthi Datta"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/07--MM_Keeravaani+Inaganti_Sundar+K._Siva_Shakthi_Datta--Nippulaa_Swasa_Ga.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Dheevara English",
+      "artists": [
+        "Ramya Behara",
+        "Adithya",
+        "MM Keeravaani",
+        "Noel Sean"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Baahubali-The-Beginning-2015/08--Ramya_Behara+Adithya+MM_Keeravaani+Noel_Sean--Dheevara_English.m4a"
+    }
+  ]
+}
