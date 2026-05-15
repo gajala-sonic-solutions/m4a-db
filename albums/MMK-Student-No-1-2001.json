@@ -1,0 +1,60 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Student No 1",
+  "year": 2001,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Paddanandi",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/01--Udit_Narayan+K._S._Chithra--Paddanandi.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Kuchipudi",
+      "artists": [
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/02--Tippu--Kuchipudi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Kastha Ninu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/03--S._P._Balasubrahmanyam+K._S._Chithra--Kastha_Ninu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ekkado Putti",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/04--MM_Keeravaani--Ekkado_Putti.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Okariki Okarye",
+      "artists": [
+        "KK",
+        "vardhini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/05--KK+vardhini--Okariki_Okarye.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yevetti",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Student-No-1-2001/06--Udit_Narayan+K._S._Chithra--Yevetti.m4a"
+    }
+  ]
+}
