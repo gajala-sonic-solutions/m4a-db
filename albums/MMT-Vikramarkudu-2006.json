@@ -1,0 +1,61 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Vikramarkudu",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dammare Damma",
+      "artists": [
+        "Tippu",
+        "K S Chithra",
+        "Vijji"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/01--Tippu+K._S._Chithra+Vijji--Dammare_Damma.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Jum Jum Maya",
+      "artists": [
+        "MM Keeravaani",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/02--MM_Keeravaani+Sunitha--Jum_Jum_Maya.m4a"
+    },
+    {
+      "track": 3,
+      "title": "College Papala",
+      "artists": [
+        "Jessi Gift",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/03--Jessi_Gift+K._S._Chithra--College_Papala.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Vasthava",
+      "artists": [
+        "Anuradha Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/04--Anuradha_Sriram--Vasthava.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Dooranga",
+      "artists": [
+        "MM Keeravaani",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/05--MM_Keeravaani+Ganga--Dooranga.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Joo Lali",
+      "artists": [
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Vikramarkudu-2006/06--Malavika--Joo_Lali.m4a"
+    }
+  ]
+}
