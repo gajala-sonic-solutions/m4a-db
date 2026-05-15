@@ -713,6 +713,14 @@
       "tracksFile": "albums/MMK-Annamayya-1997.json"
     },
     {
+      "id": "MMT-Criminal-1994",
+      "artist": "M M Keeravaani",
+      "title": "Criminal",
+      "year": 1994,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/cover.webp",
+      "tracksFile": "albums/MMT-Criminal-1994.json"
+    },
+    {
       "id": "MMK-Allari-Primikudu-1994",
       "artist": "M M Keeravaani",
       "title": "Allari Primikudu",

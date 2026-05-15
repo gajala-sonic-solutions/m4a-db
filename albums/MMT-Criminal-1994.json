@@ -1,0 +1,69 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Criminal",
+  "year": 1994,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Mudante Vadante",
+      "artists": [
+        "K S Chithra",
+        "S P Balasubrahmanyam",
+        "Vennelakanti"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/01--K._S._Chithra+S._P._Balasubrahmanyam+Vennelakanti--Mudante_Vadante.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Thelusa Manasa",
+      "artists": [
+        "Seetharama Shastry",
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/02--Seetharama_Shastry+S._P._Balasubrahmanyam+K._S._Chithra--Thelusa_Manasa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Papiki Papiki",
+      "artists": [
+        "K S Chithra",
+        "Seetharama Shastry",
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/03--K._S._Chithra+Seetharama_Shastry+S._P._Balasubrahmanyam--Papiki_Papiki.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Hello Guru",
+      "artists": [
+        "Vennelakanti",
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/04--Vennelakanti+S._P._Balasubrahmanyam+K._S._Chithra--Hello_Guru.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Thelusa Manasa",
+      "artists": [
+        "MM Keeravaani",
+        "K S Chithra",
+        "Seetharama Shastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/05--MM_Keeravaani+K._S._Chithra+Seetharama_Shastry--Thelusa_Manasa.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Jama Jama Jama",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sujatha",
+        "Seetharama Shastry",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMT-Criminal-1994/06--S._P._Balasubrahmanyam+Sujatha+Seetharama_Shastry+K._S._Chithra--Jama_Jama_Jama.m4a"
+    }
+  ]
+}
