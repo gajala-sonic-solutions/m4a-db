@@ -1,0 +1,69 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Simhadri",
+  "year": 2003,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Cheema Cheema",
+      "artists": [
+        "S P Charan",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/01--S._P._Charan+Ganga--Cheema_Cheema.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ammye Nannanyena",
+      "artists": [
+        "Kalyan Koduri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/02--Kalyan_Koduri--Ammye_Nannanyena.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chiraku Anuko",
+      "artists": [
+        "K S Chithra",
+        "S P Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/03--K._S._Chithra+S._P._Charan--Chiraku_Anuko.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nuvvu Vijilesthey",
+      "artists": [
+        "Tippu",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/04--Tippu+K._S._Chithra--Nuvvu_Vijilesthey.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chinnadamme Cheekulu",
+      "artists": [
+        "Mano",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/05--Mano+Shreya_Ghoshal--Chinnadamme_Cheekulu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Nannedo Syeeamaku",
+      "artists": [
+        "MM Keeravaani",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/06--MM_Keeravaani+Sunitha--Nannedo_Syeeamaku.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Singamalye",
+      "artists": [
+        "Kalyan Koduri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Simhadri-2003/07--Kalyan_Koduri--Singamalye.m4a"
+    }
+  ]
+}
