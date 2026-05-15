@@ -1,0 +1,88 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Badrenath",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Omkareswari",
+      "artists": [
+        "Shankar Mahadevan",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/01--Shankar_Mahadevan+MM_Keeravaani--Omkareswari.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Amba Dari",
+      "artists": [
+        "Revanth",
+        "Shravana Bhargavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/02--Revanth+Shravana_Bhargavi--Amba_Dari.m4a"
+    },
+    {
+      "track": 3,
+      "title": "In The Night",
+      "artists": [
+        "Baba Sehgal",
+        "Shravana Bhargavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/03--Baba_Sehgal+Shravana_Bhargavi--In_The_Night.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nachchavura",
+      "artists": [
+        "Sri Rama Chandra",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/04--Sri_Rama_Chandra+Chaitra--Nachchavura.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Nadh Nadh",
+      "artists": [
+        "Jessi Gift",
+        "Sunidhi Chauhan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/05--Jessi_Gift+Sunidhi_Chauhan--Nadh_Nadh.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Chiranjeeva",
+      "artists": [
+        "Revanth",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/06--Revanth+Shreya_Ghoshal--Chiranjeeva.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Ambadari Remix",
+      "artists": [
+        "Anuj Gurwara",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/07--Anuj_Gurwara+Geetha_Madhuri--Ambadari_Remix.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Vasudhara",
+      "artists": [
+        "MM Keeravaani",
+        "Swetha pandit"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/08--MM_Keeravaani+Swetha_pandit--Vasudhara.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Badrenath Theme",
+      "artists": [
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/09--Chorus--Badrenath_Theme.m4a"
+    }
+  ]
+}

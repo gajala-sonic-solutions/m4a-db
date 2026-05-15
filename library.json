@@ -521,6 +521,14 @@
       "tracksFile": "albums/AR-Ishq-2012.json"
     },
     {
+      "id": "MMK-Badrenath-2011",
+      "artist": "M M Keeravaani",
+      "title": "Badrenath",
+      "year": 2011,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Badrenath-2011/cover.webp",
+      "tracksFile": "albums/MMK-Badrenath-2011.json"
+    },
+    {
       "id": "SG-Pilla-Zamindar-2011",
       "artist": "Selva Ganesh",
       "title": "Pilla Zamindar",
