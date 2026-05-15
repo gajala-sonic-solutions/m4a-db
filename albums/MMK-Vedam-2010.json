@@ -1,0 +1,113 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Vedam",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Now or Never",
+      "artists": [
+        "Ranjith",
+        "Deepu",
+        "Geetha Madhuri",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/01--Ranjith+Deepu+Geetha_Madhuri+Chaitra--Now_or_Never.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Egiripothe Entha Baaaguntundi",
+      "artists": [
+        "Sunitha",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/02--Sunitha+MM_Keeravaani--Egiripothe_Entha_Baaaguntundi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Roopaay",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/03--MM_Keeravaani--Roopaay.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Prapancham Naaventosthunte",
+      "artists": [
+        "Anuj Gurwara",
+        "Achu",
+        "Allu Arjun",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/04--Anuj_Gurwara+Achu+Allu_Arjun+Chaitra--Prapancham_Naaventosthunte.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Malli Puttani",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/05--MM_Keeravaani--Malli_Puttani.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Emi Telisi Nanu Mohisthivi",
+      "artists": [
+        "Padma",
+        "Poornima",
+        "Manju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/06--Padma+Poornima+Manju--Emi_Telisi_Nanu_Mohisthivi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Vedam",
+      "artists": [
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/07--Karthik--Vedam.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Ye Cheekati Cherani",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/08--MM_Keeravaani--Ye_Cheekati_Cherani.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Alalai Kammani Kalalai",
+      "artists": [
+        "E S Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/09--E._S._Murthy--Alalai_Kammani_Kalalai.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Nuvu Mundani Nemundani",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/10--Kaala_Bhairava--Nuvu_Mundani_Nemundani.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Caterpillar",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/11--MM_Keeravaani--Caterpillar.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Oneness",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Vedam-2010/12--MM_Keeravaani--Oneness.m4a"
+    }
+  ]
+}
