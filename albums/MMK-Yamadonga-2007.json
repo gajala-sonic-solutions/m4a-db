@@ -1,0 +1,90 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Yamadonga",
+  "year": 2007,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bambharala Chumbhanala",
+      "artists": [
+        "Mano",
+        "Pranavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/01--Mano+Pranavi--Bambharala_Chumbhanala.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chala Challaga Gali",
+      "artists": [
+        "MM Keeravaani",
+        "Sangeetha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/02--MM_Keeravaani+Sangeetha--Chala_Challaga_Gali.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Na Chore",
+      "artists": [
+        "Deepu",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/03--Deepu+Ganga--Na_Chore.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Noonoogu Meesalodu",
+      "artists": [
+        "MM Keeravaani",
+        "Sunitha Upadrashta"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/04--MM_Keeravaani+Sunitha_Upadrashta--Noonoogu_Meesalodu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Nuv Muttukunte",
+      "artists": [
+        "Ranjith",
+        "Pranavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/05--Ranjith+Pranavi--Nuv_Muttukunte.m4a"
+    },
+    {
+      "track": 6,
+      "title": "O Lammi Thikkareginda",
+      "artists": [
+        "Ntr",
+        "Mamta Mohandas"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/06--Ntr+Mamta_Mohandas--O_Lammi_Thikkareginda.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Rubberu Gajulu",
+      "artists": [
+        "Daler Mehndi",
+        "Pranavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/07--Daler_Mehndi+Pranavi--Rubberu_Gajulu.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Srikarakarunda",
+      "artists": [
+        "Mano"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/08--Mano--Srikarakarunda.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Young Yama",
+      "artists": [
+        "Shankar Mahadevan",
+        "Mano",
+        "MM Keeravaani",
+        "Pranavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Yamadonga-2007/09--Shankar_Mahadevan+Mano+MM_Keeravaani+Pranavi--Young_Yama.m4a"
+    }
+  ]
+}
