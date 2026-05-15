@@ -665,6 +665,14 @@
       "tracksFile": "albums/HJ-Cheli-2001.json"
     },
     {
+      "id": "MMK-Annamayya-1997",
+      "artist": "M M Keeravaani",
+      "title": "Annamayya",
+      "year": 1997,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Annamayya-1997/cover.webp",
+      "tracksFile": "albums/MMK-Annamayya-1997.json"
+    },
+    {
       "id": "MMK-Allari-Primikudu-1994",
       "artist": "M M Keeravaani",
       "title": "Allari Primikudu",
