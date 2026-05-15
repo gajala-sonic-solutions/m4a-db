@@ -1,0 +1,87 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Seethaiah",
+  "year": 2003,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ammathodu",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/01--Udit_Narayan+K._S._Chithra--Ammathodu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Edhigo Rayalaseemagadda",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/02--S._P._Balasubrahmanyam--Edhigo_Rayalaseemagadda.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Okka Magaadu",
+      "artists": [
+        "MM Keeravaani",
+        "Anuradha Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/03--MM_Keeravaani+Anuradha_Sriram--Okka_Magaadu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Samayaniki",
+      "artists": [
+        "Vijay Yesudas",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/04--Vijay_Yesudas+Sunitha--Samayaniki.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ravayya Ravayya",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/05--S._P._Balasubrahmanyam+MM_Keeravaani--Ravayya_Ravayya.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Adhishankarula",
+      "artists": [
+        "S P Charan",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/06--S._P._Charan+Sunitha--Adhishankarula.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Evarimata Vinadu",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/07--MM_Keeravaani--Evarimata_Vinadu.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Siggesthondi",
+      "artists": [
+        "MM Keeravaani",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/08--MM_Keeravaani+Shreya_Ghoshal--Siggesthondi.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Bussekki Vastavo",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/09--S._P._Balasubrahmanyam+K._S._Chithra--Bussekki_Vastavo.m4a"
+    }
+  ]
+}

@@ -785,6 +785,14 @@
       "tracksFile": "albums/KMR-Anand-2004.json"
     },
     {
+      "id": "MMK-Seethaiah-2003",
+      "artist": "M M Keeravaani",
+      "title": "Seethaiah",
+      "year": 2003,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Seethaiah-2003/cover.webp",
+      "tracksFile": "albums/MMK-Seethaiah-2003.json"
+    },
+    {
       "id": "MMK-Gangothri-2003",
       "artist": "M M Keeravaani",
       "title": "Gangothri",
