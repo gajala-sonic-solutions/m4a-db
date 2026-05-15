@@ -1,0 +1,71 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "RRR",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dosti",
+      "artists": [
+        "Hemachandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/01--Hemachandra--Dosti.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Naatu Naatu",
+      "artists": [
+        "Rahul Sipligunj",
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/02--Rahul_Sipligunj+Kaala_Bhairava--Naatu_Naatu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Janani",
+      "artists": [
+        "M M Keeravani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/03--M.M._Keeravani--Janani.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Komuram Bheemudo",
+      "artists": [
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/04--Kaala_Bhairava--Komuram_Bheemudo.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Raamam Raaghavam",
+      "artists": [
+        "Vijay Prakash",
+        "Chandana Bala Kalyan",
+        "Charu Hariharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/05--Vijay_Prakash+Chandana_Bala_Kalyan+Charu_Hariharan--Raamam_Raaghavam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Etthara Jenda",
+      "artists": [
+        "Vishal Mishra",
+        "Prudhvi Chandra",
+        "M M Keeravani",
+        "Sahithi Chaganti",
+        "Harika Narayan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/06--Vishal_Mishra+Prudhvi_Chandra+M.M._Keeravani+Sahithi_Chaganti+Harika_Narayan--Etthara_Jenda.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Komma Uyyala",
+      "artists": [
+        "Prakruthi Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-2022/07--Prakruthi_Reddy--Komma_Uyyala.m4a"
+    }
+  ]
+}
