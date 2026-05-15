@@ -751,6 +751,14 @@
       "year": 1994,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Allari-Primikudu-1994/cover.webp",
       "tracksFile": "albums/MMK-Allari-Primikudu-1994.json"
+    },
+    {
+      "id": "MMK-Kshana-Kshanam-1991",
+      "artist": "M M Keeravaani",
+      "title": "Kshana Kshanam",
+      "year": 1991,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/cover.webp",
+      "tracksFile": "albums/MMK-Kshana-Kshanam-1991.json"
     }
   ]
 }

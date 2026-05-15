@@ -1,0 +1,63 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Kshana Kshanam",
+  "year": 1991,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Andanantha Ettha",
+      "artists": [
+        "MM Keeravaani",
+        "Sirivennela Seetharama Sastry",
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/01--MM_Keeravaani+Sirivennela_Seetharama_Sastry+S._P._Balasubrahmanyam+K._S._Chithra--Andanantha_Ettha.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Jaamurathiri",
+      "artists": [
+        "MM Keeravaani",
+        "Sirivennela Seetharama Sastry",
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/02--MM_Keeravaani+Sirivennela_Seetharama_Sastry+S._P._Balasubrahmanyam+K._S._Chithra--Jaamurathiri.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Jumbaye",
+      "artists": [
+        "MM Keeravaani",
+        "Sirivennela Seetharama Sastry",
+        "Mano",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/03--MM_Keeravaani+Sirivennela_Seetharama_Sastry+Mano+K._S._Chithra--Jumbaye.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ammayi Muddu",
+      "artists": [
+        "MM Keeravaani",
+        "Sirivennela Seetharama Sastry",
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/04--MM_Keeravaani+Sirivennela_Seetharama_Sastry+S._P._Balasubrahmanyam+K._S._Chithra--Ammayi_Muddu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ko Ante Koti",
+      "artists": [
+        "MM Keeravaani",
+        "Sirivennela Seetharama Sastry",
+        "S P Balasubrahmanyam",
+        "Sridevi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/05--MM_Keeravaani+Sirivennela_Seetharama_Sastry+S._P._Balasubrahmanyam+Sridevi--Ko_Ante_Koti.m4a"
+    }
+  ]
+}
