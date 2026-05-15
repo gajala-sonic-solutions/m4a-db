@@ -33,6 +33,14 @@
       "tracksFile": "albums/HJ-Unakkul-Naane-2023.json"
     },
     {
+      "id": "MMK-RRR-Dialogues-2022",
+      "artist": "M M Keeravaani",
+      "title": "RRR [Dialogues]",
+      "year": 2022,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-RRR-Dialogues-2022/cover.webp",
+      "tracksFile": "albums/MMK-RRR-Dialogues-2022.json"
+    },
+    {
       "id": "MMK-Bimbisara-2022",
       "artist": "M M Keeravaani",
       "title": "Bimbisara",
