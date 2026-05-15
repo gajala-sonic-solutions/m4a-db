@@ -1,0 +1,65 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Eega",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Eega-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ne Ne Nani Ne",
+      "artists": [
+        "Deepu",
+        "G Sahithi",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Eega-2012/01--Deepu+G._Sahithi+MM_Keeravaani--Ne_Ne_Nani_Ne.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ga Ee Ga Ee Ga Ee",
+      "artists": [
+        "Sravana Bhargavi",
+        "Rahul Sipligunj",
+        "Deepu",
+        "Chaitra",
+        "MM Keeravaani",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Eega-2012/02--Sravana_Bhargavi+Rahul_Sipligunj+Deepu+Chaitra+MM_Keeravaani+Ramajogayya_Sastry--Ga_Ee_Ga_Ee_Ga_Ee.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Konchem Konchem",
+      "artists": [
+        "Vijay Prakash",
+        "Deepu Revanth",
+        "MM Keeravaani",
+        "Ananta Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Eega-2012/03--Vijay_Prakash+Deepu_Revanth+MM_Keeravaani+Ananta_Sriram--Konchem_Konchem.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Lava Lava",
+      "artists": [
+        "Anuj Gurwara",
+        "MM Keeravaani",
+        "Chaitanya Prasad"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Eega-2012/04--Anuj_Gurwara+MM_Keeravaani+Chaitanya_Prasad--Lava_Lava.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ga Ee Ga Ee Ga Ee Remix",
+      "artists": [
+        "Sravana Bhargavi",
+        "Rahul Sipligunj",
+        "Deepu",
+        "Chaitra",
+        "MM Keeravaani",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Eega-2012/05--Sravana_Bhargavi+Rahul_Sipligunj+Deepu+Chaitra+MM_Keeravaani+Ramajogayya_Sastry--Ga_Ee_Ga_Ee_Ga_Ee_Remix.m4a"
+    }
+  ]
+}
