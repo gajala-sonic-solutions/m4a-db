@@ -1,0 +1,76 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Bimbisara",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Eeshwarude",
+      "artists": [
+        "Chirrantan Bhatt",
+        "Kaala Bhairava"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/01--Chirrantan_Bhatt+Kaala_Bhairava--Eeshwarude.m4a"
+    },
+    {
+      "track": 2,
+      "title": "O Tene Palukula",
+      "artists": [
+        "Varikuppala Yadagiri",
+        "Satya Yamini",
+        "Hymath Mohammed"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/02--Varikuppala_Yadagiri+Satya_Yamini+Hymath_Mohammed--O_Tene_Palukula.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Neetho Unte Chalu",
+      "artists": [
+        "MM Keeravaani",
+        "Mohana Bhogaraju",
+        "sandilya pisapati"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/03--MM_Keeravaani+Mohana_Bhogaraju+sandilya_pisapati--Neetho_Unte_Chalu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Vijayaho",
+      "artists": [
+        "MM Keeravaani",
+        "Gomathi",
+        "Raghuram",
+        "Lokesh",
+        "Poornima",
+        "Sai Charan",
+        "Sri Soumya",
+        "Harika Narayan",
+        "Vedala Hemachandra",
+        "Arun Kaundinya",
+        "Nayana Nair"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/04--MM_Keeravaani+Gomathi+Raghuram+Lokesh+Poornima+Sai_Charan+Sri_Soumya+Harika_Narayan+Vedala_Hemachandra+Arun_Kaundinya+Nayana_Nair--Vijayaho.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Gulebakavali",
+      "artists": [
+        "Chirrantan Bhatt",
+        "Chinmayi Sripada"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/05--Chirrantan_Bhatt+Chinmayi_Sripada--Gulebakavali.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Bimbi Bimbisara Rap Song",
+      "artists": [
+        "MM Keeravaani",
+        "Lipisika",
+        "Prudhvi Chandra",
+        "Shivaradhaya",
+        "Adithya Iyengar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Bimbisara-2022/06--MM_Keeravaani+Lipisika+Prudhvi_Chandra+Shivaradhaya+Adithya_Iyengar--Bimbi_Bimbisara_Rap_Song.m4a"
+    }
+  ]
+}
