@@ -1,0 +1,60 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Naa Autograph",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Mounamgane",
+      "artists": [
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/01--K._S._Chithra--Mounamgane.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gurthukostunnayi",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/02--KK--Gurthukostunnayi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Duvvina Talane",
+      "artists": [
+        "MM Keeravaani",
+        "Sumangali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/03--MM_Keeravaani+Sumangali--Duvvina_Talane.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Manmadhude",
+      "artists": [
+        "Sandeep",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/04--Sandeep+Ganga--Manmadhude.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Gaama Gaama",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sri Vardhini",
+        "Poornima"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/05--S._P._Balasubrahmanyam+Sri_Vardhini+Poornima--Gaama_Gaama.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Nuvvante Pranamani",
+      "artists": [
+        "Vijay Yesudas"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Naa-Autograph-2004/06--Vijay_Yesudas--Nuvvante_Pranamani.m4a"
+    }
+  ]
+}
