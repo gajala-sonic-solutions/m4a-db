@@ -1,0 +1,132 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Ntr Biopic",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Kathaa Naayaka",
+      "artists": [
+        "Kailash Kher",
+        "MM Keeravaani",
+        "K Shiva Datta",
+        "Dr K Rama Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/01--Kailash_Kher+MM_Keeravaani+K._Shiva_Datta+Dr.K.Rama_Krishna--Kathaa_Naayaka.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ramanna Katha",
+      "artists": [
+        "K S Chithra",
+        "Sunitha",
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/02--K._S._Chithra+Sunitha+MM_Keeravaani--Ramanna_Katha.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Bhantureethi Koluvu",
+      "artists": [
+        "K S Chithra",
+        "Sreenidhi Tirumala",
+        "MM Keeravaani",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/03--K._S._Chithra+Sreenidhi_Tirumala+MM_Keeravaani+Sirivennela_Sitaramasastri--Bhantureethi_Koluvu.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chaitanya Ratham",
+      "artists": [
+        "Kaala Bhairava",
+        "Keerthi Sagathiya",
+        "Sai Shivani",
+        "MM Keeravaani",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/04--Kaala_Bhairava+Keerthi_Sagathiya+Sai_Shivani+MM_Keeravaani+Sirivennela_Sitaramasastri--Chaitanya_Ratham.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Venditera Dora",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/05--MM_Keeravaani--Venditera_Dora.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Rajarshi",
+      "artists": [
+        "Sharath Santosh",
+        "Mohana Bhogaraju",
+        "Kaala Bhairava",
+        "Sreenidhi Tirumala",
+        "MM Keeravaani",
+        "K Shiva Datta",
+        "Dr K Rama Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/06--Sharath_Santosh+Mohana_Bhogaraju+Kaala_Bhairava+Sreenidhi_Tirumala+MM_Keeravaani+K._Shiva_Datta+Dr._K._Rama_Krishna--Rajarshi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Kathaa Naayaka Female",
+      "artists": [
+        "Sreenidhi Tirumala",
+        "Ramya Behara",
+        "Mohana Bhogaraju",
+        "MM Keeravaani",
+        "K Shiva Datta",
+        "Dr K Rama Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/07--Sreenidhi_Tirumala+Ramya_Behara+Mohana_Bhogaraju+MM_Keeravaani+K._Shiva_Datta+Dr._K._Rama_Krishna--Kathaa_Naayaka_Female.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Ntr More Than A Hero",
+      "artists": [
+        "Kaala Bhairava",
+        "Prudhvi Chandra",
+        "MM Keeravaani",
+        "Bhaskarabhatla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/08--Kaala_Bhairava+Prudhvi_Chandra+MM_Keeravaani+Bhaskarabhatla--Ntr_More_Than_A_Hero.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Naminchi",
+      "artists": [
+        "Dinker",
+        "Revanth",
+        "Rahul Sipligunj",
+        "Aditya Iyengar",
+        "Deepu",
+        "MM Keeravaani",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/09--Dinker+Revanth+Rahul_Sipligunj+Aditya_Iyengar+Deepu+MM_Keeravaani+Sirivennela_Sitaramasastri--Naminchi.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Vidrohama",
+      "artists": [
+        "Manisha",
+        "MM Keeravaani",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/10--Manisha+MM_Keeravaani+Sirivennela_Sitaramasastri--Vidrohama.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Nanati Bathuku",
+      "artists": [
+        "Hemachandra",
+        "MM Keeravaani",
+        "Anamacharya Keerthana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Ntr-Biopic-2018/11--Hemachandra+MM_Keeravaani+Anamacharya_Keerthana--Nanati_Bathuku.m4a"
+    }
+  ]
+}
