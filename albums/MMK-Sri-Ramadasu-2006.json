@@ -1,0 +1,169 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Sri Ramadasu",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Sri Raghavam",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/01--MM_Keeravaani--Sri_Raghavam.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Adhigadhigo",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/02--S._P._Balasubrahmanyam--Adhigadhigo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Hylessa",
+      "artists": [
+        "MM Keeravaani",
+        "Devi Sri Prasad",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/03--MM_Keeravaani+Devi_Sri_Prasad+Malavika--Hylessa.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Antha Ramamayam",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/04--S._P._Balasubrahmanyam--Antha_Ramamayam.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ekshvaku Kula",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/05--Shankar_Mahadevan--Ekshvaku_Kula.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Allah",
+      "artists": [
+        "Shankar Mahadevan",
+        "Vijay Yesudas"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/06--Shankar_Mahadevan+Vijay_Yesudas--Allah.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Idhigidhigo",
+      "artists": [
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/07--Sunitha--Idhigidhigo.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Charanamulane",
+      "artists": [
+        "Ramachari",
+        "K S Chithra",
+        "Madhu Bala Krishnan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/08--Ramachari+K._S._Chithra+Madhu_Bala_Krishnan--Charanamulane.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Chalu Chalu",
+      "artists": [
+        "S P Charan",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/09--S._P._Charan+Sunitha--Chalu_Chalu.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Nanu Brovamani",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/10--S._P._Balasubrahmanyam+Sunitha--Nanu_Brovamani.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Sri Ram Ramethi",
+      "artists": [
+        "MM Keeravaani"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/11--MM_Keeravaani--Sri_Ram_Ramethi.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Yentho Ruchira",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/12--S._P._Balasubrahmanyam--Yentho_Ruchira.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Paluke Bangaramayera",
+      "artists": [
+        "MM Keeravaani",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/13--MM_Keeravaani+K._S._Chithra--Paluke_Bangaramayera.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Bhadra Shaila",
+      "artists": [
+        "Hariharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/14--Hariharan--Bhadra_Shaila.m4a"
+    },
+    {
+      "track": 15,
+      "title": "Suddha Brahma",
+      "artists": [
+        "Pranavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/15--Pranavi--Suddha_Brahma.m4a"
+    },
+    {
+      "track": 16,
+      "title": "E Therugananu",
+      "artists": [
+        "Vijay Yesudas"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/16--Vijay_Yesudas--E_Therugananu.m4a"
+    },
+    {
+      "track": 17,
+      "title": "Thandrimatanu",
+      "artists": [
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/17--Sunitha--Thandrimatanu.m4a"
+    },
+    {
+      "track": 18,
+      "title": "Dasarathi",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/18--S._P._Balasubrahmanyam+K._S._Chithra--Dasarathi.m4a"
+    },
+    {
+      "track": 19,
+      "title": "Mangalam",
+      "artists": [
+        "Brundham"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/19--Brundham--Mangalam.m4a"
+    }
+  ]
+}

@@ -721,6 +721,14 @@
       "tracksFile": "albums/KMR-Chandamama-2007.json"
     },
     {
+      "id": "MMK-Sri-Ramadasu-2006",
+      "artist": "M M Keeravaani",
+      "title": "Sri Ramadasu",
+      "year": 2006,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Sri-Ramadasu-2006/cover.webp",
+      "tracksFile": "albums/MMK-Sri-Ramadasu-2006.json"
+    },
+    {
       "id": "HJ-Sainikudu-2006",
       "artist": "Harris Jayaraj",
       "title": "Sainikudu",
