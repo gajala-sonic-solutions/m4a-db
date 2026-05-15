@@ -1,0 +1,72 @@
+{
+  "artist": "M M Keeravaani",
+  "album": "Gangothri",
+  "year": 2003,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nuvvu Nenu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/01--S._P._Balasubrahmanyam+Malavika--Nuvvu_Nenu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Oka Thotalo",
+      "artists": [
+        "S P Charan",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/02--S._P._Charan+Malavika--Oka_Thotalo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vallanki Pitta",
+      "artists": [
+        "Kousalya",
+        "D Aiswarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/03--Kousalya+D.Aiswarya--Vallanki_Pitta.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Railu Bandi",
+      "artists": [
+        "S P Charan",
+        "Sivardhini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/04--S._P._Charan+Sivardhini--Railu_Bandi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Mavayyadi Mogalthooru",
+      "artists": [
+        "Mano",
+        "Smitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/05--Mano+Smitha--Mavayyadi_Mogalthooru.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ganga AC",
+      "artists": [
+        "S P Charan",
+        "Smitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/06--S._P._Charan+Smitha--Ganga_AC.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Jevana Vahini",
+      "artists": [
+        "MM Keeravaani",
+        "Ganga",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/07--MM_Keeravaani+Ganga+Kalpana_Raghavendar--Jevana_Vahini.m4a"
+    }
+  ]
+}

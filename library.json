@@ -705,6 +705,14 @@
       "tracksFile": "albums/KMR-Anand-2004.json"
     },
     {
+      "id": "MMK-Gangothri-2003",
+      "artist": "M M Keeravaani",
+      "title": "Gangothri",
+      "year": 2003,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Gangothri-2003/cover.webp",
+      "tracksFile": "albums/MMK-Gangothri-2003.json"
+    },
+    {
       "id": "HJ-Vaasu-2002",
       "artist": "Harris Jayaraj",
       "title": "Vaasu",
