@@ -1,0 +1,205 @@
+{
+  "artist": "Hans Zimmer",
+  "album": "Kung Fu Panda 4",
+  "year": 2024,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Journey",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/01--Hans_Zimmer+Steve_Mazzaro--Journey.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Opening Day",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/02--Hans_Zimmer+Steve_Mazzaro--Opening_Day.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Tai Lung Has Returned",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/03--Hans_Zimmer+Steve_Mazzaro--Tai_Lung_Has_Returned.m4a"
+    },
+    {
+      "track": 4,
+      "title": "No Footprint Too Small",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/04--Hans_Zimmer+Steve_Mazzaro--No_Footprint_Too_Small.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Juniper City",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/05--Hans_Zimmer+Steve_Mazzaro--Juniper_City.m4a"
+    },
+    {
+      "track": 6,
+      "title": "A Den of Thieves",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/06--Hans_Zimmer+Steve_Mazzaro--A_Den_of_Thieves.m4a"
+    },
+    {
+      "track": 7,
+      "title": "The Happy Bunny Tavern",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/07--Hans_Zimmer+Steve_Mazzaro--The_Happy_Bunny_Tavern.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Tavern Fight",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/08--Hans_Zimmer+Steve_Mazzaro--Tavern_Fight.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Looking for Po",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/09--Hans_Zimmer+Steve_Mazzaro--Looking_for_Po.m4a"
+    },
+    {
+      "track": 10,
+      "title": "She Could Be Anyone",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/10--Hans_Zimmer+Steve_Mazzaro--She_Could_Be_Anyone.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Sharing Stories",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/11--Hans_Zimmer+Steve_Mazzaro--Sharing_Stories.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Teach Me Your Kung Fu",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/12--Hans_Zimmer+Steve_Mazzaro--Teach_Me_Your_Kung_Fu.m4a"
+    },
+    {
+      "track": 13,
+      "title": "A Different Path",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/13--Hans_Zimmer+Steve_Mazzaro--A_Different_Path.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Who Are You Rooting For",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/14--Hans_Zimmer+Steve_Mazzaro--Who_Are_You_Rooting_For.m4a"
+    },
+    {
+      "track": 15,
+      "title": "I Am The Dragon Warrior",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/15--Hans_Zimmer+Steve_Mazzaro--I_Am_The_Dragon_Warrior.m4a"
+    },
+    {
+      "track": 16,
+      "title": "You re Our Son",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/16--Hans_Zimmer+Steve_Mazzaro--You_re_Our_Son.m4a"
+    },
+    {
+      "track": 17,
+      "title": "My Master Plan",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/17--Hans_Zimmer+Steve_Mazzaro--My_Master_Plan.m4a"
+    },
+    {
+      "track": 18,
+      "title": "Be the Pit",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/18--Hans_Zimmer+Steve_Mazzaro--Be_the_Pit.m4a"
+    },
+    {
+      "track": 19,
+      "title": "It s Pronounced Skadoosh",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/19--Hans_Zimmer+Steve_Mazzaro--It_s_Pronounced_Skadoosh.m4a"
+    },
+    {
+      "track": 20,
+      "title": "Inner Peace",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/20--Hans_Zimmer+Steve_Mazzaro--Inner_Peace.m4a"
+    },
+    {
+      "track": 21,
+      "title": "Crazy Train",
+      "artists": [
+        "Hans Zimmer",
+        "Steve Mazzaro"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/21--Hans_Zimmer+Steve_Mazzaro--Crazy_Train.m4a"
+    },
+    {
+      "track": 22,
+      "title": "Baby One More Time from Kung Fu Panda 4",
+      "artists": [
+        "Tenacious D"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/22--Tenacious_D--Baby_One_More_Time_from_Kung_Fu_Panda_4.m4a"
+    }
+  ]
+}

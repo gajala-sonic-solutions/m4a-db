@@ -41,6 +41,14 @@
       "tracksFile": "albums/SS-Dhurandhar-2025.json"
     },
     {
+      "id": "HZ-Kung-Fu-Panda-4-2024",
+      "artist": "Hans Zimmer",
+      "title": "Kung Fu Panda 4",
+      "year": 2024,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-4-2024/cover.webp",
+      "tracksFile": "albums/HZ-Kung-Fu-Panda-4-2024.json"
+    },
+    {
       "id": "MSS-Bholaa-Shankar-2023",
       "artist": "Mahati Swara Sagar",
       "title": "Bholaa Shankar",
