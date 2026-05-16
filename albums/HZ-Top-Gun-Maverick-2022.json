@@ -1,0 +1,128 @@
+{
+  "artist": "Hans Zimmer",
+  "album": "Top Gun Maverick",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Main Titles You ve Been Called Back to Top Gun",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/01--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--Main_Titles_You_ve_Been_Called_Back_to_Top_Gun.m4a"
+    },
+    {
+      "track": 1,
+      "title": "Danger Zone From Top Gun",
+      "artists": [
+        "Kenny Loggins"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/01--Kenny_Loggins--Danger_Zone_From_Top_Gun.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Darkstar",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/03--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--Darkstar.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Great Balls Of Fire Live",
+      "artists": [
+        "Miles Teller"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/04--Miles_Teller--Great_Balls_Of_Fire_Live.m4a"
+    },
+    {
+      "track": 5,
+      "title": "You re Where You Belong Give Em Hell",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/05--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--You_re_Where_You_Belong_Give_Em_Hell.m4a"
+    },
+    {
+      "track": 6,
+      "title": "I Ain t Worried",
+      "artists": [
+        "OneRepublic"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/06--OneRepublic--I_Ain_t_Worried.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Dagger One Is Hit Time To Let Go",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/07--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--Dagger_One_Is_Hit_Time_To_Let_Go.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Tally Two What s The Plan F 14",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/08--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--Tally_Two_What_s_The_Plan_F_14.m4a"
+    },
+    {
+      "track": 9,
+      "title": "The Man The Legend Touchdown",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/09--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--The_Man_The_Legend_Touchdown.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Penny Returns Interlude",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/10--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--Penny_Returns_Interlude.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Hold My Hand",
+      "artists": [
+        "Lady Gaga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/11--Lady_Gaga--Hold_My_Hand.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Top Gun Anthem",
+      "artists": [
+        "Harold Faltermeyer",
+        "Lady Gaga",
+        "Hans Zimmer",
+        "Lorne Balfe"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Top-Gun-Maverick-2022/12--Harold_Faltermeyer+Lady_Gaga+Hans_Zimmer+Lorne_Balfe--Top_Gun_Anthem.m4a"
+    }
+  ]
+}
