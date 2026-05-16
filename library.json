@@ -999,6 +999,14 @@
       "year": 1991,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MMK-Kshana-Kshanam-1991/cover.webp",
       "tracksFile": "albums/MMK-Kshana-Kshanam-1991.json"
+    },
+    {
+      "id": "MJ-Thriller-1982",
+      "artist": "Michael Jackson",
+      "title": "Thriller",
+      "year": 1982,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/cover.webp",
+      "tracksFile": "albums/MJ-Thriller-1982.json"
     }
   ]
 }

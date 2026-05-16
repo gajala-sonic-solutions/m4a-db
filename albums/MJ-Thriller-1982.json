@@ -1,0 +1,81 @@
+{
+  "artist": "Michael Jackson",
+  "album": "Thriller",
+  "year": 1982,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Wanna Be Startin Somethin",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/01--Michael_Jackson--Wanna_Be_Startin_Somethin.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Baby Be Mine",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/02--Michael_Jackson--Baby_Be_Mine.m4a"
+    },
+    {
+      "track": 3,
+      "title": "The Girl Is Mine",
+      "artists": [
+        "Michael Jackson",
+        "Paul McCartney"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/03--Michael_Jackson+Paul_McCartney--The_Girl_Is_Mine.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Thriller",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/04--Michael_Jackson--Thriller.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Beat It",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/05--Michael_Jackson--Beat_It.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/06--Michael_Jackson--Billie_Jean.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Human Nature",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/07--Michael_Jackson--Human_Nature.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Pretty Young Thing",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/08--Michael_Jackson--Pretty_Young_Thing.m4a"
+    },
+    {
+      "track": 9,
+      "title": "The Lady in My Life",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MJ-Thriller-1982/09--Michael_Jackson--The_Lady_in_My_Life.m4a"
+    }
+  ]
+}
