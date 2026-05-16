@@ -9,6 +9,14 @@
       "tracksFile": "albums/SS-Dhurandhar-The-Revenge-2026.json"
     },
     {
+      "id": "HZ-F1-The-Movie-2025",
+      "artist": "Hans Zimmer",
+      "title": "F1 The Movie",
+      "year": 2025,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Movie-2025/cover.webp",
+      "tracksFile": "albums/HZ-F1-The-Movie-2025.json"
+    },
+    {
       "id": "MMK-Varanasi-2025",
       "artist": "M M Keeravaani",
       "title": "Varanasi",
