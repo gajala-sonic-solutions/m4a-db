@@ -1,0 +1,104 @@
+{
+  "artist": "Hans Zimmer",
+  "album": "Inception",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Half Remembered Dream",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/01--Hans_Zimmer--Half_Remembered_Dream.m4a"
+    },
+    {
+      "track": 2,
+      "title": "We Built Our Own World",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/02--Hans_Zimmer--We_Built_Our_Own_World.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dream Is Collapsing",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/03--Hans_Zimmer--Dream_Is_Collapsing.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Radical Notion",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/04--Hans_Zimmer--Radical_Notion.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Old Souls",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/05--Hans_Zimmer--Old_Souls.m4a"
+    },
+    {
+      "track": 6,
+      "title": "528491",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/06--Hans_Zimmer--528491.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Mombasa",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/07--Hans_Zimmer--Mombasa.m4a"
+    },
+    {
+      "track": 8,
+      "title": "One Simple Idea",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/08--Hans_Zimmer--One_Simple_Idea.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Dream Within A Dream",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/09--Hans_Zimmer--Dream_Within_A_Dream.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Waiting for a Train",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/10--Hans_Zimmer--Waiting_for_a_Train.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Paradox",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/11--Hans_Zimmer--Paradox.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Time",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/12--Hans_Zimmer--Time.m4a"
+    }
+  ]
+}

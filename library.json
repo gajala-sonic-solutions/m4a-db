@@ -697,6 +697,14 @@
       "tracksFile": "albums/AR-Prema-Kavali-2011.json"
     },
     {
+      "id": "HZ-Inception-2010",
+      "artist": "Hans Zimmer",
+      "title": "Inception",
+      "year": 2010,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Inception-2010/cover.webp",
+      "tracksFile": "albums/HZ-Inception-2010.json"
+    },
+    {
       "id": "MMK-Vedam-2010",
       "artist": "M M Keeravaani",
       "title": "Vedam",
