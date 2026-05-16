@@ -569,6 +569,14 @@
       "tracksFile": "albums/HZ-Man-of-Steel-Deluxe-2013.json"
     },
     {
+      "id": "C4-Minecraft-Vol-Beta-2013",
+      "artist": "C418",
+      "title": "Minecraft - Volume Beta",
+      "year": 2013,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/C4-Minecraft-Vol-Beta-2013/cover.webp",
+      "tracksFile": "albums/C4-Minecraft-Vol-Beta-2013.json"
+    },
+    {
       "id": "SK-Paisa-2013",
       "artist": "Sai Karthik",
       "title": "Paisa",
