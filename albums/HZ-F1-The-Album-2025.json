@@ -1,0 +1,147 @@
+{
+  "artist": "Hans Zimmer",
+  "album": "F1 The Album",
+  "year": 2025,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Lose My Mind",
+      "artists": [
+        "Don Toliver",
+        "Doja Cat"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/01--Don_Toliver+Doja_Cat--Lose_My_Mind.m4a"
+    },
+    {
+      "track": 2,
+      "title": "No Room For A Saint",
+      "artists": [
+        "Dom Dolla",
+        "Nathan Nicholson"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/02--Dom_Dolla+Nathan_Nicholson--No_Room_For_A_Saint.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Drive",
+      "artists": [
+        "Ed Sheeran"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/03--Ed_Sheeran--Drive.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Just Keep Watching",
+      "artists": [
+        "Tate McRae"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/04--Tate_McRae--Just_Keep_Watching.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Messy",
+      "artists": [
+        "ROS E"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/05--ROS_E--Messy.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Don t Let Me Drown",
+      "artists": [
+        "Burna Boy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/06--Burna_Boy--Don_t_Let_Me_Drown.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Underdog",
+      "artists": [
+        "Roddy Ricch"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/07--Roddy_Ricch--Underdog.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Grandma Calls The Boy Bad News",
+      "artists": [
+        "RAYE"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/08--RAYE--Grandma_Calls_The_Boy_Bad_News.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Bad As I Used To Be",
+      "artists": [
+        "Chris Stapleton"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/09--Chris_Stapleton--Bad_As_I_Used_To_Be.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Baja California",
+      "artists": [
+        "Myke Towers"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/10--Myke_Towers--Baja_California.m4a"
+    },
+    {
+      "track": 11,
+      "title": "OMG",
+      "artists": [
+        "Ti esto",
+        "Sexyy Red"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/11--Ti_esto+Sexyy_Red--OMG.m4a"
+    },
+    {
+      "track": 12,
+      "title": "All At Once",
+      "artists": [
+        "Madison Beer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/12--Madison_Beer--All_At_Once.m4a"
+    },
+    {
+      "track": 13,
+      "title": "D A N C E",
+      "artists": [
+        "Peggy Gou"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/13--Peggy_Gou--D_A_N_C_E.m4a"
+    },
+    {
+      "track": 14,
+      "title": "DOUBLE C",
+      "artists": [
+        "PAWSA"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/14--PAWSA--DOUBLE_C.m4a"
+    },
+    {
+      "track": 15,
+      "title": "Attention",
+      "artists": [
+        "Mr Eazi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/15--Mr_Eazi--Attention.m4a"
+    },
+    {
+      "track": 16,
+      "title": "Give Me Love",
+      "artists": [
+        "Darkoo"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/16--Darkoo--Give_Me_Love.m4a"
+    },
+    {
+      "track": 17,
+      "title": "Gasoline",
+      "artists": [
+        "Obongjayar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/17--Obongjayar--Gasoline.m4a"
+    }
+  ]
+}

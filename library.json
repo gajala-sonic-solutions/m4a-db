@@ -17,6 +17,14 @@
       "tracksFile": "albums/MMK-Varanasi-2025.json"
     },
     {
+      "id": "HZ-F1-The-Album-2025",
+      "artist": "Hans Zimmer",
+      "title": "F1 The Album",
+      "year": 2025,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-F1-The-Album-2025/cover.webp",
+      "tracksFile": "albums/HZ-F1-The-Album-2025.json"
+    },
+    {
       "id": "SS-Dhurandhar-2025",
       "artist": "Shashwat Sachdev",
       "title": "Dhurandhar",
