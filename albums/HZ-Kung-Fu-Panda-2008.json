@@ -1,0 +1,161 @@
+{
+  "artist": "Hans Zimmer",
+  "album": "Kung Fu Panda",
+  "year": 2008,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Hero",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/01--Hans_Zimmer+John_Powell--Hero.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Let The Tournament Begin",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/02--Hans_Zimmer+John_Powell--Let_The_Tournament_Begin.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dragon Warrior Is Among Us",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/03--Hans_Zimmer+John_Powell--Dragon_Warrior_Is_Among_Us.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Tai Lung Escapes",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/04--Hans_Zimmer+John_Powell--Tai_Lung_Escapes.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Peach Tree Of Wisdom",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/05--Hans_Zimmer+John_Powell--Peach_Tree_Of_Wisdom.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Accu flashback",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/06--Hans_Zimmer+John_Powell--Accu_flashback.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Impersonating Shifu",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/07--Hans_Zimmer+John_Powell--Impersonating_Shifu.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Sacred Pool Of Tears",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/08--Hans_Zimmer+John_Powell--Sacred_Pool_Of_Tears.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Training Po",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/09--Hans_Zimmer+John_Powell--Training_Po.m4a"
+    },
+    {
+      "track": 10,
+      "title": "The Bridge",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/10--Hans_Zimmer+John_Powell--The_Bridge.m4a"
+    },
+    {
+      "track": 11,
+      "title": "Shifu Faces Tai Lung",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/11--Hans_Zimmer+John_Powell--Shifu_Faces_Tai_Lung.m4a"
+    },
+    {
+      "track": 12,
+      "title": "The Dragon Scroll",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/12--Hans_Zimmer+John_Powell--The_Dragon_Scroll.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Po vs Tai Lung",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/13--Hans_Zimmer+John_Powell--Po_vs_Tai_Lung.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Dragon Warrior Rises",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/14--Hans_Zimmer+John_Powell--Dragon_Warrior_Rises.m4a"
+    },
+    {
+      "track": 15,
+      "title": "Panda Po",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/15--Hans_Zimmer+John_Powell--Panda_Po.m4a"
+    },
+    {
+      "track": 16,
+      "title": "Oogway Ascends",
+      "artists": [
+        "Hans Zimmer",
+        "John Powell"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/16--Hans_Zimmer+John_Powell--Oogway_Ascends.m4a"
+    },
+    {
+      "track": 17,
+      "title": "Kung Fu Fighting",
+      "artists": [
+        "CeeLo Green",
+        "Jack Black"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/17--CeeLo_Green+Jack_Black--Kung_Fu_Fighting.m4a"
+    }
+  ]
+}

@@ -729,6 +729,14 @@
       "tracksFile": "albums/HJ-Ghatikudu-2009.json"
     },
     {
+      "id": "HZ-Kung-Fu-Panda-2008",
+      "artist": "Hans Zimmer",
+      "title": "Kung Fu Panda",
+      "year": 2008,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-2008/cover.webp",
+      "tracksFile": "albums/HZ-Kung-Fu-Panda-2008.json"
+    },
+    {
       "id": "KMR-Bale-Dongalu-2008",
       "artist": "K M Radhakrishnan",
       "title": "Bale Dongalu",
