@@ -561,6 +561,14 @@
       "tracksFile": "albums/AR-Autonagar-Surya-2014.json"
     },
     {
+      "id": "HZ-Man-of-Steel-Deluxe-2013",
+      "artist": "Hans Zimmer",
+      "title": "Man of Steel [Deluxe]",
+      "year": 2013,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Man-of-Steel-Deluxe-2013/cover.webp",
+      "tracksFile": "albums/HZ-Man-of-Steel-Deluxe-2013.json"
+    },
+    {
       "id": "SK-Paisa-2013",
       "artist": "Sai Karthik",
       "title": "Paisa",
