@@ -1,0 +1,246 @@
+{
+  "artist": "Hans Zimmer",
+  "album": "Kung Fu Panda 3",
+  "year": 2016,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Oogway s Legacy",
+      "artists": [
+        "Hans Zimmer",
+        "Lang Lang",
+        "Gan Gou",
+        "Jian Wang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/01--Hans_Zimmer+Lang_Lang+Gan_Gou+Jian_Wang--Oogway_s_Legacy.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Hungry for Lunch",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/02--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Hungry_for_Lunch.m4a"
+    },
+    {
+      "track": 3,
+      "title": "The Power of Chi",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/03--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Power_of_Chi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "The Arrival of Kai",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/04--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Arrival_of_Kai.m4a"
+    },
+    {
+      "track": 5,
+      "title": "A New Father",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/05--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--A_New_Father.m4a"
+    },
+    {
+      "track": 6,
+      "title": "The Hall of Heroes",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/06--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Hall_of_Heroes.m4a"
+    },
+    {
+      "track": 7,
+      "title": "The Legend of Kai",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/07--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Legend_of_Kai.m4a"
+    },
+    {
+      "track": 8,
+      "title": "The Panda Village",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/08--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Panda_Village.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Mei Mei s Ribbon Dance",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/09--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Mei_Mei_s_Ribbon_Dance.m4a"
+    },
+    {
+      "track": 10,
+      "title": "Jaded",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/10--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Jaded.m4a"
+    },
+    {
+      "track": 11,
+      "title": "How To Be a Panda",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/11--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--How_To_Be_a_Panda.m4a"
+    },
+    {
+      "track": 12,
+      "title": "Portrait of Mom",
+      "artists": [
+        "Hans Zimmer",
+        "Lang Lang",
+        "Gan Gou",
+        "Jian Wang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/12--Hans_Zimmer+Lang_Lang+Gan_Gou+Jian_Wang--Portrait_of_Mom.m4a"
+    },
+    {
+      "track": 13,
+      "title": "Po Belongs",
+      "artists": [
+        "Hans Zimmer",
+        "Lang Lang",
+        "Gan Gou",
+        "Jian Wang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/13--Hans_Zimmer+Lang_Lang+Gan_Gou+Jian_Wang--Po_Belongs.m4a"
+    },
+    {
+      "track": 14,
+      "title": "Kai is Closer",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/14--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Kai_is_Closer.m4a"
+    },
+    {
+      "track": 15,
+      "title": "Two Fathers",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/15--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Two_Fathers.m4a"
+    },
+    {
+      "track": 16,
+      "title": "The Battle of Legends",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/16--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Battle_of_Legends.m4a"
+    },
+    {
+      "track": 17,
+      "title": "The Spirit Realm",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/17--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Spirit_Realm.m4a"
+    },
+    {
+      "track": 18,
+      "title": "The Dragon Warrior",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/18--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--The_Dragon_Warrior.m4a"
+    },
+    {
+      "track": 19,
+      "title": "Passing the Torch",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/19--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Passing_the_Torch.m4a"
+    },
+    {
+      "track": 20,
+      "title": "Father and Son",
+      "artists": [
+        "Hans Zimmer",
+        "Gan Gou",
+        "Jian Wang",
+        "Lang Lang"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/20--Hans_Zimmer+Gan_Gou+Jian_Wang+Lang_Lang--Father_and_Son.m4a"
+    },
+    {
+      "track": 21,
+      "title": "Kung Fu Fighting Celebration Time",
+      "artists": [
+        "Shanghai Roxi Musical Studio Choirs",
+        "Metro Voices London",
+        "Metro Voices"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/21--Shanghai_Roxi_Musical_Studio_Choirs+Metro_Voices_London+Metro_Voices--Kung_Fu_Fighting_Celebration_Time.m4a"
+    },
+    {
+      "track": 22,
+      "title": "Try",
+      "artists": [
+        "Hans Zimmer"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/22--Hans_Zimmer--Try.m4a"
+    }
+  ]
+}

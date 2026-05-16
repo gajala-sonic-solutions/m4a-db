@@ -385,6 +385,14 @@
       "tracksFile": "albums/ShK-Fidaa-2017.json"
     },
     {
+      "id": "HZ-Kung-Fu-Panda-3-2016",
+      "artist": "Hans Zimmer",
+      "title": "Kung Fu Panda 3",
+      "year": 2016,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Kung-Fu-Panda-3-2016/cover.webp",
+      "tracksFile": "albums/HZ-Kung-Fu-Panda-3-2016.json"
+    },
+    {
       "id": "MMK-Baahubali-2-The-Conclusion-2016",
       "artist": "M M Keeravaani",
       "title": "Baahubali 2 - The Conclusion",
