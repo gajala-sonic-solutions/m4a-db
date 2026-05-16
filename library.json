@@ -473,6 +473,14 @@
       "tracksFile": "albums/AR-Akhil-The-Power-Of-Jua-2015.json"
     },
     {
+      "id": "HZ-Interstellar-Expanded-2014",
+      "artist": "Hans Zimmer",
+      "title": "Interstellar [Expanded]",
+      "year": 2014,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HZ-Interstellar-Expanded-2014/cover.webp",
+      "tracksFile": "albums/HZ-Interstellar-Expanded-2014.json"
+    },
+    {
       "id": "AR-Pilla-Nuvvu-Leni-Jeevitham-2014",
       "artist": "Anup Rubens",
       "title": "Pilla Nuvvu Leni Jeevitham",
