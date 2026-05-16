@@ -657,6 +657,14 @@
       "tracksFile": "albums/AR-Ishq-2012.json"
     },
     {
+      "id": "C4-Minecraft-Vol-Alpha-2011",
+      "artist": "C418",
+      "title": "Minecraft - Volume Alpha",
+      "year": 2011,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/C4-Minecraft-Vol-Alpha-2011/cover.webp",
+      "tracksFile": "albums/C4-Minecraft-Vol-Alpha-2011.json"
+    },
+    {
       "id": "MMK-Badrenath-2011",
       "artist": "M M Keeravaani",
       "title": "Badrenath",
