@@ -1,0 +1,64 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Cameraman Gangatho Rambabu",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "CMGR Theme",
+      "artists": [
+        "Hemachandra",
+        "Karunya",
+        "Narendra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/01--Hemachandra+Karunya+Narendra--CMGR_Theme.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Pillani Choosthey",
+      "artists": [
+        "Karunya",
+        "Chaitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/02--Karunya+Chaitra--Pillani_Choosthey.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Joramochindhi",
+      "artists": [
+        "Kushi Murali",
+        "Sravana Bhargavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/03--Kushi_Murali+Sravana_Bhargavi--Joramochindhi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Extraordinary",
+      "artists": [
+        "Hemachandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/04--Hemachandra--Extraordinary.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Taladinchuku",
+      "artists": [
+        "Hemachandra",
+        "Karunya",
+        "Srikrishna",
+        "Narendra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/05--Hemachandra+Karunya+Srikrishna+Narendra--Taladinchuku.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Melikalu",
+      "artists": [
+        "Narendra",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/06--Narendra+Geetha_Madhuri--Melikalu.m4a"
+    }
+  ]
+}

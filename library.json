@@ -633,6 +633,14 @@
       "tracksFile": "albums/KMR-Godavari-2013.json"
     },
     {
+      "id": "MS-CGR-2012",
+      "artist": "Mani Sharma",
+      "title": "Cameraman Gangatho Rambabu",
+      "year": 2012,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-CGR-2012/cover.webp",
+      "tracksFile": "albums/MS-CGR-2012.json"
+    },
+    {
       "id": "MMK-Eega-2012",
       "artist": "M M Keeravaani",
       "title": "Eega",
