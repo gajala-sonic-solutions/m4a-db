@@ -905,6 +905,14 @@
       "tracksFile": "albums/HJ-Sainikudu-2006.json"
     },
     {
+      "id": "MS-Athadu-2005",
+      "artist": "Mani Sharma",
+      "title": "Athadu",
+      "year": 2005,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/cover.webp",
+      "tracksFile": "albums/MS-Athadu-2005.json"
+    },
+    {
       "id": "MMK-Chatrapathi-2005",
       "artist": "M M Keeravaani",
       "title": "Chatrapathi",

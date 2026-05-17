@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Athadu",
+  "year": 2005,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Adaraku",
+      "artists": [
+        "Vishwa"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/01--Vishwa--Adaraku.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Pillagali",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/02--Shreya_Ghoshal--Pillagali.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Avunu Nijam",
+      "artists": [
+        "KK",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/03--KK+Sunitha--Avunu_Nijam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chandamama",
+      "artists": [
+        "Ranjith",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/04--Ranjith+Maha_Lakshmi--Chandamama.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Netho Cheppana",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/05--S._P._Balasubrahmanyam+K._S._Chithra--Netho_Cheppana.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Pilichina",
+      "artists": [
+        "Karthik",
+        "Kavitha Subramanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athadu-2005/06--Karthik+Kavitha_Subramanyam--Pilichina.m4a"
+    }
+  ]
+}
