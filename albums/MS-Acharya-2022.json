@@ -1,0 +1,82 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Acharya",
+  "year": 2022,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Acharya",
+      "artists": [
+        "Chiranjeevi",
+        "Ram Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/01--Chiranjeevi+Ram_Charan--Acharya.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Laahe Laahe",
+      "artists": [
+        "Harika Narayan",
+        "Sahithi Chaganti",
+        "Chiranjeevi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/02--Harika_Narayan+Sahithi_Chaganti+Chiranjeevi--Laahe_Laahe.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Neelambari",
+      "artists": [
+        "Anurag Kulkarni",
+        "Ramya Behara",
+        "Chiranjeevi",
+        "Ram Charan",
+        "Kajal Aggarwal",
+        "Pooja Hegde"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/03--Anurag_Kulkarni+Ramya_Behara+Chiranjeevi+Ram_Charan+Kajal_Aggarwal+Pooja_Hegde--Neelambari.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Saana Kastam",
+      "artists": [
+        "Revanth",
+        "Geetha Madhuri",
+        "Chiranjeevi",
+        "Regina Cassandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/04--Revanth+Geetha_Madhuri+Chiranjeevi+Regina_Cassandra--Saana_Kastam.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Bhale Bhale Banjara",
+      "artists": [
+        "Shankar Mahadevan",
+        "Rahul Sipligunj",
+        "Chiranjeevi",
+        "Ram Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/05--Shankar_Mahadevan+Rahul_Sipligunj+Chiranjeevi+Ram_Charan--Bhale_Bhale_Banjara.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Putuka Thone",
+      "artists": [
+        "Anurag Kulkarni",
+        "Chiranjeevi",
+        "Ram Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/06--Anurag_Kulkarni+Chiranjeevi+Ram_Charan--Putuka_Thone.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Acharya Slokam",
+      "artists": [
+        "ML Shruti",
+        "Chiranjeevi",
+        "Ram Charan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Acharya-2022/07--ML_Shruti+Chiranjeevi+Ram_Charan--Acharya_Slokam.m4a"
+    }
+  ]
+}
