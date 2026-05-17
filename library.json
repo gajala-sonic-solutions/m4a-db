@@ -841,6 +841,14 @@
       "tracksFile": "albums/HJ-Surya-So-Krishnan-2008.json"
     },
     {
+      "id": "MS-Athidhi-OST-2007",
+      "artist": "Mani Sharma",
+      "title": "Athidhi [OST]",
+      "year": 2007,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-OST-2007/cover.webp",
+      "tracksFile": "albums/MS-Athidhi-OST-2007.json"
+    },
+    {
       "id": "MS-Athidhi-2007",
       "artist": "Mani Sharma",
       "title": "Athidhi",
