@@ -1,0 +1,66 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Arjun",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Okka Maata",
+      "artists": [
+        "Shankar Mahadevan",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/01--Shankar_Mahadevan+Chorus--Okka_Maata.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Aey Pilla",
+      "artists": [
+        "S P Charan",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/02--S._P._Charan+Shreya_Ghoshal--Aey_Pilla.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dum Dumaare",
+      "artists": [
+        "K S Chithra",
+        "S P Balasubrahmanyam",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/03--K._S._Chithra+S._P._Balasubrahmanyam+Chorus--Dum_Dumaare.m4a"
+    },
+    {
+      "track": 4,
+      "title": "O Cheli Nee Oyyarale",
+      "artists": [
+        "K S Chithra",
+        "Chorus",
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/04--K._S._Chithra+Chorus+Karthik--O_Cheli_Nee_Oyyarale.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Madhura Madhuratara",
+      "artists": [
+        "P Unnikrishnan",
+        "Harini",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/05--P._Unnikrishnan+Harini+Chorus--Madhura_Madhuratara.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ra Ra Rajakumara",
+      "artists": [
+        "Udit Narayan",
+        "Swarnalatha",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/06--Udit_Narayan+Swarnalatha+Chorus--Ra_Ra_Rajakumara.m4a"
+    }
+  ]
+}

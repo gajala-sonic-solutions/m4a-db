@@ -921,6 +921,14 @@
       "tracksFile": "albums/HJ-Aparichithudu-2005.json"
     },
     {
+      "id": "MS-Arjun-2004",
+      "artist": "Mani Sharma",
+      "title": "Arjun",
+      "year": 2004,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Arjun-2004/cover.webp",
+      "tracksFile": "albums/MS-Arjun-2004.json"
+    },
+    {
       "id": "MS-Anji-2004",
       "artist": "Mani Sharma",
       "title": "Anji",
