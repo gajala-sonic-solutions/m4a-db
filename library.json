@@ -873,6 +873,14 @@
       "tracksFile": "albums/KMR-Chandamama-2007.json"
     },
     {
+      "id": "MS-Ashok-2006",
+      "artist": "Mani Sharma",
+      "title": "Ashok",
+      "year": 2006,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/cover.webp",
+      "tracksFile": "albums/MS-Ashok-2006.json"
+    },
+    {
       "id": "MMT-Vikramarkudu-2006",
       "artist": "M M Keeravaani",
       "title": "Vikramarkudu",

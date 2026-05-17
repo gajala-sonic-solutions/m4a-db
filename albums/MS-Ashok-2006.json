@@ -1,0 +1,72 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Ashok",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Oka Chinni",
+      "artists": [
+        "KK",
+        "Jr NTR",
+        "Sameera Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/01--KK+Jr.NTR+Sameera_Reddy--Oka_Chinni.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Jabiliki",
+      "artists": [
+        "Hariharan",
+        "Vardhani Thaman",
+        "Jr NTR",
+        "Sameera Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/02--Hariharan+Vardhani_Thaman+Jr.NTR+Sameera_Reddy--Jabiliki.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Gola Gola",
+      "artists": [
+        "Ravi Varma",
+        "Sujatha",
+        "Jr NTR",
+        "Sameera Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/03--Ravi_Varma+Sujatha+Jr.NTR+Sameera_Reddy--Gola_Gola.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nuvvasalu",
+      "artists": [
+        "Jessi Gift",
+        "K S Chithra",
+        "Jr NTR",
+        "Sameera Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/04--Jessi_Gift+K._S._Chithra+Jr.NTR+Sameera_Reddy--Nuvvasalu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Mumtaju Mahalu",
+      "artists": [
+        "Devan",
+        "Tanvishani",
+        "Jr NTR",
+        "Sameera Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/05--Devan+Tanvishani+Jr.NTR+Sameera_Reddy--Mumtaju_Mahalu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yekantanga",
+      "artists": [
+        "Karunya",
+        "Jr NTR",
+        "Sameera Reddy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ashok-2006/06--Karunya+Jr.NTR+Sameera_Reddy--Yekantanga.m4a"
+    }
+  ]
+}
