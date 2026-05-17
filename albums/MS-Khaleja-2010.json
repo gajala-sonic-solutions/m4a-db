@@ -1,0 +1,85 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Khaleja [Deluxe]",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Sada Siva",
+      "artists": [
+        "Ramesh Vinayagam",
+        "Karunya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/01--Ramesh_Vinayagam+Karunya--Sada_Siva.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Bhoom Shakenaka",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/02--Ranjith--Bhoom_Shakenaka.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Pileche",
+      "artists": [
+        "Hemachandra Vedala",
+        "Shweta Mohan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/03--Hemachandra_Vedala+Shweta_Mohan--Pileche.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Makathika",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/04--Mani_Sharma--Makathika.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Sunday Monday",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/05--Mani_Sharma--Sunday_Monday.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Taxi",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/06--Ranjith--Taxi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Sada Siva Vocals Only",
+      "artists": [
+        "Ramesh Vinayagam",
+        "Karunya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/07--Ramesh_Vinayagam+Karunya--Sada_Siva_Vocals_Only.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Sada Siva Om namah shivay",
+      "artists": [
+        "Ramesh Vinayagam",
+        "Karunya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/08--Ramesh_Vinayagam+Karunya--Sada_Siva_Om_namah_shivay.m4a"
+    },
+    {
+      "track": 9,
+      "title": "Pileche Trending Version",
+      "artists": [
+        "Hemachandra Vedala",
+        "Shweta Mohan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Khaleja-2010/09--Hemachandra_Vedala+Shweta_Mohan--Pileche_Trending_Version.m4a"
+    }
+  ]
+}
