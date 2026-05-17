@@ -1,0 +1,62 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Anji",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Chik Buk Pori",
+      "artists": [
+        "Shankar Mahadevan",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/01--Shankar_Mahadevan+Kalpana_Raghavendar--Chik_Buk_Pori.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gumma Gulabi",
+      "artists": [
+        "Karthik",
+        "Shalini Singh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/02--Karthik+Shalini_Singh--Gumma_Gulabi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Abbo Neeyamma",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/03--S._P._Balasubrahmanyam+Kalpana_Raghavendar--Abbo_Neeyamma.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Om Shanthi",
+      "artists": [
+        "Shankar Mahadevan",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/04--Shankar_Mahadevan+Ganga--Om_Shanthi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Manava Manava",
+      "artists": [
+        "Tippu",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/05--Tippu+Sunitha--Manava_Manava.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Mirapakaya",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Radhika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Anji-2004/06--S._P._Balasubrahmanyam+Radhika--Mirapakaya.m4a"
+    }
+  ]
+}
