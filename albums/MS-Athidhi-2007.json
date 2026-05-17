@@ -1,0 +1,61 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Athidhi",
+  "year": 2007,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Khabaddarani",
+      "artists": [
+        "Naveen",
+        "Rahul"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/01--Naveen+Rahul--Khabaddarani.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gona Gona",
+      "artists": [
+        "Naveen",
+        "Rita Thyagarajan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/02--Naveen+Rita_Thyagarajan--Gona_Gona.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Satyam Yemito",
+      "artists": [
+        "Deepu",
+        "Usha Munukutla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/03--Deepu+Usha_Munukutla--Satyam_Yemito.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Khiladi Koona",
+      "artists": [
+        "Karthik",
+        "Rita Thyagarajan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/04--Karthik+Rita_Thyagarajan--Khiladi_Koona.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Rathraina",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/05--Mani_Sharma--Rathraina.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Valla Valla",
+      "artists": [
+        "Rahul Nambiar",
+        "Darshana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/06--Rahul_Nambiar+Darshana--Valla_Valla.m4a"
+    }
+  ]
+}

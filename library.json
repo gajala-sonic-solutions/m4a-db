@@ -841,6 +841,14 @@
       "tracksFile": "albums/HJ-Surya-So-Krishnan-2008.json"
     },
     {
+      "id": "MS-Athidhi-2007",
+      "artist": "Mani Sharma",
+      "title": "Athidhi",
+      "year": 2007,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Athidhi-2007/cover.webp",
+      "tracksFile": "albums/MS-Athidhi-2007.json"
+    },
+    {
       "id": "MMK-Yamadonga-2007",
       "artist": "M M Keeravaani",
       "title": "Yamadonga",
