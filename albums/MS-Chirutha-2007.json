@@ -1,0 +1,76 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Chirutha",
+  "year": 2007,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Yamaho Yama",
+      "artists": [
+        "Tippu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/01--Tippu--Yamaho_Yama.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Love U Raa",
+      "artists": [
+        "Deepu",
+        "Rita Thyagarajan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/02--Deepu+Rita_Thyagarajan--Love_U_Raa.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Endhuko Pichi Pichi",
+      "artists": [
+        "Karunya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/03--Karunya--Endhuko_Pichi_Pichi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chamka Chamka",
+      "artists": [
+        "Ranjith Govind",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/04--Ranjith_Govind+Geetha_Madhuri--Chamka_Chamka.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Maro Maro",
+      "artists": [
+        "Rahul Nambiar",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/05--Rahul_Nambiar+Suchitra--Maro_Maro.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Kannethi Bit",
+      "artists": [
+        "Mallikarjun"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/06--Mallikarjun--Kannethi_Bit.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Ivala",
+      "artists": [
+        "KK",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/07--KK+Sunitha--Ivala.m4a"
+    },
+    {
+      "track": 8,
+      "title": "Innallu Bit",
+      "artists": [
+        "Usha Munukutla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chirutha-2007/08--Usha_Munukutla--Innallu_Bit.m4a"
+    }
+  ]
+}
