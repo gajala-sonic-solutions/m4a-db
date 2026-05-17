@@ -793,6 +793,14 @@
       "tracksFile": "albums/HJ-Orange-2010.json"
     },
     {
+      "id": "MS-Baanam-2009",
+      "artist": "Mani Sharma",
+      "title": "Baanam",
+      "year": 2009,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/cover.webp",
+      "tracksFile": "albums/MS-Baanam-2009.json"
+    },
+    {
       "id": "MMK-Magadheera-2009",
       "artist": "M M Keeravaani",
       "title": "Magadheera",

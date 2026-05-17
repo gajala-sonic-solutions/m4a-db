@@ -1,0 +1,63 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Baanam",
+  "year": 2009,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Kadhile Paadham",
+      "artists": [
+        "Shankar Mahadevan",
+        "Mani Sharma",
+        "Vanamali"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/01--Shankar_Mahadevan+Mani_Sharma+Vanamali--Kadhile_Paadham.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Naalo Nenena",
+      "artists": [
+        "Saindhavi",
+        "Hemachandra",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/02--Saindhavi+Hemachandra+Mani_Sharma+Ramajogayya_Sastry--Naalo_Nenena.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Padhara Padhara",
+      "artists": [
+        "K G Ranjith",
+        "Murali",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/03--K._G._Ranjith+Murali+Mani_Sharma+Ramajogayya_Sastry--Padhara_Padhara.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Mogindhi Jai Ganta",
+      "artists": [
+        "Shreya Ghoshal",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/04--Shreya_Ghoshal+Mani_Sharma+Ramajogayya_Sastry--Mogindhi_Jai_Ganta.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Baana Theme",
+      "artists": [
+        "K G Ranjith",
+        "Naveen Madhav",
+        "Murali",
+        "S Hanumantha Rao",
+        "Mani Sharma",
+        "Krishna Chaitanya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Baanam-2009/05--K._G._Ranjith+Naveen_Madhav+Murali+S._Hanumantha_Rao+Mani_Sharma+Krishna_Chaitanya--Baana_Theme.m4a"
+    }
+  ]
+}
