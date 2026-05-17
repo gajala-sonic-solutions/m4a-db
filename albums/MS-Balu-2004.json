@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Balu",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Inte Inthinte",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/01--KK--Inte_Inthinte.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Lokale Gelavaga",
+      "artists": [
+        "Murali",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/02--Murali+K._S._Chithra--Lokale_Gelavaga.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Athimettani",
+      "artists": [
+        "Ranjith",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/03--Ranjith+Maha_Lakshmi--Athimettani.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Neelo Jarige",
+      "artists": [
+        "Hariharan",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/04--Hariharan+Shreya_Ghoshal--Neelo_Jarige.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hat Hatja",
+      "artists": [
+        "Kunal Ganjawala"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/05--Kunal_Ganjawala--Hat_Hatja.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Kannu Kottina",
+      "artists": [
+        "Udit Narayan",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Balu-2004/06--Udit_Narayan+Sujatha--Kannu_Kottina.m4a"
+    }
+  ]
+}
