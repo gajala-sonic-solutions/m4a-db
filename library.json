@@ -1017,6 +1017,14 @@
       "tracksFile": "albums/HJ-Cheli-2001.json"
     },
     {
+      "id": "MS-Annayya-2000",
+      "artist": "Mani Sharma",
+      "title": "Annayya",
+      "year": 2000,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/cover.webp",
+      "tracksFile": "albums/MS-Annayya-2000.json"
+    },
+    {
       "id": "MMK-Annamayya-1997",
       "artist": "M M Keeravaani",
       "title": "Annamayya",

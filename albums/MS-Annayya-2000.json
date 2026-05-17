@@ -1,0 +1,75 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Annayya",
+  "year": 2000,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Sayyare Sayya",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Chiranjeevi",
+        "Soundarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/01--S._P._Balasubrahmanyam+Chiranjeevi+Soundarya--Sayyare_Sayya.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Hima Seemallo",
+      "artists": [
+        "Hariharan",
+        "Harini",
+        "Chiranjeevi",
+        "Soundarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/02--Hariharan+Harini+Chiranjeevi+Soundarya--Hima_Seemallo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Gusagusale",
+      "artists": [
+        "Udit Narayan",
+        "Sujatha",
+        "Chiranjeevi",
+        "Soundarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/03--Udit_Narayan+Sujatha+Chiranjeevi+Soundarya--Gusagusale.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Vana Vallappa",
+      "artists": [
+        "Hariharan",
+        "Sujatha",
+        "Chiranjeevi",
+        "Soundarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/04--Hariharan+Sujatha+Chiranjeevi+Soundarya--Vana_Vallappa.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Baava Chandamaamalu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "S P B Charan",
+        "Teja",
+        "Chiranjeevi",
+        "Soundarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/05--S._P._Balasubrahmanyam+K._S._Chithra+S.P.B._Charan+Teja+Chiranjeevi+Soundarya--Baava_Chandamaamalu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Aata Kaavala",
+      "artists": [
+        "Sukhwinder Singh",
+        "Radhika",
+        "Chiranjeevi",
+        "Soundarya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Annayya-2000/06--Sukhwinder_Singh+Radhika+Chiranjeevi+Soundarya--Aata_Kaavala.m4a"
+    }
+  ]
+}
