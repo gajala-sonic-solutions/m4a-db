@@ -489,6 +489,14 @@
       "tracksFile": "albums/AR-Akhil-The-Power-Of-Jua-2015.json"
     },
     {
+      "id": "MS-Billa-2014",
+      "artist": "Mani Sharma",
+      "title": "Billa",
+      "year": 2014,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/cover.webp",
+      "tracksFile": "albums/MS-Billa-2014.json"
+    },
+    {
       "id": "HZ-Interstellar-Expanded-2014",
       "artist": "Hans Zimmer",
       "title": "Interstellar [Expanded]",

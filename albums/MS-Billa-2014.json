@@ -1,0 +1,72 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Billa",
+  "year": 2014,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Hariloranga Hari",
+      "artists": [
+        "Nagur Babu",
+        "Ranjith",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/01--Nagur_Babu+Ranjith+Mani_Sharma+Ramajogayya_Sastry--Hariloranga_Hari.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ellora Silpanni",
+      "artists": [
+        "Rita",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/02--Rita+Mani_Sharma+Ramajogayya_Sastry--Ellora_Silpanni.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Billa Theme Music",
+      "artists": [
+        "Ranjith",
+        "Rita",
+        "Mani Sharma",
+        "Mehar Ramesh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/03--Ranjith+Rita+Mani_Sharma+Mehar_Ramesh--Billa_Theme_Music.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Bommali",
+      "artists": [
+        "Hemachandra",
+        "Malavika",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/04--Hemachandra+Malavika+Mani_Sharma+Ramajogayya_Sastry--Bommali.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ne Pattasu",
+      "artists": [
+        "Rita",
+        "Mani Sharma",
+        "Bhaskarabhatla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/05--Rita+Mani_Sharma+Bhaskarabhatla--Ne_Pattasu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "My Name Is Billa",
+      "artists": [
+        "Ranjith",
+        "Naveen",
+        "Mani Sharma",
+        "Ramajogayya Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Billa-2014/06--Ranjith+Naveen+Mani_Sharma+Ramajogayya_Sastry--My_Name_Is_Billa.m4a"
+    }
+  ]
+}
