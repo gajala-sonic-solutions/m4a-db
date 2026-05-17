@@ -1,0 +1,61 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Chennakesava Reddy",
+  "year": 2002,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Dont Care",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/01--Shankar_Mahadevan--Dont_Care.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Hai Hai",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/02--S._P._Balasubrahmanyam+Sunitha--Hai_Hai.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Bakara Bakara",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/03--Udit_Narayan+K._S._Chithra--Bakara_Bakara.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nee Koppulona",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Kousalya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/04--S._P._Balasubrahmanyam+Kousalya--Nee_Koppulona.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ooranta Utsavam",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/05--S._P._Balasubrahmanyam+Sujatha--Ooranta_Utsavam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Telupu Telupu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/06--S._P._Balasubrahmanyam+K._S._Chithra--Telupu_Telupu.m4a"
+    }
+  ]
+}
