@@ -1129,6 +1129,14 @@
       "tracksFile": "albums/HJ-Aparichithudu-2005.json"
     },
     {
+      "id": "MS-Sri-Anjaneyam-2004",
+      "artist": "Mani Sharma",
+      "title": "Sri Anjaneyam",
+      "year": 2004,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/cover.webp",
+      "tracksFile": "albums/MS-Sri-Anjaneyam-2004.json"
+    },
+    {
       "id": "MS-Gudumba-Shankar-2004",
       "artist": "Mani Sharma",
       "title": "Gudumba Shankar",

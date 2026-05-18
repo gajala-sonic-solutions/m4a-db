@@ -1,0 +1,66 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Sri Anjaneyam",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ooregi Ravayya",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/01--Shankar_Mahadevan--Ooregi_Ravayya.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Rama Rama",
+      "artists": [
+        "Mallikarjun"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/02--Mallikarjun--Rama_Rama.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Avayi Tuvvayi",
+      "artists": [
+        "Tippu",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/03--Tippu+Shreya_Ghoshal--Avayi_Tuvvayi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Poola Megha",
+      "artists": [
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/04--Shreya_Ghoshal--Poola_Megha.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Slokam",
+      "artists": [
+        "K S Chithra",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/05--K._S._Chithra+Kalpana_Raghavendar--Slokam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Thika Maka",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/06--S._P._Balasubrahmanyam--Thika_Maka.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Ee Yogamanukomu",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Sri-Anjaneyam-2004/07--S._P._Balasubrahmanyam--Ee_Yogamanukomu.m4a"
+    }
+  ]
+}
