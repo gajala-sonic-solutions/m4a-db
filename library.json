@@ -993,6 +993,14 @@
       "tracksFile": "albums/HJ-Sainikudu-2006.json"
     },
     {
+      "id": "MS-Jai-Chiranjeeva-2005",
+      "artist": "Mani Sharma",
+      "title": "Jai Chiranjeeva",
+      "year": 2005,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/cover.webp",
+      "tracksFile": "albums/MS-Jai-Chiranjeeva-2005.json"
+    },
+    {
       "id": "MS-Athadu-OST-2005",
       "artist": "Mani Sharma",
       "title": "Athadu [OST]",

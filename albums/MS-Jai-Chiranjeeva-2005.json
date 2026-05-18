@@ -1,0 +1,59 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Jai Chiranjeeva",
+  "year": 2005,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Jai Jai Ganesha",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/01--S._P._Balasubrahmanyam--Jai_Jai_Ganesha.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ko Kokodi",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/02--Udit_Narayan+K._S._Chithra--Ko_Kokodi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Thamups Up Thunder",
+      "artists": [
+        "Nihal",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/03--Nihal+Maha_Lakshmi--Thamups_Up_Thunder.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Thillana",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/04--Shankar_Mahadevan--Thillana.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hey Jana",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/05--KK--Hey_Jana.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Maha Muddu",
+      "artists": [
+        "Karthik",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Jai-Chiranjeeva-2005/06--Karthik+Shreya_Ghoshal--Maha_Muddu.m4a"
+    }
+  ]
+}
