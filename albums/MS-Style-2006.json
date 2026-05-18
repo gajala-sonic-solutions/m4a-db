@@ -1,0 +1,68 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Style",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Style Style",
+      "artists": [
+        "Ravi Varma",
+        "Mani Sharma",
+        "Madhu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/01--Ravi_Varma+Mani_Sharma+Madhu--Style_Style.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Edalo Edo",
+      "artists": [
+        "Karthik",
+        "Mani Sharma",
+        "Viswa"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/02--Karthik+Mani_Sharma+Viswa--Edalo_Edo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Rock Rol",
+      "artists": [
+        "KK",
+        "Mani Sharma",
+        "Viswa"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/03--KK+Mani_Sharma+Viswa--Rock_Rol.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chiru Cheyyesthe",
+      "artists": [
+        "Mano",
+        "Mani Sharma",
+        "Madhu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/04--Mano+Mani_Sharma+Madhu--Chiru_Cheyyesthe.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Merupaisagara",
+      "artists": [
+        "Karthik",
+        "Mani Sharma",
+        "Ramesh Naidu Dasari"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/05--Karthik+Mani_Sharma+Ramesh_Naidu_Dasari--Merupaisagara.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Raa Raa",
+      "artists": [
+        "Shankar Mahadevan",
+        "Mani Sharma",
+        "Ramesh Naidu Dasari"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/06--Shankar_Mahadevan+Mani_Sharma+Ramesh_Naidu_Dasari--Raa_Raa.m4a"
+    }
+  ]
+}

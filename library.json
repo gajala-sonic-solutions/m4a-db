@@ -1025,6 +1025,14 @@
       "tracksFile": "albums/KMR-Chandamama-2007.json"
     },
     {
+      "id": "MS-Style-2006",
+      "artist": "Mani Sharma",
+      "title": "Style",
+      "year": 2006,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Style-2006/cover.webp",
+      "tracksFile": "albums/MS-Style-2006.json"
+    },
+    {
       "id": "MS-Stalin-2006",
       "artist": "Mani Sharma",
       "title": "Stalin",
