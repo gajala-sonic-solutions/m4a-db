@@ -1,0 +1,76 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Shakti",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Thaliya Thaliya",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/01--Ranjith--Thaliya_Thaliya.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Prema Desam",
+      "artists": [
+        "Hemachandra",
+        "Saindhavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/02--Hemachandra+Saindhavi--Prema_Desam.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Mathileka Pichiga",
+      "artists": [
+        "Ranjith",
+        "Chinmayee"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/03--Ranjith+Chinmayee--Mathileka_Pichiga.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Maha Rudhra Shakthi",
+      "artists": [
+        "Ranjith",
+        "Muralidhar",
+        "Hemachandra",
+        "Hanumantha Rao",
+        "Rita",
+        "Malavika",
+        "Saindhavi",
+        "vardhini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/04--Ranjith+Muralidhar+Hemachandra+Hanumantha_Rao+Rita+Malavika+Saindhavi+vardhini--Maha_Rudhra_Shakthi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Surro Surra",
+      "artists": [
+        "Javed Ali",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/05--Javed_Ali+Suchitra--Surro_Surra.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Yamaga Unde",
+      "artists": [
+        "Karunya",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/06--Karunya+Malavika--Yamaga_Unde.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Mahishasura Mardhini",
+      "artists": [
+        "Sri Vardhini",
+        "Sharath"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Shakti-2011/07--Sri_Vardhini+Sharath--Mahishasura_Mardhini.m4a"
+    }
+  ]
+}
