@@ -1,0 +1,88 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Deviputrudu",
+  "year": 2000,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Donga Donga",
+      "artists": [
+        "Shankar Mahadevan",
+        "Venkatesh",
+        "Soundarya",
+        "AnjalaJaveri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/01--Shankar_Mahadevan+Venkatesh+Soundarya+AnjalaJaveri--Donga_Donga.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Aakasham Loni",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra",
+        "Venkatesh",
+        "Soundarya",
+        "AnjalaJaveri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/02--S._P._Balasubrahmanyam+K._S._Chithra+Venkatesh+Soundarya+AnjalaJaveri--Aakasham_Loni.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Okata Renda",
+      "artists": [
+        "Sukhwinder Singh",
+        "Swarnalatha",
+        "Venkatesh",
+        "Soundarya",
+        "AnjalaJaveri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/03--Sukhwinder_Singh+Swarnalatha+Venkatesh+Soundarya+AnjalaJaveri--Okata_Renda.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Tella Tellani Cheera",
+      "artists": [
+        "Udit Narayan",
+        "Sujatha",
+        "Venkatesh",
+        "Soundarya",
+        "AnjalaJaveri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/04--Udit_Narayan+Sujatha+Venkatesh+Soundarya+AnjalaJaveri--Tella_Tellani_Cheera.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Oh Prema",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Prasanna",
+        "Venkatesh",
+        "Soundarya",
+        "AnjalaJaveri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/05--S._P._Balasubrahmanyam+Prasanna+Venkatesh+Soundarya+AnjalaJaveri--Oh_Prema.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Rama Oh Rama",
+      "artists": [
+        "Shankar Mahadevan",
+        "Venkatesh",
+        "Soundarya",
+        "AnjalaJaveri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/06--Shankar_Mahadevan+Venkatesh+Soundarya+AnjalaJaveri--Rama_Oh_Rama.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Keratala",
+      "artists": [
+        "Venkatesh",
+        "Soundarya",
+        "Anjala Javeri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/07--Venkatesh+Soundarya+Anjala_Javeri--Keratala.m4a"
+    }
+  ]
+}

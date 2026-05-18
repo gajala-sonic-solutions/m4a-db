@@ -1121,6 +1121,14 @@
       "tracksFile": "albums/HJ-Cheli-2001.json"
     },
     {
+      "id": "MS-Deviputrudu-2000",
+      "artist": "Mani Sharma",
+      "title": "Deviputrudu",
+      "year": 2000,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Deviputrudu-2000/cover.webp",
+      "tracksFile": "albums/MS-Deviputrudu-2000.json"
+    },
+    {
       "id": "MS-Annayya-2000",
       "artist": "Mani Sharma",
       "title": "Annayya",
