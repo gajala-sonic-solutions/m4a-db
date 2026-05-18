@@ -1,0 +1,59 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Teenmaar",
+  "year": 2011,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Aale Bale",
+      "artists": [
+        "Hemachandra",
+        "Shravana Bhargavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/01--Hemachandra+Shravana_Bhargavi--Aale_Bale.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Vayyarala",
+      "artists": [
+        "Karunya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/02--Karunya--Vayyarala.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chiguru Bhoniya",
+      "artists": [
+        "Vishwa"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/03--Vishwa--Chiguru_Bhoniya.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Sri Ganga",
+      "artists": [
+        "Hemachandra",
+        "Srivardhini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/04--Hemachandra+Srivardhini--Sri_Ganga.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Barbi Bommaki",
+      "artists": [
+        "Benny Dayal",
+        "Shravana Bhargavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/05--Benny_Dayal+Shravana_Bhargavi--Barbi_Bommaki.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Gelupu Thalupule",
+      "artists": [
+        "Sri Rama Chandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Teenmaar-2011/06--Sri_Rama_Chandra--Gelupu_Thalupule.m4a"
+    }
+  ]
+}
