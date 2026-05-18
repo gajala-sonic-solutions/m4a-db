@@ -1,0 +1,59 @@
+{
+  "artist": "M4A -Mani Sharma",
+  "album": "Samarasimha Reddy",
+  "year": 1999,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nandamoori Nayaka",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/01--S._P._Balasubrahmanyam+K._S._Chithra--Nandamoori_Nayaka.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Andala Ada Bomma",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/02--Mani_Sharma--Andala_Ada_Bomma.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Lady Lady",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/03--Mani_Sharma--Lady_Lady.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ravaya Muddula Mama",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/04--S._P._Balasubrahmanyam+K._S._Chithra--Ravaya_Muddula_Mama.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chaliga Undannadey",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/05--S._P._Balasubrahmanyam+K._S._Chithra--Chaliga_Undannadey.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Adisa Babba",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/06--Mani_Sharma--Adisa_Babba.m4a"
+    }
+  ]
+}

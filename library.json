@@ -1297,6 +1297,14 @@
       "tracksFile": "albums/MS-Annayya-2000.json"
     },
     {
+      "id": "MS-Samarasimha-Reddy-1999",
+      "artist": "M4A -Mani Sharma",
+      "title": "Samarasimha Reddy",
+      "year": 1999,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Samarasimha-Reddy-1999/cover.webp",
+      "tracksFile": "albums/MS-Samarasimha-Reddy-1999.json"
+    },
+    {
       "id": "MS-Choodalani-Undi-1998",
       "artist": "Mani Sharma",
       "title": "Choodalani Undi",
