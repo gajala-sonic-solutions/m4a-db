@@ -1,0 +1,59 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Seenu",
+  "year": 1999,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Aatakundo Time",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/01--Shankar_Mahadevan--Aatakundo_Time.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Premante Yemitante",
+      "artists": [
+        "Hariharan",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/02--Hariharan+Sujatha--Premante_Yemitante.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Alloneredu Kalla",
+      "artists": [
+        "Parthasarathy",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/03--Parthasarathy+K._S._Chithra--Alloneredu_Kalla.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Yekommakakomma",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/04--S._P._Balasubrahmanyam--Yekommakakomma.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Yemani Cheppanu",
+      "artists": [
+        "Hariharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/05--Hariharan--Yemani_Cheppanu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "O Manali",
+      "artists": [
+        "Swarnalatha",
+        "sangeeth sajit"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/06--Swarnalatha+sangeeth_sajit--O_Manali.m4a"
+    }
+  ]
+}

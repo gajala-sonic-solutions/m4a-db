@@ -1297,6 +1297,14 @@
       "tracksFile": "albums/MS-Annayya-2000.json"
     },
     {
+      "id": "MS-Seenu-1999",
+      "artist": "Mani Sharma",
+      "title": "Seenu",
+      "year": 1999,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Seenu-1999/cover.webp",
+      "tracksFile": "albums/MS-Seenu-1999.json"
+    },
+    {
       "id": "MS-Samarasimha-Reddy-1999",
       "artist": "M4A -Mani Sharma",
       "title": "Samarasimha Reddy",
