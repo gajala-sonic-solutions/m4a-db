@@ -1,0 +1,44 @@
+{
+  "artist": "Mani Sharma",
+  "album": "LIE",
+  "year": 2017,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-LIE-2017/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bombhaat",
+      "artists": [
+        "Rahul Sipligunj",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-LIE-2017/01--Rahul_Sipligunj+Ramya_Behara--Bombhaat.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Miss Sunshine",
+      "artists": [
+        "Anurag Kulkarni",
+        "Sinduri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-LIE-2017/02--Anurag_Kulkarni+Sinduri--Miss_Sunshine.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Laggam Time",
+      "artists": [
+        "Sai Charan",
+        "Sahithi Chaganti"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-LIE-2017/03--Sai_Charan+Sahithi_Chaganti--Laggam_Time.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Freedom",
+      "artists": [
+        "Anurag Kulkarni",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-LIE-2017/04--Anurag_Kulkarni+Ramya_Behara--Freedom.m4a"
+    }
+  ]
+}

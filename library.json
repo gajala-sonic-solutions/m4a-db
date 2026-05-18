@@ -337,6 +337,14 @@
       "tracksFile": "albums/CB-Rx-100-2018.json"
     },
     {
+      "id": "MS-LIE-2017",
+      "artist": "Mani Sharma",
+      "title": "LIE",
+      "year": 2017,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-LIE-2017/cover.webp",
+      "tracksFile": "albums/MS-LIE-2017.json"
+    },
+    {
       "id": "SK-Raja-The-Great-2017",
       "artist": "Sai Karthik",
       "title": "Raja The Great",
