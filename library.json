@@ -249,6 +249,14 @@
       "tracksFile": "albums/JP-dear-comrade.json"
     },
     {
+      "id": "MS-Devadas-2018",
+      "artist": "Mani Sharma",
+      "title": "Devadas",
+      "year": 2018,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/cover.webp",
+      "tracksFile": "albums/MS-Devadas-2018.json"
+    },
+    {
       "id": "MMK-Savyasachi-2018",
       "artist": "M M Keeravaani",
       "title": "Savyasachi",

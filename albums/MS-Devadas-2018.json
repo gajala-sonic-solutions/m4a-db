@@ -1,0 +1,69 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Devadas",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Vaaru Veeru",
+      "artists": [
+        "Anurag Kulkarni",
+        "Anjana Sowmya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/01--Anurag_Kulkarni+Anjana_Sowmya--Vaaru_Veeru.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chettu Kinda Doctor",
+      "artists": [
+        "Padma Latha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/02--Padma_Latha--Chettu_Kinda_Doctor.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Laka Laka Lakumikara",
+      "artists": [
+        "Anurag Kulkarni",
+        "Sri Krishna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/03--Anurag_Kulkarni+Sri_Krishna--Laka_Laka_Lakumikara.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Hey Babu",
+      "artists": [
+        "Karthik",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/04--Karthik+Ramya_Behara--Hey_Babu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Emo Emo Emo",
+      "artists": [
+        "Sid Sriram",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/05--Sid_Sriram+Ramya_Behara--Emo_Emo_Emo.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manasedo Vethukuthu Undi",
+      "artists": [
+        "Yazin Nizar",
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/06--Yazin_Nizar+Anurag_Kulkarni--Manasedo_Vethukuthu_Undi.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Emo Emo Emoo",
+      "artists": [
+        "P V N S Rohit"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Devadas-2018/07--P_V_N_S_Rohit--Emo_Emo_Emoo.m4a"
+    }
+  ]
+}
