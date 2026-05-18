@@ -1193,6 +1193,14 @@
       "tracksFile": "albums/HJ-Vaasu-2002.json"
     },
     {
+      "id": "MS-Murari-2001",
+      "artist": "Mani Sharma",
+      "title": "Murari",
+      "year": 2001,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/cover.webp",
+      "tracksFile": "albums/MS-Murari-2001.json"
+    },
+    {
       "id": "MS-Kushi-2001",
       "artist": "Mani Sharma",
       "title": "Kushi",

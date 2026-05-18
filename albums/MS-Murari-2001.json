@@ -1,0 +1,68 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Murari",
+  "year": 2001,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ekkada Ekkada",
+      "artists": [
+        "S P Charan",
+        "Harini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/01--S._P._Charan+Harini--Ekkada_Ekkada.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Bangaru Kalla",
+      "artists": [
+        "Udit Narayan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/02--Udit_Narayan--Bangaru_Kalla.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Cheppamma",
+      "artists": [
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/03--K._S._Chithra--Cheppamma.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Dum Dum Dum",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/04--Mani_Sharma--Dum_Dum_Dum.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Andhanikey",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/05--Shankar_Mahadevan--Andhanikey.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Bhama Bhama",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Anuradha Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/06--S._P._Balasubrahmanyam+Anuradha_Sriram--Bhama_Bhama.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Alanati Ramachandrudu",
+      "artists": [
+        "Jikki",
+        "Sunitha",
+        "Sandhya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Murari-2001/07--Jikki+Sunitha+Sandhya--Alanati_Ramachandrudu.m4a"
+    }
+  ]
+}
