@@ -1,0 +1,71 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Narasimhudu",
+  "year": 2005,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Singu Singu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/01--S._P._Balasubrahmanyam+K._S._Chithra--Singu_Singu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Yeluko Nayaka",
+      "artists": [
+        "Mallikarjun",
+        "Ganga"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/02--Mallikarjun+Ganga--Yeluko_Nayaka.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Muddula Gopala",
+      "artists": [
+        "Udit Narayan",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/03--Udit_Narayan+Shreya_Ghoshal--Muddula_Gopala.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Slokam",
+      "artists": [
+        "VARIOUS ARTISTS"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/04--VARIOUS_ARTISTS--Slokam.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Rajamandrike",
+      "artists": [
+        "Shankar Mahadevan",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/05--Shankar_Mahadevan+Suchitra--Rajamandrike.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Muddoche Kopalu",
+      "artists": [
+        "Karthik",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/06--Karthik+Maha_Lakshmi--Muddoche_Kopalu.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Krishnamurariki",
+      "artists": [
+        "Tippu",
+        "Sunitha",
+        "Kousalya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Narasimhudu-2005/07--Tippu+Sunitha+Kousalya--Krishnamurariki.m4a"
+    }
+  ]
+}
