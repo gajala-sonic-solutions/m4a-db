@@ -1,0 +1,54 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Gentleman",
+  "year": 2016,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gentleman-2016/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Chali Gaali Chuudduu",
+      "artists": [
+        "Haricharan",
+        "Padmalatha",
+        "Malavika U S"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gentleman-2016/01--Haricharan+Padmalatha+Malavika_U.S--Chali_Gaali_Chuudduu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gusa Gusa Lade",
+      "artists": [
+        "Karthik",
+        "Pranavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gentleman-2016/02--Karthik+Pranavi--Gusa_Gusa_Lade.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dintaka Dintaka",
+      "artists": [
+        "Rahul",
+        "Umaneha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gentleman-2016/03--Rahul+Umaneha--Dintaka_Dintaka.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Saturday Night Fever",
+      "artists": [
+        "Narendra",
+        "Maneesha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gentleman-2016/04--Narendra+Maneesha--Saturday_Night_Fever.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Gusa Gusa Lade 2",
+      "artists": [
+        "Sri Krishna",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gentleman-2016/05--Sri_Krishna+Sujatha--Gusa_Gusa_Lade_2.m4a"
+    }
+  ]
+}
