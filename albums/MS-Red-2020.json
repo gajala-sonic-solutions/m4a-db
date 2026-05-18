@@ -1,0 +1,51 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Red",
+  "year": 2020,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Red-2020/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Nuvve Nuvve",
+      "artists": [
+        "Ramya Behara",
+        "Anurag Kulkarni",
+        "Mani Sharma",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Red-2020/01--Ramya_Behara+Anurag_Kulkarni+Mani_Sharma+Sirivennela_Sitaramasastri--Nuvve_Nuvve.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Kaun Acha Kaun Lucha",
+      "artists": [
+        "Anurag Kulkarni",
+        "Mani Sharma",
+        "Kalyan Chakravarthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Red-2020/02--Anurag_Kulkarni+Mani_Sharma+Kalyan_Chakravarthy--Kaun_Acha_Kaun_Lucha.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dinchak",
+      "artists": [
+        "Saketh",
+        "Keerthana Sharma",
+        "Mani Sharma",
+        "Kasarala Shyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Red-2020/03--Saketh+Keerthana_Sharma+Mani_Sharma+Kasarala_Shyam--Dinchak.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Mounanga Unna",
+      "artists": [
+        "Dinker",
+        "Nutana Mohan",
+        "Mani Sharma",
+        "Sirivennela Sitaramasastri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Red-2020/04--Dinker+Nutana_Mohan+Mani_Sharma+Sirivennela_Sitaramasastri--Mounanga_Unna.m4a"
+    }
+  ]
+}

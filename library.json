@@ -177,6 +177,14 @@
       "tracksFile": "albums/JP-Meenakshi-Sundareshwar-2021.json"
     },
     {
+      "id": "MS-Red-2020",
+      "artist": "Mani Sharma",
+      "title": "Red",
+      "year": 2020,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Red-2020/cover.webp",
+      "tracksFile": "albums/MS-Red-2020.json"
+    },
+    {
       "id": "MS-Ismart-Shankar-2019",
       "artist": "Mani Sharma",
       "title": "Ismart Shankar",
