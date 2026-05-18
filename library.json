@@ -881,6 +881,14 @@
       "tracksFile": "albums/HJ-Ghatikudu-2009.json"
     },
     {
+      "id": "MS-Kantri-2008",
+      "artist": "Mani Sharma",
+      "title": "Kantri",
+      "year": 2008,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/cover.webp",
+      "tracksFile": "albums/MS-Kantri-2008.json"
+    },
+    {
       "id": "HZ-Kung-Fu-Panda-2008",
       "artist": "Hans Zimmer",
       "title": "Kung Fu Panda",

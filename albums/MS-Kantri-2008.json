@@ -1,0 +1,62 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Kantri",
+  "year": 2008,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "123 Nenoka Kantri",
+      "artists": [
+        "Jr NTR",
+        "Karunya"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/01--Jr.NTR+Karunya--123_Nenoka_Kantri.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ammaho",
+      "artists": [
+        "Karthik",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/02--Karthik+K._S._Chithra--Ammaho.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vayasunami",
+      "artists": [
+        "Hemachandra",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/03--Hemachandra+Sunitha--Vayasunami.m4a"
+    },
+    {
+      "track": 4,
+      "title": "I Go Crazy",
+      "artists": [
+        "Rahul Nambiar",
+        "Jey"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/04--Rahul_Nambiar+Jey--I_Go_Crazy.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Jantar Mantar",
+      "artists": [
+        "Ranjith",
+        "Rita"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/05--Ranjith+Rita--Jantar_Mantar.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ramarey Ramarey",
+      "artists": [
+        "Shankar Mahadevan",
+        "Sunidhi Chauhan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kantri-2008/06--Shankar_Mahadevan+Sunidhi_Chauhan--Ramarey_Ramarey.m4a"
+    }
+  ]
+}
