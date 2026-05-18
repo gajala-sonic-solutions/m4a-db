@@ -1,0 +1,80 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Krishnam Vande Jagadgurum",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Arare Pasi Manasa",
+      "artists": [
+        "Sravana Bhargavi",
+        "Narendra",
+        "Mani Sharma",
+        "Sirivennela Seetharama Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/01--Sravana_Bhargavi+Narendra+Mani_Sharma+Sirivennela_Seetharama_Sastry--Arare_Pasi_Manasa.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Sai Andri Nanu Sai Antira",
+      "artists": [
+        "Shreya Ghoshal",
+        "Mani Sharma",
+        "E S Murthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/02--Shreya_Ghoshal+Mani_Sharma+E._S._Murthy--Sai_Andri_Nanu_Sai_Antira.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Jaruguthunnaadi",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Mani Sharma",
+        "Sirivennela Seetharama Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/03--S._P._Balasubrahmanyam+Mani_Sharma+Sirivennela_Seetharama_Sastry--Jaruguthunnaadi.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Spicy Spicy Girl",
+      "artists": [
+        "Hemachandra",
+        "Sravana Bhargavi",
+        "Mani Sharma",
+        "Sirivennela Seetharama Sastry"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/04--Hemachandra+Sravana_Bhargavi+Mani_Sharma+Sirivennela_Seetharama_Sastry--Spicy_Spicy_Girl.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Rangamarthanda",
+      "artists": [
+        "Hemachandra",
+        "Raghu Babu",
+        "Mani Sharma",
+        "B Sai Madhav"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/05--Hemachandra+Raghu_Babu+Mani_Sharma+B._Sai_Madhav--Rangamarthanda.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Chal Chal Chal",
+      "artists": [
+        "Johana",
+        "Mani Sharma",
+        "B Sai Madhav"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/06--Johana+Mani_Sharma+B._Sai_Madhav--Chal_Chal_Chal.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Krishnam Vande Jagadgurum Theme Instrumental",
+      "artists": [
+        "Mani Sharma",
+        "Traditional"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-KVJ-2012/07--Mani_Sharma+Traditional--Krishnam_Vande_Jagadgurum_Theme_Instrumental.m4a"
+    }
+  ]
+}
