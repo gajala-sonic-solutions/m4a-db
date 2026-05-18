@@ -1,0 +1,58 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Okkadu",
+  "year": 2002,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Hare Rama",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/01--Shankar_Mahadevan--Hare_Rama.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nuvvem Maya",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/02--Mani_Sharma--Nuvvem_Maya.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Cheppave Chirugali",
+      "artists": [
+        "Udit Narayan",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/03--Udit_Narayan+Sujatha--Cheppave_Chirugali.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Hay Rey Hai",
+      "artists": [
+        "Karthik",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/04--Karthik+K._S._Chithra--Hay_Rey_Hai.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Attarintiki",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/05--Mani_Sharma--Attarintiki.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Sahasam",
+      "artists": [
+        "Mallikarjun"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Okkadu-2002/06--Mallikarjun--Sahasam.m4a"
+    }
+  ]
+}
