@@ -673,6 +673,14 @@
       "tracksFile": "albums/KMR-Godavari-2013.json"
     },
     {
+      "id": "MS-Ongolu-Gittha-2012",
+      "artist": "Mani Sharma",
+      "title": "Ongolu Gittha",
+      "year": 2012,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/cover.webp",
+      "tracksFile": "albums/MS-Ongolu-Gittha-2012.json"
+    },
+    {
       "id": "MS-KVJ-2012",
       "artist": "Mani Sharma",
       "title": "Krishnam Vande Jagadgurum",
@@ -1199,14 +1207,6 @@
       "year": 2002,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Chennakesava-Reddy-2002/cover.webp",
       "tracksFile": "albums/MS-Chennakesava-Reddy-2002.json"
-    },
-    {
-      "id": "HJ-Vaasu-2002",
-      "artist": "Harris Jayaraj",
-      "title": "Vaasu",
-      "year": 2002,
-      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/HJ-Vaasu-2002/cover.webp",
-      "tracksFile": "albums/HJ-Vaasu-2002.json"
     },
     {
       "id": "HJ-Vaasu-2002",

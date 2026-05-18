@@ -1,0 +1,52 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Ongolu Gittha",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Yerra Mirapallo",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/01--Shankar_Mahadevan--Yerra_Mirapallo.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Raa Chilaka",
+      "artists": [
+        "G V Prakash Kumar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/02--G.V.Prakash_Kumar--Raa_Chilaka.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chal Challe",
+      "artists": [
+        "Narendra",
+        "Sahithi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/03--Narendra+Sahithi--Chal_Challe.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Yea Pilla",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/04--Ranjith--Yea_Pilla.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Mama Maraju",
+      "artists": [
+        "Ravi",
+        "Jai Srinivas Mouli",
+        "Gopal",
+        "John"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ongolu-Gittha-2012/05--Ravi+Jai_Srinivas_Mouli+Gopal+John--Mama_Maraju.m4a"
+    }
+  ]
+}
