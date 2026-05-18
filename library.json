@@ -953,6 +953,14 @@
       "tracksFile": "albums/HJ-Ghatikudu-2009.json"
     },
     {
+      "id": "MS-Parugu-2008",
+      "artist": "Mani Sharma",
+      "title": "Parugu",
+      "year": 2008,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/cover.webp",
+      "tracksFile": "albums/MS-Parugu-2008.json"
+    },
+    {
       "id": "MS-Kantri-2008",
       "artist": "Mani Sharma",
       "title": "Kantri",

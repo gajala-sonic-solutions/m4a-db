@@ -1,0 +1,57 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Parugu",
+  "year": 2008,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Parugu",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/01--Ranjith--Parugu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Nammavemo",
+      "artists": [
+        "Saketh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/02--Saketh--Nammavemo.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Elegeylaga",
+      "artists": [
+        "Kailash Kher",
+        "Saindhavi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/03--Kailash_Kher+Saindhavi--Elegeylaga.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chal Chal",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/04--Ranjith--Chal_Chal.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hrudhayam",
+      "artists": [
+        "Hemachandra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/05--Hemachandra--Hrudhayam.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manakannapodichey",
+      "artists": [
+        "Rahul Nambiar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Parugu-2008/06--Rahul_Nambiar--Manakannapodichey.m4a"
+    }
+  ]
+}
