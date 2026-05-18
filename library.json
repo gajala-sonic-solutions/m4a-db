@@ -841,6 +841,14 @@
       "tracksFile": "albums/AR-Prema-Kavali-2011.json"
     },
     {
+      "id": "MS-Varudu-2010",
+      "artist": "Mani Sharma",
+      "title": "Varudu",
+      "year": 2010,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/cover.webp",
+      "tracksFile": "albums/MS-Varudu-2010.json"
+    },
+    {
       "id": "MS-Don-Seenu-2010",
       "artist": "Mani Sharma",
       "title": "Don Seenu",

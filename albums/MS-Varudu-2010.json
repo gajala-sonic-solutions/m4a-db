@@ -1,0 +1,73 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Varudu",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Saare Jahaa Premaa Yahaa",
+      "artists": [
+        "Benny Dayal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/01--Benny_Dayal--Saare_Jahaa_Premaa_Yahaa.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Aidhurojula Pelli",
+      "artists": [
+        "Hemachandra",
+        "Ranjith",
+        "Jamuna Rani",
+        "Malavika",
+        "Sunandha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/02--Hemachandra+Ranjith+Jamuna_Rani+Malavika+Sunandha--Aidhurojula_Pelli.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Kalalu Kaavule",
+      "artists": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/03--Hemachandra+Malavika--Kalalu_Kaavule.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Thalambraalatho",
+      "artists": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/04--Hemachandra+Malavika--Thalambraalatho.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Bahusha Vo Chanchalaa",
+      "artists": [
+        "Sonu Nigam",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/05--Sonu_Nigam+Shreya_Ghoshal--Bahusha_Vo_Chanchalaa.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Aidhurojula Pelli 2",
+      "artists": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/06--Hemachandra+Malavika--Aidhurojula_Pelli_2.m4a"
+    },
+    {
+      "track": 7,
+      "title": "Relaare Relaare",
+      "artists": [
+        "Karthik",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Varudu-2010/07--Karthik+Geetha_Madhuri--Relaare_Relaare.m4a"
+    }
+  ]
+}
