@@ -1,0 +1,53 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Kushi",
+  "year": 2001,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kushi-2001/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ye Mera Jaha",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kushi-2001/01--KK--Ye_Mera_Jaha.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Ammaye",
+      "artists": [
+        "Udit Narayan",
+        "Kavitha Subramanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kushi-2001/02--Udit_Narayan+Kavitha_Subramanyam--Ammaye.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Cheliya",
+      "artists": [
+        "Jeans Srinivas",
+        "Harini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kushi-2001/03--Jeans_Srinivas+Harini--Cheliya.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Premante",
+      "artists": [
+        "Devan",
+        "Kalpana Raghavendar",
+        "Samatha Fernander"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kushi-2001/04--Devan+Kalpana_Raghavendar+Samatha_Fernander--Premante.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Holi Holi",
+      "artists": [
+        "Mano",
+        "Swarnalatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Kushi-2001/05--Mano+Swarnalatha--Holi_Holi.m4a"
+    }
+  ]
+}
