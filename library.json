@@ -889,14 +889,6 @@
       "tracksFile": "albums/SG-Bheemili-Kabaddi-Jattu-2010.json"
     },
     {
-      "id": "SG-Bheemili-Kabaddi-Jattu-2010",
-      "artist": "Selva Ganesh",
-      "title": "Bheemili Kabaddi Jattu",
-      "year": 2010,
-      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/SG-Bheemili-Kabaddi-Jattu-2010/cover.webp",
-      "tracksFile": "albums/SG-Bheemili-Kabaddi-Jattu-2010.json"
-    },
-    {
       "id": "HJ-Orange-2010",
       "artist": "Harris Jayaraj",
       "title": "Orange",
@@ -1231,6 +1223,14 @@
       "year": 2004,
       "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/KMR-Anand-2004/cover.webp",
       "tracksFile": "albums/KMR-Anand-2004.json"
+    },
+    {
+      "id": "MS-Tagore-2003",
+      "artist": "Mani Sharma",
+      "title": "Tagore",
+      "year": 2003,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/cover.webp",
+      "tracksFile": "albums/MS-Tagore-2003.json"
     },
     {
       "id": "MMK-Simhadri-2003",

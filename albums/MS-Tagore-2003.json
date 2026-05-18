@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Tagore",
+  "year": 2003,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Kodithe Kottali",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/01--Shankar_Mahadevan--Kodithe_Kottali.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gappu Chippu",
+      "artists": [
+        "Mano",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/02--Mano+K._S._Chithra--Gappu_Chippu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Vanochhenante",
+      "artists": [
+        "Udit Narayan",
+        "Shreya Ghoshal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/03--Udit_Narayan+Shreya_Ghoshal--Vanochhenante.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nenusaitham",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/04--S._P._Balasubrahmanyam--Nenusaitham.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Chinnaga Chinnaga",
+      "artists": [
+        "Hariharan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/05--Hariharan+K._S._Chithra--Chinnaga_Chinnaga.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Manmadha",
+      "artists": [
+        "Mallikarjun",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Tagore-2003/06--Mallikarjun+Maha_Lakshmi--Manmadha.m4a"
+    }
+  ]
+}
