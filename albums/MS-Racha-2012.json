@@ -1,0 +1,44 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Racha",
+  "year": 2012,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Racha-2012/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Rachcha",
+      "artists": [
+        "Deepu",
+        "Chorus"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Racha-2012/01--Deepu+Chorus--Rachcha.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Dillaku Dillaku",
+      "artists": [
+        "Tippu",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Racha-2012/02--Tippu+Geetha_Madhuri--Dillaku_Dillaku.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Oka Padam",
+      "artists": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Racha-2012/03--Hemachandra+Malavika--Oka_Padam.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Singareniundhi",
+      "artists": [
+        "Sukhwinder Singh",
+        "Sahithi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Racha-2012/04--Sukhwinder_Singh+Sahithi--Singareniundhi.m4a"
+    }
+  ]
+}
