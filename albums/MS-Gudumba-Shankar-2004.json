@@ -1,0 +1,61 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Gudumba Shankar",
+  "year": 2004,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Le Le Lele",
+      "artists": [
+        "KK"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/01--KK--Le_Le_Lele.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Chiguraku Chatu",
+      "artists": [
+        "S P Charan",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/02--S._P._Charan+Sujatha--Chiguraku_Chatu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chilakamma Mukkuki",
+      "artists": [
+        "Karthik",
+        "Srivardhini",
+        "Hanumantha Rao"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/03--Karthik+Srivardhini+Hanumantha_Rao--Chilakamma_Mukkuki.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Chitti Nadumune",
+      "artists": [
+        "Mallikarjun",
+        "Premji RapVocals"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/04--Mallikarjun+Premji_RapVocals--Chitti_Nadumune.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Emantaro",
+      "artists": [
+        "S P Charan",
+        "Harini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/05--S._P._Charan+Harini--Emantaro.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Killi Killi",
+      "artists": [
+        "Mallikarjun"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Gudumba-Shankar-2004/06--Mallikarjun--Killi_Killi.m4a"
+    }
+  ]
+}
