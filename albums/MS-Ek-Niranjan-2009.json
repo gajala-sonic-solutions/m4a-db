@@ -1,0 +1,59 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Ek Niranjan",
+  "year": 2009,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ek Niranjan",
+      "artists": [
+        "Ranjith"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/01--Ranjith--Ek_Niranjan.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Gundello",
+      "artists": [
+        "Hemachandra",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/02--Hemachandra+Geetha_Madhuri--Gundello.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Sameera",
+      "artists": [
+        "Karthik"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/03--Karthik--Sameera.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Evarulerani",
+      "artists": [
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/04--Malavika--Evarulerani.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Mahammari",
+      "artists": [
+        "Kalyan Vasanth",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/05--Kalyan_Vasanth+Geetha_Madhuri--Mahammari.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Narthana Thara",
+      "artists": [
+        "Ranjith",
+        "Neelu"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ek-Niranjan-2009/06--Ranjith+Neelu--Narthana_Thara.m4a"
+    }
+  ]
+}
