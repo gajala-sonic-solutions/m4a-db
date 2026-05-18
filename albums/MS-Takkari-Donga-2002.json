@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Takkari Donga",
+  "year": 2002,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Naluguriki",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/01--Shankar_Mahadevan--Naluguriki.m4a"
+    },
+    {
+      "track": 2,
+      "title": "He Mama Mama",
+      "artists": [
+        "Tippu",
+        "Kalpana"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/02--Tippu+Kalpana--He_Mama_Mama.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Chukkalo Chandrude",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Prasanna"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/03--S._P._Balasubrahmanyam+Prasanna--Chukkalo_Chandrude.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Theme Music",
+      "artists": [
+        "Mani Sharma"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/04--Mani_Sharma--Theme_Music.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Aleba Aleba",
+      "artists": [
+        "KK",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/05--KK+Kalpana_Raghavendar--Aleba_Aleba.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Bagundammo",
+      "artists": [
+        "S P Charan",
+        "Usha Munukutla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/06--S.P._Charan+Usha_Munukutla--Bagundammo.m4a"
+    }
+  ]
+}

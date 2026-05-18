@@ -1257,6 +1257,14 @@
       "tracksFile": "albums/MMK-Gangothri-2003.json"
     },
     {
+      "id": "MS-Takkari-Donga-2002",
+      "artist": "Mani Sharma",
+      "title": "Takkari Donga",
+      "year": 2002,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Takkari-Donga-2002/cover.webp",
+      "tracksFile": "albums/MS-Takkari-Donga-2002.json"
+    },
+    {
       "id": "MS-Okkadu-2002",
       "artist": "Mani Sharma",
       "title": "Okkadu",
