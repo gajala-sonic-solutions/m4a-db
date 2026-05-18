@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Stalin",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Go Go Goa",
+      "artists": [
+        "Ranjith",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/01--Ranjith+Maha_Lakshmi--Go_Go_Goa.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Siggu Thochi",
+      "artists": [
+        "Hariharan",
+        "Sadhana Sargam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/02--Hariharan+Sadhana_Sargam--Siggu_Thochi.m4a"
+    },
+    {
+      "track": 3,
+      "title": "I Want A",
+      "artists": [
+        "Naveen",
+        "Rita"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/03--Naveen+Rita--I_Want_A.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Tauba Tauba",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sunitha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/04--S._P._Balasubrahmanyam+Sunitha--Tauba_Tauba.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Sooryudinye",
+      "artists": [
+        "S P Balasubrahmanyam"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/05--S._P._Balasubrahmanyam--Sooryudinye.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Parare Parare",
+      "artists": [
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Stalin-2006/06--Shankar_Mahadevan--Parare_Parare.m4a"
+    }
+  ]
+}
