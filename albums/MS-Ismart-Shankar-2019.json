@@ -1,0 +1,52 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Ismart Shankar",
+  "year": 2019,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ismart Title Song",
+      "artists": [
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/01--Anurag_Kulkarni--Ismart_Title_Song.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Dimaak Kharaab",
+      "artists": [
+        "Keerthana Sharma",
+        "Saketh"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/02--Keerthana_Sharma+Saketh--Dimaak_Kharaab.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Zindabad Zindabad",
+      "artists": [
+        "Sarath Santhosh",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/03--Sarath_Santhosh+Ramya_Behara--Zindabad_Zindabad.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Bonalu",
+      "artists": [
+        "Rahul Sipligunj",
+        "Mohana Bhogaraju"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/04--Rahul_Sipligunj+Mohana_Bhogaraju--Bonalu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Undipo",
+      "artists": [
+        "Anurag Kulkarni",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/05--Anurag_Kulkarni+Ramya_Behara--Undipo.m4a"
+    }
+  ]
+}

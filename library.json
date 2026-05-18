@@ -177,6 +177,14 @@
       "tracksFile": "albums/JP-Meenakshi-Sundareshwar-2021.json"
     },
     {
+      "id": "MS-Ismart-Shankar-2019",
+      "artist": "Mani Sharma",
+      "title": "Ismart Shankar",
+      "year": 2019,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ismart-Shankar-2019/cover.webp",
+      "tracksFile": "albums/MS-Ismart-Shankar-2019.json"
+    },
+    {
       "id": "MSS-Bheeshma-2019",
       "artist": "Mahati Swara Sagar",
       "title": "Bheeshma",
