@@ -1121,6 +1121,14 @@
       "tracksFile": "albums/MS-Annayya-2000.json"
     },
     {
+      "id": "MS-Choodalani-Undi-1998",
+      "artist": "Mani Sharma",
+      "title": "Choodalani Undi",
+      "year": 1998,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/cover.webp",
+      "tracksFile": "albums/MS-Choodalani-Undi-1998.json"
+    },
+    {
       "id": "MMK-Annamayya-1997",
       "artist": "M M Keeravaani",
       "title": "Annamayya",

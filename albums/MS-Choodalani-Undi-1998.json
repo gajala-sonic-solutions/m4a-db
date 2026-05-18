@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Choodalani Undi",
+  "year": 1998,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Ramma Chilakamma",
+      "artists": [
+        "Udit Narayan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/01--Udit_Narayan--Ramma_Chilakamma.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Yamaha Nagari",
+      "artists": [
+        "Hariharan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/02--Hariharan--Yamaha_Nagari.m4a"
+    },
+    {
+      "track": 3,
+      "title": "O Maria",
+      "artists": [
+        "Shankar Mahadevan",
+        "Kavita Krishnamurthy"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/03--Shankar_Mahadevan+Kavita_Krishnamurthy--O_Maria.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Simbaley Simbaley",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/04--S._P._Balasubrahmanyam+K._S._Chithra--Simbaley_Simbaley.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Manasa Ekkadunnavu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/05--S._P._Balasubrahmanyam+Sujatha--Manasa_Ekkadunnavu.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ababba Iddu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Sujatha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Choodalani-Undi-1998/06--S._P._Balasubrahmanyam+Sujatha--Ababba_Iddu.m4a"
+    }
+  ]
+}
