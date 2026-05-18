@@ -1,0 +1,60 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Ranam",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Cheli Jabili",
+      "artists": [
+        "Naveen",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/01--Naveen+Suchitra--Cheli_Jabili.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Varevva",
+      "artists": [
+        "Mallikarjun",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/02--Mallikarjun+Maha_Lakshmi--Varevva.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Gana Gana Gana",
+      "artists": [
+        "KK",
+        "Sangeetha"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/03--KK+Sangeetha--Gana_Gana_Gana.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Nallani Mabbu",
+      "artists": [
+        "vardhini"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/04--vardhini--Nallani_Mabbu.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Hey Chinna",
+      "artists": [
+        "Tippu",
+        "Anuradha Sriram"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/05--Tippu+Anuradha_Sriram--Hey_Chinna.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Bullui Gownu",
+      "artists": [
+        "Jessi Gift"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Ranam-2006/06--Jessi_Gift--Bullui_Gownu.m4a"
+    }
+  ]
+}
