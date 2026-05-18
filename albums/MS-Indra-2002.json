@@ -1,0 +1,62 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Indra",
+  "year": 2002,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Bham Bham Bole",
+      "artists": [
+        "Hariharan",
+        "Shankar Mahadevan"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/01--Hariharan+Shankar_Mahadevan--Bham_Bham_Bole.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Radhe Govinda",
+      "artists": [
+        "Udit Narayan",
+        "K S Chithra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/02--Udit_Narayan+K._S._Chithra--Radhe_Govinda.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Dai Dai Dhamma",
+      "artists": [
+        "KK",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/03--KK+Maha_Lakshmi--Dai_Dai_Dhamma.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ammadu Appachi",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Kalpana Raghavendar"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/04--S._P._Balasubrahmanyam+Kalpana_Raghavendar--Ammadu_Appachi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Ayyo Ayyo",
+      "artists": [
+        "Karthik",
+        "Usha Munukutla"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/05--Karthik+Usha_Munukutla--Ayyo_Ayyo.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Ghallu Ghallu",
+      "artists": [
+        "S P Balasubrahmanyam",
+        "Mallikarjun"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/06--S._P._Balasubrahmanyam+Mallikarjun--Ghallu_Ghallu.m4a"
+    }
+  ]
+}

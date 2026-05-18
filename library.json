@@ -1121,6 +1121,14 @@
       "tracksFile": "albums/MMK-Gangothri-2003.json"
     },
     {
+      "id": "MS-Indra-2002",
+      "artist": "Mani Sharma",
+      "title": "Indra",
+      "year": 2002,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Indra-2002/cover.webp",
+      "tracksFile": "albums/MS-Indra-2002.json"
+    },
+    {
       "id": "MS-Chennakesava-Reddy-2002",
       "artist": "Mani Sharma",
       "title": "Chennakesava Reddy",
