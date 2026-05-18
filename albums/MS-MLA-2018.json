@@ -1,0 +1,41 @@
+{
+  "artist": "Mani Sharma",
+  "album": "MLA",
+  "year": 2018,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-MLA-2018/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Most Wanted Abbayi",
+      "artists": [
+        "Yazin Nizar",
+        "Ramya Behara"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-MLA-2018/01--Yazin_Nizar+Ramya_Behara--Most_Wanted_Abbayi.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Hey Indu",
+      "artists": [
+        "Rahul Sipligunj"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-MLA-2018/02--Rahul_Sipligunj--Hey_Indu.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Girl Friend",
+      "artists": [
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-MLA-2018/03--Anurag_Kulkarni--Girl_Friend.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Yuddam Yuddam",
+      "artists": [
+        "Anurag Kulkarni"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-MLA-2018/04--Anurag_Kulkarni--Yuddam_Yuddam.m4a"
+    }
+  ]
+}
