@@ -1,0 +1,59 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Pokiri",
+  "year": 2006,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Noppi Noppi",
+      "artists": [
+        "Naveen"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/01--Naveen--Noppi_Noppi.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Dole Dole",
+      "artists": [
+        "Ranjith",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/02--Ranjith+Suchitra--Dole_Dole.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Gala Gala Paruthunna",
+      "artists": [
+        "Nihal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/03--Nihal--Gala_Gala_Paruthunna.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Ippatikinka",
+      "artists": [
+        "Muralidar",
+        "Suchitra"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/04--Muralidar+Suchitra--Ippatikinka.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Jagadame",
+      "artists": [
+        "Kunal Ganjawala"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/05--Kunal_Ganjawala--Jagadame.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Choododhu",
+      "artists": [
+        "Karthik",
+        "Maha Lakshmi"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Pokiri-2006/06--Karthik+Maha_Lakshmi--Choododhu.m4a"
+    }
+  ]
+}
