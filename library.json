@@ -761,6 +761,14 @@
       "tracksFile": "albums/AR-Prema-Kavali-2011.json"
     },
     {
+      "id": "MS-Don-Seenu-2010",
+      "artist": "Mani Sharma",
+      "title": "Don Seenu",
+      "year": 2010,
+      "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/cover.webp",
+      "tracksFile": "albums/MS-Don-Seenu-2010.json"
+    },
+    {
       "id": "MS-Khaleja-2010",
       "artist": "Mani Sharma",
       "title": "Khaleja [Deluxe]",

@@ -1,0 +1,61 @@
+{
+  "artist": "Mani Sharma",
+  "album": "Don Seenu",
+  "year": 2010,
+  "cover": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/cover.webp",
+  "tracks": [
+    {
+      "track": 1,
+      "title": "Aidhella Vayasu",
+      "artists": [
+        "Baba Sehgal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/01--Baba_Sehgal--Aidhella_Vayasu.m4a"
+    },
+    {
+      "track": 2,
+      "title": "Raja Raja Raviteja",
+      "artists": [
+        "Sri Krishna",
+        "Geetha Madhuri"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/02--Sri_Krishna+Geetha_Madhuri--Raja_Raja_Raviteja.m4a"
+    },
+    {
+      "track": 3,
+      "title": "Naa Yanakana",
+      "artists": [
+        "Venu",
+        "Rita",
+        "Bhargavi Pillaye"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/03--Venu+Rita+Bhargavi_Pillaye--Naa_Yanakana.m4a"
+    },
+    {
+      "track": 4,
+      "title": "Aduguthundhi",
+      "artists": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/04--Hemachandra+Malavika--Aduguthundhi.m4a"
+    },
+    {
+      "track": 5,
+      "title": "Andhamemo Istaraku",
+      "artists": [
+        "Hemachandra",
+        "Malavika"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/05--Hemachandra+Malavika--Andhamemo_Istaraku.m4a"
+    },
+    {
+      "track": 6,
+      "title": "Aidhella Vayasu Remix",
+      "artists": [
+        "Baba Sehgal"
+      ],
+      "url": "https://github.com/gajala-sonic-solutions/m4a-db/releases/download/MS-Don-Seenu-2010/06--Baba_Sehgal--Aidhella_Vayasu_Remix.m4a"
+    }
+  ]
+}
